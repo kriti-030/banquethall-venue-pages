@@ -52,7 +52,7 @@ const venue = {
   "name": "Park Inn by Radisson New Delhi Lajpat Nagar",
   "cityLocality": "Lajpat Nagar, New Delhi",
   "address": "1&2, Ring Rd, Vikram Vihar, Lajpat Nagar 4, Lajpat Nagar, New Delhi, Delhi 110024, India",
-  "phone": "+91 11 4651 5151",
+  "phone": "+91-8375967071",
   "rating": 5,
   "reviewCount": 2,
   "tags": null,
@@ -641,7 +641,11 @@ const ParkInnByRadissonLajpatNagar = () => {
             <span className="text-lg font-semibold">Call {venue.name}</span>
             <FaPhone className="text-green-500 text-2xl" />
           </div>
-          <p className="text-gray-800 text-lg mt-1">{venue.phone}</p>
+          <p className="text-gray-800 text-lg mt-1">
+            <a href="tel:+918375967071" className="hover:underline">
+              {venue.phone}
+            </a>
+          </p>
           {venue.showDemandBanner !== false && (
             <div className="mt-4 p-3 border border-blue-400 bg-blue-100 text-blue-600 rounded-lg flex items-center space-x-2">
               <span className="text-lg font-semibold">

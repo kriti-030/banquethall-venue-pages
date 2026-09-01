@@ -44,7 +44,7 @@ const venue = {
   "name": "Hilton Garden Inn New Delhi/Saket",
   "cityLocality": "Saket, New Delhi",
   "address": "A4, Saket District Centre, District Centre, Sector 6, Pushp Vihar, New Delhi, Delhi 110017, India",
-  "phone": "+91 11 3919 1919",
+  "phone": "+91-8375967071",
   "rating": 5,
   "reviewCount": 1,
   "tags": null,
@@ -631,7 +631,11 @@ const HiltonGardenInnSaket = () => {
             <span className="text-lg font-semibold">Call {venue.name}</span>
             <FaPhone className="text-green-500 text-2xl" />
           </div>
-          <p className="text-gray-800 text-lg mt-1">{venue.phone}</p>
+          <p className="text-gray-800 text-lg mt-1">
+            <a href="tel:+918375967071" className="hover:underline">
+              {venue.phone}
+            </a>
+          </p>
           {venue.showDemandBanner !== false && (
             <div className="mt-4 p-3 border border-blue-400 bg-blue-100 text-blue-600 rounded-lg flex items-center space-x-2">
               <span className="text-lg font-semibold">

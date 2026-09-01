@@ -21,7 +21,7 @@ const venue = {
   "name": "Radisson Blu Marina Hotel, Delhi Connaught Place",
   "cityLocality": "Connaught Place, New Delhi",
   "address": "G-59, Connaught Place, New Delhi, Delhi 110001, India",
-  "phone": "+91 11 4690 9090",
+  "phone": "+91-8375967071",
   "rating": null,
   "reviewCount": 0,
   "tags": null,

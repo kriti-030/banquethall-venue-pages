@@ -52,7 +52,7 @@ const venue = {
   "name": "Fortune Select Global, Gurgaon - Member ITC hotels' group",
   "cityLocality": "Sector 26, Gurugram",
   "address": "Global Arcade, Mehrauli-Gurgaon Rd, Sikanderpur, Sector 26, Gurugram, Haryana 122002, India",
-  "phone": "+91 124 419 6666",
+  "phone": "+91-8375967071",
   "rating": 4.8,
   "reviewCount": 11,
   "tags": null,

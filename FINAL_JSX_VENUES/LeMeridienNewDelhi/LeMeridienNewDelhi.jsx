@@ -68,7 +68,7 @@ const venue = {
   "name": "Le Méridien New Delhi",
   "cityLocality": "Connaught Place, New Delhi",
   "address": "Windsor Pl, Connaught Place, New Delhi, Delhi 110001, India",
-  "phone": "+91 11 4502 0200",
+  "phone": "+91-8375967071",
   "rating": 4.4,
   "reviewCount": 24,
   "tags": null,
@@ -657,7 +657,11 @@ const LeMeridienNewDelhi = () => {
             <span className="text-lg font-semibold">Call {venue.name}</span>
             <FaPhone className="text-green-500 text-2xl" />
           </div>
-          <p className="text-gray-800 text-lg mt-1">{venue.phone}</p>
+          <p className="text-gray-800 text-lg mt-1">
+            <a href="tel:+918375967071" className="hover:underline">
+              {venue.phone}
+            </a>
+          </p>
           {venue.showDemandBanner !== false && (
             <div className="mt-4 p-3 border border-blue-400 bg-blue-100 text-blue-600 rounded-lg flex items-center space-x-2">
               <span className="text-lg font-semibold">

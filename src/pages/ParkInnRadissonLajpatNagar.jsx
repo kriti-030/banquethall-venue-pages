@@ -38,7 +38,7 @@ const venue = {
   "name": "Park Inn by Radisson New Delhi Lajpat Nagar",
   "cityLocality": "Lajpat Nagar, New Delhi",
   "address": "1&2, Ring Rd, Vikram Vihar, Lajpat Nagar 4, Lajpat Nagar, New Delhi, Delhi 110024, India",
-  "phone": "+91 11 4651 5151",
+  "phone": "+91-8375967071",
   "rating": 5,
   "reviewCount": 2,
   "tags": null,

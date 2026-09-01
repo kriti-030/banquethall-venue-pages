@@ -54,7 +54,7 @@ const venue = {
   "name": "The Suryaa New Delhi",
   "cityLocality": "New Friends Colony, New Delhi",
   "address": "MMA Rd, New Friends Colony, New Delhi, Delhi 110025, India",
-  "phone": "+91 11 4780 8080",
+  "phone": "+91-8375967071",
   "rating": 4.8,
   "reviewCount": 8,
   "tags": null,

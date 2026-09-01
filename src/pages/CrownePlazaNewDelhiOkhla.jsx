@@ -54,7 +54,7 @@ const venue = {
   "name": "Crowne Plaza New Delhi Okhla by IHG",
   "cityLocality": "Okhla Industrial Estate, New Delhi",
   "address": "Community Centre, Plot No. 1, Pocket A, Okhla Phase I, Okhla Industrial Estate, New Delhi, Delhi 110020, India",
-  "phone": "+91 11 4646 2000",
+  "phone": "+91-8375967071",
   "rating": 5,
   "reviewCount": 11,
   "tags": null,

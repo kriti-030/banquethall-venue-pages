@@ -30,7 +30,7 @@ const venue = {
   "name": "Hilton Garden Inn New Delhi/Saket",
   "cityLocality": "Saket, New Delhi",
   "address": "A4, Saket District Centre, District Centre, Sector 6, Pushp Vihar, New Delhi, Delhi 110017, India",
-  "phone": "+91 11 3919 1919",
+  "phone": "+91-8375967071",
   "rating": 5,
   "reviewCount": 1,
   "tags": null,

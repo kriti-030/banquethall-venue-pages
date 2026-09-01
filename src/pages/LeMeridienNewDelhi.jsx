@@ -54,7 +54,7 @@ const venue = {
   "name": "Le Méridien New Delhi",
   "cityLocality": "Connaught Place, New Delhi",
   "address": "Windsor Pl, Connaught Place, New Delhi, Delhi 110001, India",
-  "phone": "+91 11 4502 0200",
+  "phone": "+91-8375967071",
   "rating": 4.4,
   "reviewCount": 24,
   "tags": null,

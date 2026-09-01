@@ -54,7 +54,7 @@ const venue = {
   "name": "Goldfinch Hotel Delhi NCR",
   "cityLocality": "Sector 39, Faridabad",
   "address": "74/2A, Lakkarpur, Sector 39, Faridabad, Haryana 121009, India",
-  "phone": "+91 129 424 9999",
+  "phone": "+91-8375967071",
   "rating": 4.2,
   "reviewCount": 6,
   "tags": null,
