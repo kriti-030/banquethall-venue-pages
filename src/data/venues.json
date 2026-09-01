@@ -1,0 +1,1206 @@
+{
+  "_meta": {
+    "source": "Google Maps / Google Hotels listings linked from provided share.google URLs",
+    "extractedOn": "2026-08-29",
+    "notes": "Banquet per-plate pricing sourced from wedding venue directories (Aug 2026). Google Hotels preferred for ratings/review counts where available."
+  },
+  "venues": [
+    {
+      "id": 1,
+      "slug": "le-meridien-new-delhi",
+      "googleShareLink": "https://share.google/ly8XJ5Bq3YcupcEfM",
+      "googleKgmid": "/g/12qgx01d9",
+      "name": "Le Méridien New Delhi",
+      "address": "Windsor Pl, Connaught Place, New Delhi, Delhi 110001, India",
+      "cityLocality": "Connaught Place, New Delhi",
+      "phone": "+91 11 4502 0200",
+      "rating": 4.4,
+      "ratingNote": null,
+      "reviewCount": 24,
+      "starClassification": "5-star hotel",
+      "tags": null,
+      "tagsNote": "Not available from source — BanquetHall wedding category tags not on Google listing",
+      "vegetarianPrice": 2700,
+      "nonVegetarianPrice": 3500,
+      "pricingNote": "Starting banquet per-plate prices excluding taxes (banquethalls.in)",
+      "shortDescription": "Le Méridien New Delhi is located in the heart of New Delhi; it is an iconic glass building recognised as one of the 100 Icons of Delhi and an ideal venue for weddings and events.",
+      "fullDescription": "The hotel offers over 20,200 square feet of event space with six meeting rooms, two ballrooms, and a boardroom that can host weddings and celebrations. It has 358 luxurious guest rooms. Vendors on the hotel panel provide flower decoration and DJ services.",
+      "fullDescriptionNote": null,
+      "amenities": [
+        "Pool",
+        "Spa",
+        "Parking (free)",
+        "Air conditioning"
+      ],
+      "checkIn": "3:00 PM",
+      "checkOut": "12:00 PM",
+      "neighborhood": "Windsor Place, New Delhi",
+      "images": [
+        "src/assets/Venuesphotos/le-meridien-new-delhi/venue1.jpeg",
+        "src/assets/Venuesphotos/le-meridien-new-delhi/venue2.jpeg",
+        "src/assets/Venuesphotos/le-meridien-new-delhi/venue3.jpeg",
+        "src/assets/Venuesphotos/le-meridien-new-delhi/venue4.jpeg",
+        "src/assets/Venuesphotos/le-meridien-new-delhi/venue5.jpeg",
+        "src/assets/Venuesphotos/le-meridien-new-delhi/venue6.jpeg"
+      ],
+      "imagesNote": "Google Hotels listing photos (Step 5 asset download)",
+      "googleReviewsSample": [
+        {
+          "name": "athiyab malik",
+          "rating": 5,
+          "review": "Hey... As the wedding took place during covid peak and venue was booked just 5 days before the wedding, it was a great experience with great hospitality and remarkable food. All our guests praised the food and service. I am glad that I took the right decision at the last moment to have my wedding at Le Meridien.",
+          "eventDate": null,
+          "pax": null,
+          "verified": true,
+          "source": "wedmegood.com"
+        },
+        {
+          "name": "nivea chugh",
+          "rating": 4,
+          "review": "We held our 2 day wedding functions here and after looking at every 5 star in Delhi - NCR, we shortlisted le meridien for the grandeur of the property. The best part about the hotel was the delicious food served by them - the food was the highlight of the 2 day event - praised and loved by everyone. Worth the money spent.",
+          "eventDate": null,
+          "pax": null,
+          "verified": true,
+          "source": "wedmegood.com"
+        },
+        {
+          "name": "Mallika",
+          "rating": null,
+          "review": "I got married at this property and my experience was not that great. We did not like the food and the decoration that was promised to us.",
+          "eventDate": null,
+          "pax": null,
+          "verified": true,
+          "source": "wedmegood.com"
+        },
+        {
+          "name": "Sanskriti Agarwal",
+          "rating": null,
+          "review": "I have not held any function here, but I contacted one of the representatives looking for a venue for an event. The lady was one of the rudest woman I have ever interacted with. So, I don't think I will be able to shortlist this property given the staff here doesn't know how to talk.",
+          "eventDate": null,
+          "pax": null,
+          "verified": true,
+          "source": "wedmegood.com"
+        }
+      ],
+      "location": {
+        "displayAddress": "Windsor Pl, Connaught Place, New Delhi, Delhi 110001, India",
+        "mapEmbedUrl": "https://maps.google.com/maps?q=Le+M%C3%A9ridien+New+Delhi,+Windsor+Place,+Connaught+Place,+New+Delhi+110001&z=15&output=embed",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=Windsor+Pl,+Connaught+Place,+New+Delhi,+Delhi+110001,+India"
+      },
+      "venuePolicies": {
+        "categories": [
+          {
+            "title": "Timings & Slots",
+            "icon": "⏰",
+            "items": [
+              "Morning: 9:00 AM - 5:00 PM",
+              "Evening: 7:00 PM - 2:00 AM"
+            ]
+          },
+          {
+            "title": "Changing Rooms",
+            "icon": "🚪",
+            "items": ["1 A/C changing room"]
+          },
+          {
+            "title": "Parking",
+            "icon": "🚗",
+            "items": ["Valet parking available + parking for 120 vehicles"]
+          },
+          {
+            "title": "Cancellation",
+            "icon": "❌",
+            "items": ["Non-cancellable"]
+          },
+          {
+            "title": "Lodging",
+            "icon": "🏨",
+            "items": [
+              "358 luxurious guest rooms available",
+              "Suitable for residential weddings and guest stays"
+            ]
+          },
+          {
+            "title": "Food",
+            "icon": "🍽️",
+            "items": [
+              "Inhouse catering only",
+              "Vegetarian and non-vegetarian catering available"
+            ]
+          },
+          {
+            "title": "Alcohol",
+            "icon": "🍾",
+            "items": ["Alcohol not permitted"]
+          },
+          {
+            "title": "Decoration",
+            "icon": "🎨",
+            "items": [
+              "Decorators from panel only",
+              "Vendors on panel for flower decorations and DJ"
+            ]
+          },
+          {
+            "title": "Other Policies",
+            "icon": "📌",
+            "items": [
+              "Outdoor and poolside space available",
+              "Minimum 50 pax allowed",
+              "In-house DJ available; outside DJ not permitted",
+              "Capacity: 25–1000 pax"
+            ]
+          }
+        ]
+      },
+      "proposedComponent": "LeMeridienNewDelhi",
+      "proposedRoute": "/le-meridien-new-delhi",
+      "ratingSource": null,
+      "reviewCountSource": null,
+      "banquetPricingSource": "banquethalls.in",
+      "capacityMin": 100,
+      "capacityMax": 750,
+      "capacitySource": "banquethalls.in"
+    },
+    {
+      "id": 2,
+      "slug": "crowne-plaza-new-delhi-okhla",
+      "googleShareLink": "https://share.google/LTIOZ8knPTFcktK87",
+      "googleKgmid": "/g/1tp8yf3n",
+      "name": "Crowne Plaza New Delhi Okhla by IHG",
+      "address": "Community Centre, Plot No. 1, Pocket A, Okhla Phase I, Okhla Industrial Estate, New Delhi, Delhi 110020, India",
+      "cityLocality": "Okhla Industrial Estate, New Delhi",
+      "phone": "+91 11 4646 2000",
+      "rating": 5.0,
+      "ratingNote": null,
+      "reviewCount": 11,
+      "starClassification": "5-star hotel",
+      "tags": null,
+      "tagsNote": "Not available from source",
+      "vegetarianPrice": 3399,
+      "nonVegetarianPrice": 3599,
+      "pricingNote": "Starting banquet per-plate prices excluding taxes",
+      "shortDescription": "Crowne Plaza New Delhi Okhla, an IHG Hotel is a stunning wedding venue in Okhla, Delhi NCR, with gorgeous infrastructure and warm service, recognized for hosting royal and grand celebrations.",
+      "fullDescription": "The hotel offers 208 guest rooms and flexible indoor and outdoor event spaces including a ballroom, poolside area, and lobby-level outdoor venue suitable for wedding functions. Banquet space spans about 8,500 sq. ft. with multiple indoor and outdoor venues.",
+      "fullDescriptionNote": null,
+      "amenities": [
+        "Pool",
+        "Spa",
+        "Parking",
+        "Wi-Fi (free)",
+        "Air conditioning",
+        "Fitness center",
+        "Restaurant",
+        "Breakfast buffet",
+        "24-hr front desk"
+      ],
+      "checkIn": "3:00 PM",
+      "checkOut": "12:00 PM",
+      "neighborhood": "Okhla Industrial Estate",
+      "images": [
+        "src/assets/Venuesphotos/crowne-plaza-new-delhi-okhla/venue1.jpeg",
+        "src/assets/Venuesphotos/crowne-plaza-new-delhi-okhla/venue2.jpeg",
+        "src/assets/Venuesphotos/crowne-plaza-new-delhi-okhla/venue3.jpeg",
+        "src/assets/Venuesphotos/crowne-plaza-new-delhi-okhla/venue4.jpeg",
+        "src/assets/Venuesphotos/crowne-plaza-new-delhi-okhla/venue5.jpeg",
+        "src/assets/Venuesphotos/crowne-plaza-new-delhi-okhla/venue6.jpeg"
+      ],
+      "imagesNote": "Google Hotels listing photos (Step 5 asset download)",
+      "googleReviewsSample": [
+        {
+          "name": "Wedding Rose",
+          "rating": 5,
+          "review": "We organized a wedding at Crown Plaza, Okhla. All The Staff including Mr. Salman did their job exceptionally well. I just loved the experience with their Banquet. I'm so happy to share my review. have no second thoughts and doubts in terms of the quality of food, staff behavior, and management. Wonderful place and service. We recommend it.",
+          "eventDate": null,
+          "pax": null,
+          "verified": true,
+          "source": "wedmegood.com"
+        },
+        {
+          "name": "Mukesh Wason",
+          "rating": 5,
+          "review": "Crown Plaza Okhla has been a great Venue to celebrate My Daughter's Wedding. The team lead by Ms. Muskan, our Coordinator has insight to make the events Princely. Chef Karan paid personal attention to create Lucid Delicacies. The Banquet team with Vansh was always there to provide personal care to all the Guests. Thanks Crown Plaza Okhla team",
+          "eventDate": null,
+          "pax": null,
+          "verified": true,
+          "source": "wedmegood.com"
+        },
+        {
+          "name": "Bhawna Seth",
+          "rating": 5,
+          "review": "It was a wonderful experience. The staff was very very courteous and accommodating. They truly went out of the way to help us as much possible. Special thanks to Muskan, Ankush, chef Karan.",
+          "eventDate": null,
+          "pax": null,
+          "verified": true,
+          "source": "wedmegood.com"
+        },
+        {
+          "name": "Verified Guest",
+          "rating": 5,
+          "review": "Hosted my wedding ceremony at Crown Plaza and it was indeed a wonderful experience. Staff team was super professional and we enjoyed throughout the event!! Can highly recommend.",
+          "eventDate": null,
+          "pax": null,
+          "verified": true,
+          "source": null,
+          "reviewNote": null
+        }
+      ],
+      "location": {
+        "displayAddress": "Community Centre, Plot No. 1, Pocket A, Okhla Phase I, Okhla Industrial Estate, New Delhi, Delhi 110020, India",
+        "mapEmbedUrl": "https://maps.google.com/maps?q=Crowne+Plaza+New+Delhi+Okhla,+Okhla+Industrial+Estate,+New+Delhi+110020&z=15&output=embed",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=Community+Centre,+Plot+No.+1,+Pocket+A,+Okhla+Phase+I,+Okhla+Industrial+Estate,+New+Delhi,+Delhi+110020,+India"
+      },
+      "venuePolicies": {
+        "categories": [
+          {
+            "title": "Timings & Slots",
+            "icon": "⏰",
+            "items": [
+              "Morning: 9:00 AM - 5:00 PM",
+              "Evening: 7:00 PM - 1:00 AM"
+            ]
+          },
+          {
+            "title": "Changing Rooms",
+            "icon": "🚪",
+            "items": ["A/C changing room available"]
+          },
+          {
+            "title": "Parking",
+            "icon": "🚗",
+            "items": ["Parking available for approximately 300 vehicles"]
+          },
+          {
+            "title": "Cancellation",
+            "icon": "❌",
+            "items": ["Not allowed"]
+          },
+          {
+            "title": "Lodging",
+            "icon": "🏨",
+            "items": [
+              "208 guest rooms available",
+              "Suitable for residential weddings and guest stays"
+            ]
+          },
+          {
+            "title": "Food",
+            "icon": "🍽️",
+            "items": [
+              "Inhouse catering only",
+              "Vegetarian and non-vegetarian catering available"
+            ]
+          },
+          {
+            "title": "Alcohol",
+            "icon": "🍾",
+            "items": [
+              "In-house alcohol available",
+              "Outside alcohol not permitted"
+            ]
+          },
+          {
+            "title": "Decoration",
+            "icon": "🎨",
+            "items": ["Decorators from panel only"]
+          },
+          {
+            "title": "Other Policies",
+            "icon": "📌",
+            "items": [
+              "In-house DJ available; outside DJs permitted",
+              "Outdoor and poolside event spaces available",
+              "Capacity: 40–600 pax"
+            ]
+          }
+        ]
+      },
+      "proposedComponent": "CrownePlazaNewDelhiOkhla",
+      "proposedRoute": "/crowne-plaza-new-delhi-okhla",
+      "ratingSource": null,
+      "reviewCountSource": null,
+      "banquetPricingSource": null,
+      "capacityMin": 40,
+      "capacityMax": 600,
+      "capacitySource": null
+    },
+    {
+      "id": 3,
+      "slug": "the-suryaa-new-delhi",
+      "googleShareLink": "https://share.google/O8Kju1ClvoVFLgpRh",
+      "googleKgmid": "/g/1tpn0yqw",
+      "name": "The Suryaa New Delhi",
+      "address": "MMA Rd, New Friends Colony, New Delhi, Delhi 110025, India",
+      "cityLocality": "New Friends Colony, New Delhi",
+      "phone": "+91 11 4780 8080",
+      "rating": 4.8,
+      "ratingNote": null,
+      "reviewCount": 8,
+      "starClassification": "5-star hotel",
+      "tags": null,
+      "tagsNote": "Not available from source",
+      "vegetarianPrice": 3199,
+      "nonVegetarianPrice": 3499,
+      "pricingNote": "Starting banquet per-plate prices excluding taxes",
+      "shortDescription": "The Suryaa New Delhi is a premium wedding hotel in New Friends Colony, Delhi NCR, known for warm hospitality, exceptional ambience, and beautiful event spaces for intimate gatherings and grand wedding functions.",
+      "fullDescription": "The hotel offers multiple indoor and outdoor venues including a grand ballroom, Platinum halls, Crystal room, poolside, and terrace spaces. It has 244 guest rooms for wedding parties. The ballroom can host up to 400 guests in floating arrangement; combined ballroom and platinum areas can accommodate up to 600 guests.",
+      "fullDescriptionNote": null,
+      "amenities": [
+        "Pool",
+        "Spa",
+        "Parking (free)",
+        "Hot tub"
+      ],
+      "checkIn": "2:00 PM",
+      "checkOut": "12:00 PM",
+      "neighborhood": "New Friends Colony",
+      "images": [
+        "src/assets/Venuesphotos/the-suryaa-new-delhi/venue1.jpeg",
+        "src/assets/Venuesphotos/the-suryaa-new-delhi/venue2.jpeg",
+        "src/assets/Venuesphotos/the-suryaa-new-delhi/venue3.jpeg",
+        "src/assets/Venuesphotos/the-suryaa-new-delhi/venue4.jpeg",
+        "src/assets/Venuesphotos/the-suryaa-new-delhi/venue5.jpeg",
+        "src/assets/Venuesphotos/the-suryaa-new-delhi/venue6.jpeg"
+      ],
+      "imagesNote": "Google Hotels listing photos (Step 5 asset download)",
+      "googleReviewsSample": [
+        {
+          "name": "Verified Guest",
+          "rating": 5,
+          "review": "It was an amazing experience. Suryaa staff and entire setup was next level. And the food was delicious. Experience top notch.",
+          "eventDate": null,
+          "pax": null,
+          "verified": true,
+          "source": null
+        },
+        {
+          "name": "Verified Guest",
+          "rating": 4.5,
+          "review": "I booked this place for my big day. The whole place just had a magical feeling to it. The decoration and ambience was simply amazing. The food served was delicious. The staff were really polite and attentive. It was an incredible experience. Highly recommended",
+          "eventDate": null,
+          "pax": null,
+          "verified": true,
+          "source": null
+        },
+        {
+          "name": "Verified Guest",
+          "rating": 5,
+          "review": "The hospitality and food was very good. I had a gathering of 300 people and had booked an indoor banquet and vedi. Overall, had a memorable experience for my special day.",
+          "eventDate": null,
+          "pax": null,
+          "verified": true,
+          "source": null
+        },
+        {
+          "name": "Verified Guest",
+          "rating": 5,
+          "review": "My wedding was held at Suryaa! The location and staff was amazing, food was provided by the hotel. Absolutely incredible food. People enjoyed a lot & the hospitality was great",
+          "eventDate": null,
+          "pax": null,
+          "verified": true,
+          "source": null
+        }
+      ],
+      "location": {
+        "displayAddress": "MMA Rd, New Friends Colony, New Delhi, Delhi 110025, India",
+        "mapEmbedUrl": "https://maps.google.com/maps?q=The+Suryaa+New+Delhi,+New+Friends+Colony,+New+Delhi+110025&z=15&output=embed",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=MMA+Rd,+New+Friends+Colony,+New+Delhi,+Delhi+110025,+India"
+      },
+      "venuePolicies": {
+        "categories": [
+          {
+            "title": "Timings & Slots",
+            "icon": "⏰",
+            "items": [
+              "Morning: 9:00 AM - 6:00 PM",
+              "Evening: 7:00 PM - 12:00 AM"
+            ]
+          },
+          {
+            "title": "Changing Rooms",
+            "icon": "🚪",
+            "items": ["No A/C changing room"]
+          },
+          {
+            "title": "Parking",
+            "icon": "🚗",
+            "items": ["Parking available for approximately 150 vehicles + valet"]
+          },
+          {
+            "title": "Cancellation",
+            "icon": "❌",
+            "items": ["Non-cancellable"]
+          },
+          {
+            "title": "Lodging",
+            "icon": "🏨",
+            "items": [
+              "244 guest rooms available",
+              "Suitable for residential weddings and guest stays"
+            ]
+          },
+          {
+            "title": "Food",
+            "icon": "🍽️",
+            "items": [
+              "Inhouse catering only",
+              "Vegetarian and non-vegetarian catering available"
+            ]
+          },
+          {
+            "title": "Alcohol",
+            "icon": "🍾",
+            "items": [
+              "In-house alcohol available",
+              "Outside alcohol not permitted"
+            ]
+          },
+          {
+            "title": "Decoration",
+            "icon": "🎨",
+            "items": ["Decorators from panel only"]
+          },
+          {
+            "title": "Other Policies",
+            "icon": "📌",
+            "items": [
+              "Indoor, poolside, and terrace/rooftop spaces available",
+              "Less than 50 pax allowed for small functions",
+              "In-house DJ available; outside DJ not permitted",
+              "Capacity: 20–600 pax"
+            ]
+          }
+        ]
+      },
+      "proposedComponent": "TheSuryaaNewDelhi",
+      "proposedRoute": "/the-suryaa-new-delhi",
+      "ratingSource": null,
+      "reviewCountSource": null,
+      "banquetPricingSource": null,
+      "capacityMin": 20,
+      "capacityMax": 600,
+      "capacitySource": null
+    },
+    {
+      "id": 4,
+      "slug": "goldfinch-hotel-delhi-ncr",
+      "googleShareLink": "https://share.google/71c4FYbQTdzdziVvr",
+      "googleKgmid": "/g/11g6qvxtwv",
+      "name": "Goldfinch Hotel Delhi NCR",
+      "address": "74/2A, Lakkarpur, Sector 39, Faridabad, Haryana 121009, India",
+      "cityLocality": "Sector 39, Faridabad",
+      "phone": "+91 129 424 9999",
+      "rating": 4.2,
+      "ratingNote": null,
+      "reviewCount": 6,
+      "starClassification": "4-star hotel",
+      "tags": null,
+      "tagsNote": "Not available from source",
+      "vegetarianPrice": 1800,
+      "nonVegetarianPrice": 2000,
+      "pricingNote": "Starting banquet per-plate prices excluding taxes",
+      "shortDescription": "Goldfinch Hotel in Surajkund offers a perfect wedding space for pre and post wedding events, with a well-sophisticated aura, banqueting facilities, and a lawn that is among the largest in the city.",
+      "fullDescription": "The hotel has 70 spacious rooms and indoor and outdoor event spaces including banquet halls and lawn. Outdoor lawn capacity is 400 seating and 750 floating; indoor space capacity is 120 seating and 200 floating. In-house catering, in-house alcohol, and panel decorators are available.",
+      "fullDescriptionNote": null,
+      "amenities": [
+        "Pool",
+        "Parking (free)",
+        "Wi-Fi (free)",
+        "Air conditioning",
+        "24-hr room service",
+        "Restaurant (dinner buffet)"
+      ],
+      "checkIn": "12:00 PM",
+      "checkOut": "12:00 PM",
+      "neighborhood": "Sector 39, Faridabad",
+      "images": [
+        "src/assets/Venuesphotos/goldfinch-hotel-delhi-ncr/venue1.jpeg",
+        "src/assets/Venuesphotos/goldfinch-hotel-delhi-ncr/venue2.jpeg",
+        "src/assets/Venuesphotos/goldfinch-hotel-delhi-ncr/venue3.jpeg",
+        "src/assets/Venuesphotos/goldfinch-hotel-delhi-ncr/venue4.jpeg",
+        "src/assets/Venuesphotos/goldfinch-hotel-delhi-ncr/venue5.jpeg",
+        "src/assets/Venuesphotos/goldfinch-hotel-delhi-ncr/venue6.jpeg"
+      ],
+      "imagesNote": "Google Hotels listing photos (Step 5 asset download)",
+      "googleReviewsSample": [
+        {
+          "name": "Verified Guest",
+          "rating": 5,
+          "review": "They gave us an extremely nice experience. I had my sangeet here and the managemnet ensured that they help us in everything. They had enough waiters and good service was given to us by all of the waiters. The food they served was very good and the decor they did was also very nice.",
+          "eventDate": null,
+          "pax": null,
+          "verified": true,
+          "source": null
+        },
+        {
+          "name": "Verified Guest",
+          "rating": 5,
+          "review": "Recently visited this venue for a wedding function and all the services were top notch,staff team was professional and prompt.All in all it was a great experience,would highly recommend them for your future event too!!",
+          "eventDate": null,
+          "pax": null,
+          "verified": true,
+          "source": null
+        },
+        {
+          "name": "Verified Guest",
+          "rating": 5,
+          "review": "I had attended my cousin's engagement here. That was the time when it was known as Sarovar portico. Hospitality, food, decor everything was gr8.",
+          "eventDate": null,
+          "pax": null,
+          "verified": true,
+          "source": null
+        },
+        {
+          "name": "Verified Guest",
+          "rating": 1,
+          "review": "Bad experience. The sales Manager, who proclaimed to be the one running the hotel (and not owning it), Mr. Omkar is a bully and a bad human. Doesnt know how to talk to females. Called me up twice and literally shouted at me for no reason... me \"the client\". Reduced me to tears when he said \"I will see how you are able to have your function, I wont let it happen.\" Did backtrack for a bit and then was same again the next day. The service was extremely poor too. They asked for payment when we were sitting for a pooja, and asked for money which we had already cleared before the start of all the functions. Said we cant keep track of payments, if you have paid, you show proof, we dont know. Also the food was served 1.5-2 hours late on EVERY function and after an hour they would ask to wrap it up cause they had to start for the evening/next day event too. Horrible experience with the Omkar guy before and after the wedding.",
+          "eventDate": null,
+          "pax": null,
+          "verified": true,
+          "source": null
+        }
+      ],
+      "location": {
+        "displayAddress": "74/2A, Lakkarpur, Sector 39, Faridabad, Haryana 121009, India",
+        "mapEmbedUrl": "https://maps.google.com/maps?q=Goldfinch+Hotel,+Sector+39,+Faridabad,+Haryana+121009&z=15&output=embed",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=74/2A,+Lakkarpur,+Sector+39,+Faridabad,+Haryana+121009,+India"
+      },
+      "venuePolicies": {
+        "categories": [
+          {
+            "title": "Timings & Slots",
+            "icon": "⏰",
+            "items": [
+              "Morning: 9:00 AM - 4:00 PM",
+              "Evening: 7:30 PM - 11:00 PM"
+            ]
+          },
+          {
+            "title": "Changing Rooms",
+            "icon": "🚪",
+            "items": ["No A/C changing room"]
+          },
+          {
+            "title": "Parking",
+            "icon": "🚗",
+            "items": ["Parking available for approximately 100 vehicles + valet"]
+          },
+          {
+            "title": "Cancellation",
+            "icon": "❌",
+            "items": ["Non-cancellable"]
+          },
+          {
+            "title": "Lodging",
+            "icon": "🏨",
+            "items": [
+              "70 guest rooms available",
+              "Suitable for residential weddings and guest stays"
+            ]
+          },
+          {
+            "title": "Food",
+            "icon": "🍽️",
+            "items": [
+              "Inhouse catering only",
+              "Vegetarian and non-vegetarian catering available"
+            ]
+          },
+          {
+            "title": "Alcohol",
+            "icon": "🍾",
+            "items": ["In-house alcohol available"]
+          },
+          {
+            "title": "Decoration",
+            "icon": "🎨",
+            "items": ["Decorators from panel only"]
+          },
+          {
+            "title": "Other Policies",
+            "icon": "📌",
+            "items": [
+              "Indoor banquet and outdoor lawn spaces available",
+              "Less than 50 pax allowed for small functions",
+              "In-house DJ available; outside DJ not permitted",
+              "Outdoor lawn: up to 750 floating; indoor banquet: up to 200 floating"
+            ]
+          }
+        ]
+      },
+      "proposedComponent": "GoldfinchHotelDelhiNCR",
+      "proposedRoute": "/goldfinch-hotel-delhi-ncr",
+      "ratingSource": null,
+      "reviewCountSource": null,
+      "banquetPricingSource": null,
+      "capacityMin": 40,
+      "capacityMax": 750,
+      "capacitySource": null
+    },
+    {
+      "id": 5,
+      "slug": "radisson-blu-marina-delhi",
+      "googleShareLink": "https://share.google/zvie36ILPD7KjHamk",
+      "googleKgmid": "/g/1tf9wt43",
+      "name": "Radisson Blu Marina Hotel, Delhi Connaught Place",
+      "address": "G-59, Connaught Place, New Delhi, Delhi 110001, India",
+      "cityLocality": "Connaught Place, New Delhi",
+      "phone": "+91 11 4690 9090",
+      "rating": null,
+      "ratingNote": null,
+      "reviewCount": 0,
+      "starClassification": "4-star hotel",
+      "tags": null,
+      "tagsNote": "Not available from source",
+      "vegetarianPrice": null,
+      "nonVegetarianPrice": null,
+      "pricingNote": "Price on request",
+      "shortDescription": "Radisson Blu Marina Hotel Connaught Place is a 4-star wedding hotel in the heart of Connaught Place, New Delhi, offering indoor banquet spaces for wedding celebrations.",
+      "fullDescription": "The venue offers indoor event spaces with seating for about 280 guests and overall capacity of 280–400 pax. It has 12 guest rooms for wedding parties, in-house catering, panel decorators, parking space, and event facilities in central Connaught Place.",
+      "fullDescriptionNote": null,
+      "amenities": [
+        "Spa",
+        "Parking (free)",
+        "Wi-Fi (free)",
+        "Air conditioning",
+        "Fitness center",
+        "Restaurant",
+        "Breakfast buffet",
+        "24-hr room service"
+      ],
+      "checkIn": "2:00 PM",
+      "checkOut": "12:00 PM",
+      "neighborhood": "Connaught Place",
+      "images": [
+        "src/assets/Venuesphotos/radisson-blu-marina-delhi/venue1.jpeg",
+        "src/assets/Venuesphotos/radisson-blu-marina-delhi/venue2.jpeg",
+        "src/assets/Venuesphotos/radisson-blu-marina-delhi/venue3.jpeg",
+        "src/assets/Venuesphotos/radisson-blu-marina-delhi/venue4.jpeg",
+        "src/assets/Venuesphotos/radisson-blu-marina-delhi/venue5.jpeg",
+        "src/assets/Venuesphotos/radisson-blu-marina-delhi/venue6.jpeg"
+      ],
+      "imagesNote": "Google Hotels listing photos (Step 5 asset download)",
+      "googleReviewsSample": [],
+      "googleReviewsSampleNote": "No wedding reviews available on listing",
+      "location": {
+        "displayAddress": "G-59, Connaught Place, New Delhi, Delhi 110001, India",
+        "mapEmbedUrl": "https://maps.google.com/maps?q=Radisson+Blu+Marina+Hotel,+Connaught+Place,+New+Delhi+110001&z=15&output=embed",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=G-59,+Connaught+Place,+New+Delhi,+Delhi+110001,+India"
+      },
+      "venuePolicies": {
+        "categories": [
+          {
+            "title": "Timings & Slots",
+            "icon": "⏰",
+            "items": ["9:00 AM - 11:30 PM"]
+          },
+          {
+            "title": "Changing Rooms",
+            "icon": "🚪",
+            "items": ["No A/C changing room"]
+          },
+          {
+            "title": "Parking",
+            "icon": "🚗",
+            "items": ["Valet parking available + parking for 60 vehicles"]
+          },
+          {
+            "title": "Cancellation",
+            "icon": "❌",
+            "items": ["Non-cancellable"]
+          },
+          {
+            "title": "Lodging",
+            "icon": "🏨",
+            "items": [
+              "12 guest rooms available",
+              "Suitable for wedding guest stays"
+            ]
+          },
+          {
+            "title": "Food",
+            "icon": "🍽️",
+            "items": [
+              "Inhouse catering only",
+              "Vegetarian and non-vegetarian catering available"
+            ]
+          },
+          {
+            "title": "Alcohol",
+            "icon": "🍾",
+            "items": [
+              "In-house alcohol available",
+              "Outside alcohol permitted"
+            ]
+          },
+          {
+            "title": "Decoration",
+            "icon": "🎨",
+            "items": ["Decorators from panel only"]
+          },
+          {
+            "title": "Other Policies",
+            "icon": "📌",
+            "items": [
+              "Indoor banquet spaces available",
+              "In-house DJ available; outside DJ permitted",
+              "Capacity: 280–400 pax"
+            ]
+          }
+        ]
+      },
+      "proposedComponent": "RadissonBluMarinaDelhi",
+      "proposedRoute": "/radisson-blu-marina-delhi-connaught-place",
+      "ratingSource": null,
+      "reviewCountSource": null,
+      "banquetPricingSource": null,
+      "capacityMin": 280,
+      "capacityMax": 400,
+      "capacitySource": null
+    },
+    {
+      "id": 6,
+      "slug": "fortune-select-global-gurgaon",
+      "googleShareLink": "https://share.google/goFwCtOr96kEaKLZO",
+      "googleKgmid": "/g/1tj8_y69",
+      "name": "Fortune Select Global, Gurgaon - Member ITC hotels' group",
+      "address": "Global Arcade, Mehrauli-Gurgaon Rd, Sikanderpur, Sector 26, Gurugram, Haryana 122002, India",
+      "cityLocality": "Sector 26, Gurugram",
+      "phone": "+91 124 419 6666",
+      "rating": 4.8,
+      "ratingNote": null,
+      "reviewCount": 11,
+      "reviewCountNote": null,
+      "starClassification": "4-star hotel",
+      "tags": null,
+      "tagsNote": "Not available from source",
+      "vegetarianPrice": 2600,
+      "nonVegetarianPrice": 2600,
+      "pricingNote": "Starting banquet per-plate prices excluding taxes",
+      "shortDescription": "Situated on Mehrauli-Gurgaon Road, Fortune Select Global Gurgaon is a business hotel in the heart of Gurgaon's commercial district, offering elegant rooms and versatile spaces for wedding celebrations.",
+      "fullDescription": "The hotel has 107 well-appointed rooms and event spaces including banquet halls and lawn. Event areas can accommodate 600–800 guests on a floating basis. The Grand Dine all-day dining offers local and international cuisine. In-house catering, decor, alcohol, and DJ services are available under one roof.",
+      "fullDescriptionNote": null,
+      "heroImageFit": "contain",
+      "imageOrder": [1, 4, 2, 3, 6],
+      "imageOrderNote": "venue1 is full hotel exterior; venue5 excluded (unrelated property photo)",
+      "amenities": [
+        "Pool",
+        "Parking (free)",
+        "Breakfast (free)",
+        "Wi-Fi (free)",
+        "Indoor pool",
+        "Exercise room",
+        "Business centre",
+        "Meeting space",
+        "2 restaurants",
+        "Bar"
+      ],
+      "checkIn": "3:00 PM",
+      "checkOut": "12:00 PM",
+      "neighborhood": "Sikanderpur, Sector 26, Gurugram",
+      "images": [
+        "src/assets/Venuesphotos/fortune-select-global-gurgaon/venue1.jpeg",
+        "src/assets/Venuesphotos/fortune-select-global-gurgaon/venue2.jpeg",
+        "src/assets/Venuesphotos/fortune-select-global-gurgaon/venue3.jpeg",
+        "src/assets/Venuesphotos/fortune-select-global-gurgaon/venue4.jpeg",
+        "src/assets/Venuesphotos/fortune-select-global-gurgaon/venue5.jpeg",
+        "src/assets/Venuesphotos/fortune-select-global-gurgaon/venue6.jpeg"
+      ],
+      "imagesNote": "Google Hotels listing photos (Step 5 asset download)",
+      "googleReviewsSample": [
+        {
+          "name": "Priyali Soota",
+          "rating": 4.5,
+          "review": "In short: amazing food, amazing service! Spacious rooms with beautiful decor. There is a lot that you can do with the area- it can be set up for various moods, depends on whatever you've got going on! The location is also very convenient for everyone.",
+          "eventDate": null,
+          "pax": null,
+          "verified": true,
+          "source": null
+        },
+        {
+          "name": "Deepika Bawa",
+          "rating": 4,
+          "review": "Fortune Select Global is a very pretty property,we booked it for our wedding ceremonies. All our friends and family stayed in the same hotel and we had a nice and comfortable stay. The food, decor, presentation and everything was perfectly managed by the team. I would definitely recommend this venue to you !!",
+          "eventDate": null,
+          "pax": null,
+          "verified": true,
+          "source": null
+        },
+        {
+          "name": "Aashna Behl",
+          "rating": 4.5,
+          "review": "The food and service was excellent , we liked the overall ambience of the place. The management was very good with everything you required at function but the place seems a bit old now and requires rennovation..",
+          "eventDate": null,
+          "pax": null,
+          "verified": true,
+          "source": null
+        },
+        {
+          "name": "Verified Guest",
+          "rating": 5,
+          "review": "Great place to plan your D day. There are a lot of things that I would like share about this hotel. Starting with food, the best thing about the place was it's food. ITC Fortune select global maintains such high standards of food in terms of taste and quality. Each every guest praised about the food , it was simply sumptuous. Apart from food, they have great staff, so generous and helpful. Ours was a residential wedding and I am glad I chose this hotel. Decorator was so humble and they really made my wedding memorable. It was so beautifully decorated with the theme that we chose on both days- engagement and wedding day. And the best of all was their haldi decoration. In a nutshell there's no parameter in which I can rate this hotel less than 5/5 rating, be it hospitality, food, ambience or decor.",
+          "eventDate": null,
+          "pax": null,
+          "verified": true,
+          "source": null
+        }
+      ],
+      "googleReviewsSampleNote": null,
+      "location": {
+        "displayAddress": "Global Arcade, Mehrauli-Gurgaon Rd, Sikanderpur, Sector 26, Gurugram, Haryana 122002, India",
+        "mapEmbedUrl": "https://maps.google.com/maps?q=Fortune+Select+Global,+Sector+26,+Gurugram,+Haryana+122002&z=15&output=embed",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=Global+Arcade,+Mehrauli-Gurgaon+Rd,+Sikanderpur,+Sector+26,+Gurugram,+Haryana+122002,+India"
+      },
+      "venuePolicies": {
+        "categories": [
+          {
+            "title": "Timings & Slots",
+            "icon": "⏰",
+            "items": [
+              "Morning: 9:00 AM - 6:00 PM",
+              "Evening: 7:00 PM - 12:00 AM"
+            ]
+          },
+          {
+            "title": "Changing Rooms",
+            "icon": "🚪",
+            "items": ["1 complimentary A/C changing room"]
+          },
+          {
+            "title": "Parking",
+            "icon": "🚗",
+            "items": ["Valet parking available; parking for approximately 500 vehicles"]
+          },
+          {
+            "title": "Cancellation",
+            "icon": "❌",
+            "items": ["Non-cancellable"]
+          },
+          {
+            "title": "Lodging",
+            "icon": "🏨",
+            "items": [
+              "107 guest rooms available",
+              "Suitable for residential weddings and guest stays"
+            ]
+          },
+          {
+            "title": "Food",
+            "icon": "🍽️",
+            "items": [
+              "Inhouse catering only",
+              "Vegetarian and non-vegetarian catering available"
+            ]
+          },
+          {
+            "title": "Alcohol",
+            "icon": "🍾",
+            "items": [
+              "In-house alcohol available",
+              "Outside alcohol not permitted"
+            ]
+          },
+          {
+            "title": "Decoration",
+            "icon": "🎨",
+            "items": ["Decorators from panel only"]
+          },
+          {
+            "title": "Other Policies",
+            "icon": "📌",
+            "items": [
+              "Indoor banquet and outdoor lawn spaces available",
+              "Less than 50 pax allowed for small functions",
+              "In-house DJ available; outside DJ not permitted",
+              "Capacity: 600–800 pax (floating)"
+            ]
+          }
+        ]
+      },
+      "proposedComponent": "FortuneSelectGlobalGurgaon",
+      "proposedRoute": "/fortune-select-global-gurgaon",
+      "ratingSource": null,
+      "reviewCountSource": null,
+      "banquetPricingSource": null,
+      "capacityMin": 50,
+      "capacityMax": 800,
+      "capacitySource": null
+    },
+    {
+      "id": 7,
+      "slug": "park-inn-radisson-lajpat-nagar",
+      "googleShareLink": "https://share.google/snZrX5cYDaJ4HYh07",
+      "googleKgmid": "/g/1tcyjdw0",
+      "name": "Park Inn by Radisson New Delhi Lajpat Nagar",
+      "address": "1&2, Ring Rd, Vikram Vihar, Lajpat Nagar 4, Lajpat Nagar, New Delhi, Delhi 110024, India",
+      "cityLocality": "Lajpat Nagar, New Delhi",
+      "phone": "+91 11 4651 5151",
+      "rating": 5.0,
+      "ratingNote": null,
+      "reviewCount": 2,
+      "starClassification": "4-star hotel",
+      "starClassificationNote": null,
+      "tags": null,
+      "tagsNote": "Not available from source",
+      "vegetarianPrice": 2500,
+      "nonVegetarianPrice": 2800,
+      "pricingNote": "Starting banquet per-plate prices excluding taxes",
+      "shortDescription": "Park Inn By Radisson Lajpat Nagar is a 4-star wedding hotel in South Delhi, offering indoor banquet halls and poolside spaces for weddings and social events.",
+      "fullDescription": "The hotel has 68 guest rooms and multiple event spaces including Vikram hall with poolside area. Four banquet halls suit smaller meetings; social events can host 30 to 350 guests. Cafe 1440 offers Continental, Indian, and Chinese cuisine. In-house catering, panel decorators, in-house alcohol, and DJ services are available.",
+      "fullDescriptionNote": null,
+      "amenities": [
+        "Pool",
+        "Parking (free)",
+        "Wi-Fi (free)",
+        "Air conditioning",
+        "Outdoor pool",
+        "Gym",
+        "Restaurant",
+        "Free breakfast",
+        "Bar"
+      ],
+      "checkIn": "12:00 PM",
+      "checkOut": "12:00 PM",
+      "neighborhood": "Lajpat Nagar",
+      "images": [
+        "src/assets/Venuesphotos/park-inn-radisson-lajpat-nagar/venue1.jpeg",
+        "src/assets/Venuesphotos/park-inn-radisson-lajpat-nagar/venue2.jpeg",
+        "src/assets/Venuesphotos/park-inn-radisson-lajpat-nagar/venue3.jpeg",
+        "src/assets/Venuesphotos/park-inn-radisson-lajpat-nagar/venue4.jpeg",
+        "src/assets/Venuesphotos/park-inn-radisson-lajpat-nagar/venue5.jpeg",
+        "src/assets/Venuesphotos/park-inn-radisson-lajpat-nagar/venue6.jpeg"
+      ],
+      "imagesNote": "Google Hotels listing photos (Step 5 asset download)",
+      "googleReviewsSample": [
+        {
+          "name": "Verified Guest",
+          "rating": 5,
+          "review": "This was one of our wedding venues. We are very very happy with the venue and how they have made arrangements for our special day. They matched upto our expectations to the fullest in terms of food and decor. Highly recommended.",
+          "eventDate": null,
+          "pax": null,
+          "verified": true,
+          "source": null
+        },
+        {
+          "name": "Verified Guest",
+          "rating": 5,
+          "review": "This is a dream land with very good interiors and we has booked Vikram hall so had both open poolside area and hall. the food is great and staff is very courteous.",
+          "eventDate": null,
+          "pax": null,
+          "verified": true,
+          "source": null
+        }
+      ],
+      "googleReviewsSampleNote": null,
+      "location": {
+        "displayAddress": "1 & 2, Ring Rd, Vikram Vihar, Lajpat Nagar 4, Lajpat Nagar, New Delhi, Delhi 110024, India",
+        "mapEmbedUrl": "https://maps.google.com/maps?q=Park+Inn+by+Radisson,+Lajpat+Nagar,+New+Delhi+110024&z=15&output=embed",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=1+%26+2,+Ring+Rd,+Vikram+Vihar,+Lajpat+Nagar+4,+Lajpat+Nagar,+New+Delhi,+Delhi+110024,+India"
+      },
+      "venuePolicies": {
+        "categories": [
+          {
+            "title": "Timings & Slots",
+            "icon": "⏰",
+            "items": [
+              "Morning: 10:00 AM - 4:00 PM",
+              "Evening: 7:00 PM - 12:00 AM"
+            ]
+          },
+          {
+            "title": "Changing Rooms",
+            "icon": "🚪",
+            "items": ["1 complimentary A/C changing room"]
+          },
+          {
+            "title": "Parking",
+            "icon": "🚗",
+            "items": ["Valet parking available; parking for approximately 400 vehicles"]
+          },
+          {
+            "title": "Cancellation",
+            "icon": "❌",
+            "items": ["Non-cancellable"]
+          },
+          {
+            "title": "Lodging",
+            "icon": "🏨",
+            "items": [
+              "68 guest rooms available",
+              "Suitable for residential weddings and guest stays"
+            ]
+          },
+          {
+            "title": "Food",
+            "icon": "🍽️",
+            "items": [
+              "Inhouse catering only",
+              "Vegetarian and non-vegetarian catering available"
+            ]
+          },
+          {
+            "title": "Alcohol",
+            "icon": "🍾",
+            "items": [
+              "In-house alcohol available",
+              "Outside alcohol not permitted"
+            ]
+          },
+          {
+            "title": "Decoration",
+            "icon": "🎨",
+            "items": ["Decorators from panel only"]
+          },
+          {
+            "title": "Other Policies",
+            "icon": "📌",
+            "items": [
+              "Indoor banquet halls and poolside spaces available",
+              "Less than 50 pax allowed for small functions",
+              "In-house DJ available; outside DJ not permitted",
+              "Capacity: 150–300 pax"
+            ]
+          }
+        ]
+      },
+      "proposedComponent": "ParkInnRadissonLajpatNagar",
+      "proposedRoute": "/park-inn-radisson-new-delhi-lajpat-nagar",
+      "ratingSource": null,
+      "reviewCountSource": null,
+      "banquetPricingSource": null,
+      "capacityMin": 150,
+      "capacityMax": 300,
+      "capacitySource": null
+    },
+    {
+      "id": 8,
+      "slug": "hilton-garden-inn-saket",
+      "googleShareLink": "https://share.google/JV8wGQ3oPpsT6su89",
+      "googleKgmid": "/g/1wd3tf3d",
+      "name": "Hilton Garden Inn New Delhi/Saket",
+      "address": "A4, Saket District Centre, District Centre, Sector 6, Pushp Vihar, New Delhi, Delhi 110017, India",
+      "cityLocality": "Saket, New Delhi",
+      "phone": "+91 11 3919 1919",
+      "rating": 5.0,
+      "ratingNote": null,
+      "reviewCount": 1,
+      "starClassification": "4-star hotel",
+      "tags": null,
+      "tagsNote": "Not available from source",
+      "vegetarianPrice": 1499,
+      "nonVegetarianPrice": 1499,
+      "pricingNote": "Starting banquet per-plate prices excluding taxes",
+      "shortDescription": "Hilton Garden Inn New Delhi/Saket is a contemporary wedding hotel in Saket District Centre, South Delhi, offering an indoor banquet hall ideal for intimate weddings and social gatherings.",
+      "fullDescription": "The hotel has 115 guest rooms and an indoor banquet hall with 50 seating and 120 floating capacity. It offers in-house catering, in-house decor, in-house alcohol, and DJ services under one roof. India Grill serves Continental, Indian, and Chinese cuisine. Less than 50 pax functions are also permitted.",
+      "fullDescriptionNote": null,
+      "amenities": [
+        "Pool",
+        "Parking (free)",
+        "Wi-Fi (free)",
+        "Air conditioning",
+        "Rooftop pool",
+        "Restaurant",
+        "Breakfast buffet",
+        "Fitness center",
+        "24-hr room service"
+      ],
+      "checkIn": "3:00 PM",
+      "checkOut": "12:00 PM",
+      "neighborhood": "Saket District Centre",
+      "images": [
+        "src/assets/Venuesphotos/hilton-garden-inn-saket/venue1.jpeg",
+        "src/assets/Venuesphotos/hilton-garden-inn-saket/venue2.jpeg",
+        "src/assets/Venuesphotos/hilton-garden-inn-saket/venue3.jpeg",
+        "src/assets/Venuesphotos/hilton-garden-inn-saket/venue4.jpeg",
+        "src/assets/Venuesphotos/hilton-garden-inn-saket/venue5.jpeg",
+        "src/assets/Venuesphotos/hilton-garden-inn-saket/venue6.jpeg"
+      ],
+      "imagesNote": "Google Hotels listing photos (Step 5 asset download)",
+      "googleReviewsSample": [
+        {
+          "name": "Verified Guest",
+          "rating": 5,
+          "review": "The property is just very beautiful and is the perfect to get married in and the best part is that their staff is very soft spoken and mannerable.",
+          "eventDate": null,
+          "pax": null,
+          "verified": true,
+          "source": null
+        }
+      ],
+      "googleReviewsSampleNote": null,
+      "location": {
+        "displayAddress": "A4, Saket District Centre, District Centre, Sector 6, Pushp Vihar, New Delhi, Delhi 110017, India",
+        "mapEmbedUrl": "https://maps.google.com/maps?q=Hilton+Garden+Inn+New+Delhi+Saket,+Saket+District+Centre,+New+Delhi+110017&z=15&output=embed",
+        "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=A4,+Saket+District+Centre,+District+Centre,+Sector+6,+Pushp+Vihar,+New+Delhi,+Delhi+110017,+India"
+      },
+      "venuePolicies": {
+        "categories": [
+          {
+            "title": "Timings & Slots",
+            "icon": "⏰",
+            "items": ["12:00 PM - 12:00 AM"]
+          },
+          {
+            "title": "Changing Rooms",
+            "icon": "🚪",
+            "items": ["No bride/groom changing room"]
+          },
+          {
+            "title": "Parking",
+            "icon": "🚗",
+            "items": ["Complimentary self-parking + complimentary valet parking"]
+          },
+          {
+            "title": "Cancellation",
+            "icon": "❌",
+            "items": ["Refundable 30 days prior"]
+          },
+          {
+            "title": "Lodging",
+            "icon": "🏨",
+            "items": [
+              "115 guest rooms available",
+              "Suitable for residential weddings and guest stays"
+            ]
+          },
+          {
+            "title": "Food",
+            "icon": "🍽️",
+            "items": [
+              "Inhouse catering only",
+              "Vegetarian and non-vegetarian catering available"
+            ]
+          },
+          {
+            "title": "Alcohol",
+            "icon": "🍾",
+            "items": ["In-house alcohol available"]
+          },
+          {
+            "title": "Decoration",
+            "icon": "🎨",
+            "items": ["In-house decor available"]
+          },
+          {
+            "title": "Other Policies",
+            "icon": "📌",
+            "items": [
+              "Indoor banquet hall available",
+              "Less than 50 pax allowed for small functions",
+              "In-house DJ available",
+              "Capacity: 50–120 pax"
+            ]
+          }
+        ]
+      },
+      "proposedComponent": "HiltonGardenInnSaket",
+      "proposedRoute": "/hilton-garden-inn-new-delhi-saket",
+      "ratingSource": null,
+      "reviewCountSource": null,
+      "banquetPricingSource": null,
+      "capacityMin": 50,
+      "capacityMax": 120,
+      "capacitySource": null
+    }
+  ]
+}

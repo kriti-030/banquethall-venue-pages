@@ -1,0 +1,498 @@
+[
+  {
+    "slug": "le-meridien-new-delhi",
+    "source": "google",
+    "status": 200,
+    "found": 75
+  },
+  {
+    "slug": "le-meridien-new-delhi",
+    "source": "official",
+    "status": 403,
+    "found": 0
+  },
+  {
+    "slug": "le-meridien-new-delhi",
+    "saved": 6,
+    "candidateUrls": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkafKZnv_ADffRkrvisBAYs9u5KyO7Qsg3P-4X28Ty42spA20-FyMUjAT-_Y9-_ITeJAfn3R77F3AFXZYzdyLulTZDMQswOmV57jhf3SuXOnEO7dMVgrFMeWoL_5oUIqMU-V7aOK2gMPnc=w1200-h900-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkmJMh1DrcOja6wOXx40Bt4lQ1-AOMLLWleMBelLwxCAYqJuRYK2kKZSuzvACRiMejo-PYwOrG_U7KtM-0rLtm3zZmqxLRn2JOO3Ns2oM589G8XN5mKekUG4O6_phK0y553111fJQ=w1200-h900-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl2LjivPmN6hy30pWxN_MGr1qLcyL0HLTCyhNrt_4WY_DiT6Sgr9B7FhT2O1Us14CmUw6v-MZoQHDXinJjAbnm8Q_D5c57eI4YthuD8pMrlrZFECWyThivlkyzRTPrbNlQaIoiQcspuuxTp=w1200-h900-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnq-s1ZPyXuJP6vCW2w6Sm8e9XTvea5oHToOFflZTam9kI9RlJWN2PCgvqQDKvssU7Y-pEh77v3uZJbNnUq35n-i2AsbyJAEmkiY-8Jic-R6vHRUp6YRA139Kz5STUTQMyEJL4KoNdVEYOA=w1200-h900-k-no",
+      "https://lh3.googleusercontent.com/gps-proxy/ALd4DhFaSH5YQfZP6HGnXpUIKMq6YTi4rtWrHeun8Pr_4dOEaklvB1c5B-C3Qqdzemhh_Sv7Yr9AlKXLfiY5QmOIQUQn0DByiYrSPm_jHAQOJv18RTeJco3dsuzHmyJxppgNtg5ytXg8YjNRlY4k-F0vGZ5wxuiYbZrbWn5GkFiAGwbrmYEAUW9ycskE=w1200-h900-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkAl68mpn6peAMSnSPDZUAtUUnPusQzsaMVpldrYoY4blIvsRIxFrwmklWtGVVUX-L6_06fE4bPJN3sVNNGIUQ48Kb4xXyOgy6KcDp10MbVDCHue0roXB_VlOkENj33IxrvFUjbH-yJfS9n=w1200-h900-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlbq3RuEpLsUKgc853MMbZkLqExSrPgxY1A4OllDkErNefHi4rn0msENt-eWfnMrJFVuHe1uOItFHQsO7uo1eSRYrbjBpEiLxgwJtGuhDrzgAMsCTkBbwhAI2UBx4e9XJRcHGdhoBYvVpVr=w1200-h900-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkTZT0zM4M2UF_CI8nCnSdZgVXCDHXsDADkSYFQ-WP5-PZ1abKgrIrDvVyj4kwieBlpZ4KDmiHOTqVHq696ogEuP_7rswwljTwPN5Abd4hfIQwz_ywVa-_bqYj0kxjNRgA-Wtw=w1200-h900-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlrkOJNLWzR-QPVvgShTHkUht0j3-Pzc9H9a3hZRqRZkTincyrbx_bSltIbTJZDnu5IsgSPdyGFsqYFJmRtXgVxEK0w-YECtFdEKA3vKDRAQNM1z65JsJk9OjPaPFRD5Wadd3OlMlQUdvs8=w1200-h900-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn97_cf1ShdMm-CQf_uQAcRIXVqje9WCqhZGs6lHu7hP_mDjngb6--HqMgnc8qkRCsEU0pPMrxTSYOJp6-q84Vz3alcJk6SG6HmTCClrA_ojue0MmH6yHp7xioRNlETfiy2EY0iiIh0vUk=w1200-h900-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkxzMVR0y7-Z55F_AXlDuwgM38pR3eZoF2XhS-mIotUIAvpWERbMprajNt1el0Dnrh_XAB1q35EDDdSxfiDTpKHwZGlcWMEVgrwAP4Yfag2jDMcRzkWaFgjIimhxe797RhwM5b0BvbQll-W=w1200-h900-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkUztxH3IdxGvBp81lOxXzPUykcclQKHp8crF-BROKNnNsTt2Rcs6Kp6tEptiTHyA3xVJHpOWWPMFt8WtBFCQKdF_UdW7nDNY-KQO_RWWqFqPuzI8zictrHhEUffWw76EfPA71V=w1200-h900-k-no"
+    ],
+    "savedFiles": [
+      {
+        "file": "venue1.jpeg",
+        "size": 865375,
+        "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkafKZnv_ADffRkrvisBAYs9u5KyO7Qsg3P-4X28Ty42spA20-FyMUjAT-_Y9-_ITeJAfn3R77F3AFXZYzdyLulTZDMQswOmV57jhf3SuXOnEO7dMVgrFMeWoL_5oUIqMU-V7aOK2gMPnc=w1200-h900-k-no"
+      },
+      {
+        "file": "venue2.jpeg",
+        "size": 153100,
+        "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkmJMh1DrcOja6wOXx40Bt4lQ1-AOMLLWleMBelLwxCAYqJuRYK2kKZSuzvACRiMejo-PYwOrG_U7KtM-0rLtm3zZmqxLRn2JOO3Ns2oM589G8XN5mKekUG4O6_phK0y553111fJQ=w1200-h900-k-no"
+      },
+      {
+        "file": "venue3.jpeg",
+        "size": 27176,
+        "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl2LjivPmN6hy30pWxN_MGr1qLcyL0HLTCyhNrt_4WY_DiT6Sgr9B7FhT2O1Us14CmUw6v-MZoQHDXinJjAbnm8Q_D5c57eI4YthuD8pMrlrZFECWyThivlkyzRTPrbNlQaIoiQcspuuxTp=w1200-h900-k-no"
+      },
+      {
+        "file": "venue4.jpeg",
+        "size": 270185,
+        "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnq-s1ZPyXuJP6vCW2w6Sm8e9XTvea5oHToOFflZTam9kI9RlJWN2PCgvqQDKvssU7Y-pEh77v3uZJbNnUq35n-i2AsbyJAEmkiY-8Jic-R6vHRUp6YRA139Kz5STUTQMyEJL4KoNdVEYOA=w1200-h900-k-no"
+      },
+      {
+        "file": "venue5.jpeg",
+        "size": 61995,
+        "url": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhFaSH5YQfZP6HGnXpUIKMq6YTi4rtWrHeun8Pr_4dOEaklvB1c5B-C3Qqdzemhh_Sv7Yr9AlKXLfiY5QmOIQUQn0DByiYrSPm_jHAQOJv18RTeJco3dsuzHmyJxppgNtg5ytXg8YjNRlY4k-F0vGZ5wxuiYbZrbWn5GkFiAGwbrmYEAUW9ycskE=w1200-h900-k-no"
+      },
+      {
+        "file": "venue6.jpeg",
+        "size": 34178,
+        "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkAl68mpn6peAMSnSPDZUAtUUnPusQzsaMVpldrYoY4blIvsRIxFrwmklWtGVVUX-L6_06fE4bPJN3sVNNGIUQ48Kb4xXyOgy6KcDp10MbVDCHue0roXB_VlOkENj33IxrvFUjbH-yJfS9n=w1200-h900-k-no"
+      }
+    ]
+  },
+  {
+    "slug": "crowne-plaza-new-delhi-okhla",
+    "source": "google",
+    "status": 200,
+    "found": 49
+  },
+  {
+    "slug": "crowne-plaza-new-delhi-okhla",
+    "source": "official",
+    "status": 200,
+    "found": 0
+  },
+  {
+    "slug": "crowne-plaza-new-delhi-okhla",
+    "saved": 6,
+    "candidateUrls": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnMFvzo61jGo7gAcNyOHUJAbhpB6uUsypOp-zDDZ2P4FolsLstMONDTgsGDIJKLEAxk7LsCYKGgyoTCytX7Ux_x1DHmRwJ8qqsfwt7XCoR1N8iKr8oRSYhMtdItVxMEgOcKrYZFuDm2KL9D=w1200-h900-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlcN-w8aL2KKW0K4JBuwtI_eE48uUJGzCmdPymyd5KCudvUMy1EGGh7N6Ff9lRTrj9_cT3DA-hg5oHCE0yINh097ImrfwQjj7uDe-86nOrsBk1QNrrtHEpPbQ5_SstccI3YcvOn7OpzmJpf=w1200-h900-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkKGFfaEr2aMUjbMpf65LqgukTwHWANe8V5xpqEXsLw8mn7KdiLRkOVgCVeaSc836G5Uuh5TUzQmMhaVqzYswR2VdbI-OjBvv--H0po4nwDwU_QtOPK8dBnddhJSqPVVJuXzY4VBg=w1200-h900-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnPBqc9NgvQtbZjw0vpi0N0TdiEg0gD5HbmyAEtxMBVEnO0zN_ii8kj_XJOzvKo0T7jSmg7Pl5H9ISN_iJuxLj1zob1jw95MyalYIZF71uJu2dvswrQSX0gc-OABQm7YGDglo2n6w=w1200-h900-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlV2lGKeLVCBAkYIa_Cim8qXtyMXRGkuBjxbF8YpB0S7An_Do4ZWi9CA_pFUTJ1Le_HSokqkuvSFhoJRH_qXkpgDI1jhMTp83szwhgty2Y8D4IUVo-cllhuRq44lq_lVnAppQ-kAg=w1200-h900-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlS_cFqyCF1jX7EqK_Bj96hwxBJQnpA6vlMQFwb95BixK4kuKUKnozZ4kmtiB0TqsLb1PN6ChEwTQAGIC6azJIhUTy-Cb3FT4lLiesG2jcR2pM2qbmQjBBnBNP37rNG4RJKIrgl=w1200-h900-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm8iNBh31BLbd_kHHnkh_roPrUBrFf5P77UOkI-5fHKIX08fSlu3CoURTTTLMvhO-uYYZmvtAlSFh-kcuPe6iyAqVGd41CdZTFnwPwHeC9Uzn-VRt9myih5bEV-27gJCMtI1xS8k79kzT2J=w1200-h900-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkYb2cuL2S01rLCw1Q1Xw08BZuQ9JX0ira4Wcp7Rfv-Swf11tblp1bR0gKcV0AUdwF7-DN4J5MmTTme93kOsYHLPgAbO9EMDyK6tZg4ZOYNzmTYzrFfCunwJgMwakTPGngA8-3C_CeCB2u2=w1200-h900-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnyPnCpiOv-QuwT6VVZl8aqEog7C3BICrJNhHhBstB7IihAO97588Zc_UOEbrhCJMs3PQ-3fOBN1jVZbwtRboFEfmcNUsl9EdwGYGZQyzSfiW3dcBoosE99Z3fDasm8DtxYcQzLlkM3nKNO=w1200-h900-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnCRjnlS_T37WkqpkEaWjwvpDR8ENyhMD5u_mF0LPbADqWSVpI0zXjN7ewr9W2zp0YX56k3j8_0Lo8UqhzlZcZ-Er6UHX564avIOFXIC0kuDf61jvT99Qv8z2CMcQuV6iP1wtzEfg=w1200-h900-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlu2AGHA310300cLFavZQUGrBDwYTufvaa-pKHFQ6bNl0axFDvmjQpTx4B3-TgyjH-QypOxme55vrQrdJkMIGAaBlyF6mpHVeZOO9fQtTMdoslf8WQQfJIbgRlqap2vUHDkCYCuqCSMrA8u=w1200-h900-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqcOm8DusLPHFbHVYiy4fuSLyrpHLLQlHKdc7YrYjhjg23QDH1o-NFdRbjBoiQeW-K7jcbaZb7rs2p337tYGVqF4faZt2XbwYqinBj1RqDj_CeUQzwkqiV7pvrgsOnT1zpLtOi7=w1200-h900-k-no"
+    ],
+    "savedFiles": [
+      {
+        "file": "venue1.jpeg",
+        "size": 172802,
+        "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnMFvzo61jGo7gAcNyOHUJAbhpB6uUsypOp-zDDZ2P4FolsLstMONDTgsGDIJKLEAxk7LsCYKGgyoTCytX7Ux_x1DHmRwJ8qqsfwt7XCoR1N8iKr8oRSYhMtdItVxMEgOcKrYZFuDm2KL9D=w1200-h900-k-no"
+      },
+      {
+        "file": "venue2.jpeg",
+        "size": 96085,
+        "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlcN-w8aL2KKW0K4JBuwtI_eE48uUJGzCmdPymyd5KCudvUMy1EGGh7N6Ff9lRTrj9_cT3DA-hg5oHCE0yINh097ImrfwQjj7uDe-86nOrsBk1QNrrtHEpPbQ5_SstccI3YcvOn7OpzmJpf=w1200-h900-k-no"
+      },
+      {
+        "file": "venue3.jpeg",
+        "size": 153846,
+        "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkKGFfaEr2aMUjbMpf65LqgukTwHWANe8V5xpqEXsLw8mn7KdiLRkOVgCVeaSc836G5Uuh5TUzQmMhaVqzYswR2VdbI-OjBvv--H0po4nwDwU_QtOPK8dBnddhJSqPVVJuXzY4VBg=w1200-h900-k-no"
+      },
+      {
+        "file": "venue4.jpeg",
+        "size": 278610,
+        "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnPBqc9NgvQtbZjw0vpi0N0TdiEg0gD5HbmyAEtxMBVEnO0zN_ii8kj_XJOzvKo0T7jSmg7Pl5H9ISN_iJuxLj1zob1jw95MyalYIZF71uJu2dvswrQSX0gc-OABQm7YGDglo2n6w=w1200-h900-k-no"
+      },
+      {
+        "file": "venue5.jpeg",
+        "size": 186409,
+        "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlV2lGKeLVCBAkYIa_Cim8qXtyMXRGkuBjxbF8YpB0S7An_Do4ZWi9CA_pFUTJ1Le_HSokqkuvSFhoJRH_qXkpgDI1jhMTp83szwhgty2Y8D4IUVo-cllhuRq44lq_lVnAppQ-kAg=w1200-h900-k-no"
+      },
+      {
+        "file": "venue6.jpeg",
+        "size": 240806,
+        "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlS_cFqyCF1jX7EqK_Bj96hwxBJQnpA6vlMQFwb95BixK4kuKUKnozZ4kmtiB0TqsLb1PN6ChEwTQAGIC6azJIhUTy-Cb3FT4lLiesG2jcR2pM2qbmQjBBnBNP37rNG4RJKIrgl=w1200-h900-k-no"
+      }
+    ]
+  },
+  {
+    "slug": "the-suryaa-new-delhi",
+    "source": "google",
+    "status": 200,
+    "found": 116
+  },
+  {
+    "slug": "the-suryaa-new-delhi",
+    "source": "official",
+    "status": 200,
+    "found": 0
+  },
+  {
+    "slug": "the-suryaa-new-delhi",
+    "saved": 6,
+    "candidateUrls": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk_zaXd-7feSA4HTPmkffCEXAEc2n1P41nvxD7__Crsb61k8rNIdQVycKOHFswmg6dSzlU-zCR2KeMdI9lJM7p_4GoROWYHZhT28rdYuAdBfiobu080oQoPNONO1jqkgo0hbnYVQwFxmNgB=w1200-h900-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnSC60wh3Um35MvjjNGPV7cDQpoyFI1qp0ou4Z5p7QwevHNv1ft108Z0vRowWOfMxbPd76_-Kgd4GOu0qwF6sTxq1XpgTNDLEEXmcxMgstF22li7_PRkxoPzdrK2QPmxkbKEbHu=w1200-h900-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlBPEDm_O3U1ZTnGv-h3xDO8UgZT6oHzD9Yu4X_MqL6L-duZMEMyfJPnG_5pGi71fczM23L03UekGyn58Gtdq7W5-i0ElwVBFmwqF6vg7NUoHWyJ76Grbw8OkkvsnltmbIHxODZ=w1200-h900-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkJTprezhNqtVe1AIDcORqfGRT0ziGTjPqHIi8MFIISYCI5LXkNhuQYWnCSxzwGLBrA-zR8TCVkoTE64h84kdhBT1i8alFIG9zqB4DzGAAwuD_YUjIbHPxh89PPOZ20J_9fOmc5Qw=w1200-h900-k-no",
+      "https://lh3.googleusercontent.com/gps-proxy/ALd4DhHcJh0MtrHM7xiQslwJVvwmEXpONu9IuOVuectFjDmB61lDdmIVX_mqXLQfNHhtrcwqxEu-asWXZoBafv37ybAP8pnXOrMVBYuv97rJaSByFskiFDJXI3xAXo5QDXOqCKfLUDA1QJ6eKjJmSBtc2ZVRT-gZnqEiZHn91utTRq4HnnnVsyt3tGZXfw=w1200-h900-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmioolQpOTJOQKbbLpki1H1YsQ3Dt7J3G5ESrwi5_jf4eC39GBGJ5k_Gn1Mrko_lUODmfjgSluMyoiSVuWYW6RhgURITkLPX-2MNhP7P67eXtjByVjjuoXaJe5VCUqlUQbdrgCORrCmE8rL=w1200-h900-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmd0u9k6o24nZesAwp3OF3igWMxZ5wjVmMEMqW_FHabqkXzXFlpxqYnbv0xrzBhUn6aXukPOI3J4aycT72kT_ClflL2cUmXEdQSAfpL_0Ld-yWNHoDk7y847XNz4Mk_4m0ANTZEXMndkTxl=w1200-h900-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlacD0XdnTY2vVwAT3swp4U1YicBjfapDoJHSWWiN-aWiBTNyCv6eXjV4srr-R3QagKdT3u2G065UcJWUOYnVjviHsb0LWrizX_eBVHKzKxcRfDD1FyzgFqnOI8GR_bCBAEmtBESV2yel9S=w1200-h900-k-no",
+      "https://lh3.googleusercontent.com/gps-proxy/ALd4DhG5kpW1AwvxO1sxMZrvs_VSAHanHe3MEKfQkOW-B2h3iIKTddKGBJ-9gX4bQcVMJm8_eWJwx0dx16HqPp9eAxhdy1bX-CdH8-k2StFW5jqLCA_AB_rxTQvsMzKuLjAVWH8zkoSmVgTj4Ri2BYhIfMrhhWTJ_Nd4Wf-MyjUIW7cBWN24QqDFSXUw=w1200-h900-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmpNeAoxpagu2c7l18Dooh9DaQo7Un5XsHalNKTqTefyrrXqfrEn6T6c2Y4FaVWR6zqDaCohB7HUhMhzdzsSQKIYTC33N-CgQXHEwhzAI5MNPHvwlbQ0aN68SqIAVJvyY1fikxBCw=w1200-h900-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWns28rZ0zzDMgE_VEmKXamo7w484_jYpV5YL7LAQ7s8NPDjwuwJxNYJsDKfblIdAjYSYCRwzVU9hyMvWcCJuZocIJrBvdWNSwCJcUQ3Y4Erk4XoSy8YCi4XIlialikhr53kQ_-g=w1200-h900-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkfUwUrpDLje5YSH6lMzl5fXw0WDtg0YYjV5QWX7Vc76Kfui6wvP4VqF1DE_qNT_oq4OHhOUqf_QDCicBT-7QHLySmrHZufmDxRHbPun4_JHpYQq0KebQ_IfXZv0TJsY0pXwtgW=w1200-h900-k-no"
+    ],
+    "savedFiles": [
+      {
+        "file": "venue1.jpeg",
+        "size": 1054691,
+        "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk_zaXd-7feSA4HTPmkffCEXAEc2n1P41nvxD7__Crsb61k8rNIdQVycKOHFswmg6dSzlU-zCR2KeMdI9lJM7p_4GoROWYHZhT28rdYuAdBfiobu080oQoPNONO1jqkgo0hbnYVQwFxmNgB=w1200-h900-k-no"
+      },
+      {
+        "file": "venue2.jpeg",
+        "size": 90129,
+        "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnSC60wh3Um35MvjjNGPV7cDQpoyFI1qp0ou4Z5p7QwevHNv1ft108Z0vRowWOfMxbPd76_-Kgd4GOu0qwF6sTxq1XpgTNDLEEXmcxMgstF22li7_PRkxoPzdrK2QPmxkbKEbHu=w1200-h900-k-no"
+      },
+      {
+        "file": "venue3.jpeg",
+        "size": 210333,
+        "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlBPEDm_O3U1ZTnGv-h3xDO8UgZT6oHzD9Yu4X_MqL6L-duZMEMyfJPnG_5pGi71fczM23L03UekGyn58Gtdq7W5-i0ElwVBFmwqF6vg7NUoHWyJ76Grbw8OkkvsnltmbIHxODZ=w1200-h900-k-no"
+      },
+      {
+        "file": "venue4.jpeg",
+        "size": 208124,
+        "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkJTprezhNqtVe1AIDcORqfGRT0ziGTjPqHIi8MFIISYCI5LXkNhuQYWnCSxzwGLBrA-zR8TCVkoTE64h84kdhBT1i8alFIG9zqB4DzGAAwuD_YUjIbHPxh89PPOZ20J_9fOmc5Qw=w1200-h900-k-no"
+      },
+      {
+        "file": "venue5.jpeg",
+        "size": 36364,
+        "url": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhHcJh0MtrHM7xiQslwJVvwmEXpONu9IuOVuectFjDmB61lDdmIVX_mqXLQfNHhtrcwqxEu-asWXZoBafv37ybAP8pnXOrMVBYuv97rJaSByFskiFDJXI3xAXo5QDXOqCKfLUDA1QJ6eKjJmSBtc2ZVRT-gZnqEiZHn91utTRq4HnnnVsyt3tGZXfw=w1200-h900-k-no"
+      },
+      {
+        "file": "venue6.jpeg",
+        "size": 151664,
+        "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmioolQpOTJOQKbbLpki1H1YsQ3Dt7J3G5ESrwi5_jf4eC39GBGJ5k_Gn1Mrko_lUODmfjgSluMyoiSVuWYW6RhgURITkLPX-2MNhP7P67eXtjByVjjuoXaJe5VCUqlUQbdrgCORrCmE8rL=w1200-h900-k-no"
+      }
+    ]
+  },
+  {
+    "slug": "goldfinch-hotel-delhi-ncr",
+    "source": "google",
+    "status": 200,
+    "found": 43
+  },
+  {
+    "slug": "goldfinch-hotel-delhi-ncr",
+    "source": "official",
+    "status": 200,
+    "found": 5
+  },
+  {
+    "slug": "goldfinch-hotel-delhi-ncr",
+    "saved": 6,
+    "candidateUrls": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnFs1za6psQVj_AdvdRRMJvgOeIDQUOsjckqROUgu_jaI4eoffA399pgWDSZ9mfSQqMFZCO4I3-H8Ya0JrYy_RjnI6APd1QJIXtDB3b8FVJo35WvkIjGztLUYZdk7vVP58l3GA=w1200-h900-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkMyZbLEDX88VdjuNp3Si-gI1nxqeXUSuXnal6pL4zV2VY8pEtSp9aOigCntIcN7JLhxmR5VQUTKtxJKeQ-nYyGQoLg9MIO07D-Arb4skdp-CAi0ETNjiPERIP6o0Bu87mlGBMv=w1200-h900-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmzQNIuGEHKNufmckastYuM6J2jNGviMiKZyjs85qjOd393sM_qct7IZ9ncq61f2OaceklJLiJgGY-wyQWs4X0qN_XB-GsrISFFj95XyEHx5dw38DN1_RGnvOwqVrl9SZjMjqgBMw=w1200-h900-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkFTqtwQcT2HD_Znf16sZNf76Kzrfo-pKwHtUpB0TqDsqC4ysrP0EeT3vAXuhanwsds7sg3f1grImbbRg0IJ-B-0z_hwmj969TB7p9zs7vKxGbrkQyZaLfU8Cf4RfLsRQeQ4_fe=w1200-h900-k-no",
+      "https://lh3.googleusercontent.com/gps-proxy/ALd4DhHzohykERGdXzGxk75z-H385o3LQkKRHw_qyf_6xfcHJJDAXgBZHoNmqI8ykbwkQkm4jXDipfh17wV20YGvSRoEc_okWn7JwzANEcjK5CUp1cy0AObLgqcgN5kN6J5f6Pu3MFG8D6Hfrh0xoKyAwpUPFq2_q6gDuaRWGrLe5un3IcZ2a16WxVYaqg=w1200-h900-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmlGNLjbG-LpQmz7O1VJRBE1EAXiDEv5iPLHEW7foOA1IcNqbex6xRRuoZjuWLWc6XSR3YSH6EMd0BNztoTupqJiwR6wd8iIQFPInZfIphBNUBIyDyeqnNQTOOWpifmfloTHLRa=w1200-h900-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn-yyF_APY3C43y3zuJqOGAc43ISEk2mCaUmZMsRygUdNsG0_LJjATARnTlVDVfJMzrAx8wEs_SmcRX51eM-T9iU2p5i2zXIb7AXLXjp3rLRJ5HJTiibB0IYumfO2jcf_WrtfxJ=w1200-h900-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnD87LIQjczsHpzZwqVl4EMpPLKFzoidl6h1UCQoFcx68FgpJ6kYGvtXsgxgN_Dh-KFsk7UPb4fiKI2iH-v-nti_eb2QXMp0qmmN7Q7OlURXgr19-53khvjTCuKBXbHNxj7wkO2=w1200-h900-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlj085OekRmNxa8Qe-dJhhwW4zpVj6XOyl11HNlCuy0Y8GFX03zKutgodRko7k6D0tUKFixlfi1LQz0X1tRirifD6UPten7hUlE8l4CSTA0XjMJUpouZUGRKsugcvcNBloyfhZB=w1200-h900-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAwep8JoNvlaTlFaWlbo8xJZj1B9LBlsRw4ioKt4RBQIWBrHarDRxszjcEP5w4x6iRMm0Vu7t0JzMd8t0-oWIFnym0ZrTz8k0JdolOWTZRZW2LDXiz7Sy19rTIinIOksuGKIWB0NhizX7_yV0w=w1200-h900-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqcOm8DusLPHFbHVYiy4fuSLyrpHLLQlHKdc7YrYjhjg23QDH1o-NFdRbjBoiQeW-K7jcbaZb7rs2p337tYGVqF4faZt2XbwYqinBj1RqDj_CeUQzwkqiV7pvrgsOnT1zpLtOi7=w1200-h900-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAwep3QSbt-t3tpRnOpNg-itdI9tOeJPg2Z6u1t53XWeXxWlxw-0T-36hJ8qJWmjwCAoobwPs1HcDFKQ9vwVDmNmV0EuLLyJGVDoS1YINMHXpTQGnxiypJ0CX5mxnKUEDqFmEW1f8=w1200-h900-k-no"
+    ],
+    "savedFiles": [
+      {
+        "file": "venue1.jpeg",
+        "size": 186162,
+        "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnFs1za6psQVj_AdvdRRMJvgOeIDQUOsjckqROUgu_jaI4eoffA399pgWDSZ9mfSQqMFZCO4I3-H8Ya0JrYy_RjnI6APd1QJIXtDB3b8FVJo35WvkIjGztLUYZdk7vVP58l3GA=w1200-h900-k-no"
+      },
+      {
+        "file": "venue2.jpeg",
+        "size": 230078,
+        "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkMyZbLEDX88VdjuNp3Si-gI1nxqeXUSuXnal6pL4zV2VY8pEtSp9aOigCntIcN7JLhxmR5VQUTKtxJKeQ-nYyGQoLg9MIO07D-Arb4skdp-CAi0ETNjiPERIP6o0Bu87mlGBMv=w1200-h900-k-no"
+      },
+      {
+        "file": "venue3.jpeg",
+        "size": 52131,
+        "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmzQNIuGEHKNufmckastYuM6J2jNGviMiKZyjs85qjOd393sM_qct7IZ9ncq61f2OaceklJLiJgGY-wyQWs4X0qN_XB-GsrISFFj95XyEHx5dw38DN1_RGnvOwqVrl9SZjMjqgBMw=w1200-h900-k-no"
+      },
+      {
+        "file": "venue4.jpeg",
+        "size": 94273,
+        "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkFTqtwQcT2HD_Znf16sZNf76Kzrfo-pKwHtUpB0TqDsqC4ysrP0EeT3vAXuhanwsds7sg3f1grImbbRg0IJ-B-0z_hwmj969TB7p9zs7vKxGbrkQyZaLfU8Cf4RfLsRQeQ4_fe=w1200-h900-k-no"
+      },
+      {
+        "file": "venue5.jpeg",
+        "size": 61969,
+        "url": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhHzohykERGdXzGxk75z-H385o3LQkKRHw_qyf_6xfcHJJDAXgBZHoNmqI8ykbwkQkm4jXDipfh17wV20YGvSRoEc_okWn7JwzANEcjK5CUp1cy0AObLgqcgN5kN6J5f6Pu3MFG8D6Hfrh0xoKyAwpUPFq2_q6gDuaRWGrLe5un3IcZ2a16WxVYaqg=w1200-h900-k-no"
+      },
+      {
+        "file": "venue6.jpeg",
+        "size": 146958,
+        "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmlGNLjbG-LpQmz7O1VJRBE1EAXiDEv5iPLHEW7foOA1IcNqbex6xRRuoZjuWLWc6XSR3YSH6EMd0BNztoTupqJiwR6wd8iIQFPInZfIphBNUBIyDyeqnNQTOOWpifmfloTHLRa=w1200-h900-k-no"
+      }
+    ]
+  },
+  {
+    "slug": "radisson-blu-marina-delhi",
+    "source": "google",
+    "status": 200,
+    "found": 149
+  },
+  {
+    "slug": "radisson-blu-marina-delhi",
+    "source": "official",
+    "status": 403,
+    "found": 1
+  },
+  {
+    "slug": "radisson-blu-marina-delhi",
+    "saved": 6,
+    "candidateUrls": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmRv6ia5CwV15KY2enBoj6poGEShGg8F9iUHBEKGoLJTAD7pjvO7Hax8gfWsTIJCGAIv7tzv47t88xhI2VL2FacemNFBsG5-p6emlbg8MyOb2dlNL5j5hbP7WQC3tzcaLVLEAFcHQ=w1200-h900-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmmNYbQTtXGe1Y8oO1WnB2Bsol4930dhs0PP2lU0DEglrh_R91RHFRR44TVwBkKTMdcEvifTTSRtqpYQayhibhNRB7X32Q2Z08ZEuL3O1Qk87vf0I6-WlVGszkWJZbclTJBlCGugPnQUMiY=w1200-h900-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn-tRxCA5O4ZihwaA8IlK39eghhuTrP4hN4IocJ8Vznz48u7YovU9D4JnYVq9Lk0e-3MwXf_W6z0N9yQM6n0rPjnYkQQDL5STtNbbq0X77uy-jSYdmXMC9mcbt4JlomXhPo7EoJZvUur5ym=w1200-h900-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkJldOJ0NnAk-N5guw54FjzmdGE--0gCd8pBXLmz8vlzQ2pekalvjqqy6zfCcPyEFVlyME2BM1E9lkNFAGbg5w7TFfsCM_WkNyNzXrdEpYQx6QleL_p0aFmq8XoP32CzAgfHgo0=w1200-h900-k-no",
+      "https://lh3.googleusercontent.com/gps-proxy/ALd4DhHjLAezgQYm5aUmvaYv8YaQnGoACAglaDRBuw8ttV8hS8o0IyzzDxKVK3OPVrai0QUfUA7IFT9942NPrncqeptOxV17zmMeq4giPCo-MVuXZFwT9xSho_0--s5Aixq58YR-zk1BOyceE6T8aZK6KA55rg0__2LoPxqI7gqtUPhaLst9oujJOOo=w1200-h900-k-no",
+      "https://lh3.googleusercontent.com/gps-proxy/ALd4DhEIzfwMrDKiNIVTBOEQP-ZBAXBa8MllOhAAEXtdHnt68k4Yb1rT3IzErI19M7n196zk-qdReiMsEnQdNXliNvzuAICxuE5wLiWuLQnGPYiVTwcEBC-S-_vto8mPVQkT_U7OCf9zhTduLZ86oSu9XE58-PN1bfmw1dJfgEMrCg9XujZ5lmD4OfY=w1200-h900-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm4TSQLmR32cZ0Red2CiMMz29RvLcVYhzEqmPmcb4JY_H4laz6oeh2r9OC3sCsvxydpYBQJBsciFjTwTfMdi1GtuU3nHvs1KlcOB7T9MRQGUCaHUMtI5LgWwbFlRBdxo8nCN7iKm94ZWXgf=w1200-h900-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkd75ZZcD28hjQkiXiIrIjnN7-L9mCz8bfhdD1NZcrK3cU7BMneHccMEi7429_0o0GkoP4vp6WHEfw7UwCQvyWZXvLYQuDQ3gy7lUZh72IvzanzlVfqUvAhGJpRS3Dal08XZVDZ1L5PxSU=w1200-h900-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl-lPZ0o0YImnHUU8JjjyWIuJ0wcZSwQTk5coraJBctwbrOcoUGmSdgRmVq7MuQFUQzwPGg2KlM0BoIqftjHxN42LJN-aERZuo7m5sRtE-UvWhBHArDpAERxn3xlBV_Ks2DesPTUaGasxbC=w1200-h900-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm4daJmWZy8EToXwDahuZwrPKoLS4f2RE-rV2ZC5jlXp7s9CNjvmVF5ParwFtxG6zNN5EtwZUmdqNrGf1DGGCGrJCTsYG_vOASDgxkyFa3HKAMBoUQiDTE1BIG9O5mlYomwFS0HYna1VH8=w1200-h900-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn9U0KFDJYViwU92MNtmciddasfKZg7Fy3G1xS3dVl2I03G6CSsIwGPWQvlmWNfJ89tQTYNdxHmnCKKSm05Kd9NsA57qTV674hfxNIFcvRIjDwjwlTaDQSAqHkUgPHInIrceLm08A=w1200-h900-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkR5O2S0VhrcSWE7-KW8ti2k2OZ_c4_ZtTaH4lOj7le8G_ymx7K57IVr2hYiGRD24QlGGGuW6Wrlu4h0T5NxSl_doV0Be9cRxcjPp3mnwjmdZhf9e8XbTaaqAl_jZYoif8gE9yfliTX1aY=w1200-h900-k-no"
+    ],
+    "savedFiles": [
+      {
+        "file": "venue1.jpeg",
+        "size": 142684,
+        "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmRv6ia5CwV15KY2enBoj6poGEShGg8F9iUHBEKGoLJTAD7pjvO7Hax8gfWsTIJCGAIv7tzv47t88xhI2VL2FacemNFBsG5-p6emlbg8MyOb2dlNL5j5hbP7WQC3tzcaLVLEAFcHQ=w1200-h900-k-no"
+      },
+      {
+        "file": "venue2.jpeg",
+        "size": 107346,
+        "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmmNYbQTtXGe1Y8oO1WnB2Bsol4930dhs0PP2lU0DEglrh_R91RHFRR44TVwBkKTMdcEvifTTSRtqpYQayhibhNRB7X32Q2Z08ZEuL3O1Qk87vf0I6-WlVGszkWJZbclTJBlCGugPnQUMiY=w1200-h900-k-no"
+      },
+      {
+        "file": "venue3.jpeg",
+        "size": 118363,
+        "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn-tRxCA5O4ZihwaA8IlK39eghhuTrP4hN4IocJ8Vznz48u7YovU9D4JnYVq9Lk0e-3MwXf_W6z0N9yQM6n0rPjnYkQQDL5STtNbbq0X77uy-jSYdmXMC9mcbt4JlomXhPo7EoJZvUur5ym=w1200-h900-k-no"
+      },
+      {
+        "file": "venue4.jpeg",
+        "size": 135994,
+        "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkJldOJ0NnAk-N5guw54FjzmdGE--0gCd8pBXLmz8vlzQ2pekalvjqqy6zfCcPyEFVlyME2BM1E9lkNFAGbg5w7TFfsCM_WkNyNzXrdEpYQx6QleL_p0aFmq8XoP32CzAgfHgo0=w1200-h900-k-no"
+      },
+      {
+        "file": "venue5.jpeg",
+        "size": 84504,
+        "url": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhHjLAezgQYm5aUmvaYv8YaQnGoACAglaDRBuw8ttV8hS8o0IyzzDxKVK3OPVrai0QUfUA7IFT9942NPrncqeptOxV17zmMeq4giPCo-MVuXZFwT9xSho_0--s5Aixq58YR-zk1BOyceE6T8aZK6KA55rg0__2LoPxqI7gqtUPhaLst9oujJOOo=w1200-h900-k-no"
+      },
+      {
+        "file": "venue6.jpeg",
+        "size": 45324,
+        "url": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhEIzfwMrDKiNIVTBOEQP-ZBAXBa8MllOhAAEXtdHnt68k4Yb1rT3IzErI19M7n196zk-qdReiMsEnQdNXliNvzuAICxuE5wLiWuLQnGPYiVTwcEBC-S-_vto8mPVQkT_U7OCf9zhTduLZ86oSu9XE58-PN1bfmw1dJfgEMrCg9XujZ5lmD4OfY=w1200-h900-k-no"
+      }
+    ]
+  },
+  {
+    "slug": "fortune-select-global-gurgaon",
+    "source": "google",
+    "status": 200,
+    "found": 30
+  },
+  {
+    "slug": "fortune-select-global-gurgaon",
+    "source": "official",
+    "status": 200,
+    "found": 0
+  },
+  {
+    "slug": "fortune-select-global-gurgaon",
+    "saved": 6,
+    "candidateUrls": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlvzEK6HuQKJhkuHFLQX1mGlTsWlpj5Zr9YUHrlJETh7C2QqIpn1K9_aJQpUDlmAeaPjnPv4OruUkYSjESub0GsFNHhqbAiXTvFuPdbvQME2bemye_arg72YiU2F9VVsgffjgg1762Ucak=w1200-h900-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnDtNJB7k3R5nUE7kIdIRLtSgeQDshPUcLQ4zUMxplXycCdkRA6xhYU5AONP80WGdEg5sal--5Pam6jdeQEVhwLyh4CrluWNAhw7LhbgwgVHsPetKggHzDQu6N3D2FBa7bjDg9s=w1200-h900-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn59MmJxNn5fxR-a1Q11cmWgL8QkjjEFv-uiKMR18BR1DH2c2jGCHEXlZ3Zt2QByNOmAQW0-LXezGmM2GBIhp_r9clrJynZRbo18Iy-KMFwdHjADneesebwDiX4pSN6MhNTANu5=w1200-h900-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqrY3oy5zvnaKbneq85IdCpQhnELqsORCwS0xppQzqZmWT9qiJCR5h_xgCWxaSYkg9s43YwY9uVr66BBWMWrdzqNiu1rwfemI5LjxcI7mm5dE36ieeLP3MA28l8fKJlY_bJB1be=w1200-h900-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAwep3QSbt-t3tpRnOpNg-itdI9tOeJPg2Z6u1t53XWeXxWlxw-0T-36hJ8qJWmjwCAoobwPs1HcDFKQ9vwVDmNmV0EuLLyJGVDoS1YINMHXpTQGnxiypJ0CX5mxnKUEDqFmEW1f8=w1200-h900-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqgSk12lbszWWttnMdT2B7bGt51QXiVQafOzFsAERu0d_Y_VuYSSI_Rf-UgP8Iw-yunpnWFLdHxBOJqq3HV1kmMzwuP8PogD7AMMC5QHY_JyISGIlv7Kki0E3TBAe-vHN7nK_gx=w1200-h900-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAwep8fKYEiiXw7NpsM9psX8ZGy3KV0QJIRsIccj7PeVW55DbH6TrgAVR-Vxa-Vupp8Mnwcjh237I_y_T_4Os5B5XCEvrk2Bp0ksWutGyZ90XWoHFRWhu7QnWxKRKWsQCRhp_fbpqi=w1200-h900-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAwep37fRfLAIuj5cqBQZZYLX3YLqbZt9LhBl1kvsjNIbIjrbTdUQecpIn2cY-T1uvSbwC1hZ3GVkc7DZXS9-f1hCuzK5fGbHIbaDsldd3lStng3Z9XnqKTUD5rBt-JUndBPJe2cAD=w1200-h900-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepPXErFd8l93qDZ4_-29mXL9h2vaAH2Z9_4BLH8oO5vZWkvQiGxBPr2BcCKO0bkMZ3d8fk3nzfNmB3cWEzh-NsMTmMJflFHKP3EgdvYrUk3nkXnHxCCnNlIXgMXytloqq8g3pQ=w1200-h900-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepsVFzM8IuwhorR5qTrR-0G3exPMUU3dbwlkLkh7OvOdlJFXXSXfSHKmfU5NVsVnXA9FMAmlMXcB6TD5gTy0MR7oRsaBCUEoMKWA6If-EBvMrJIdNr27uklzfIpxcWT0j_5UMg8xw=w1200-h900-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepFH6GVva6pgiS_R3z82xIRQl0Qp9415sNua4HZIu2KlhytZyesPwpIfkJr3UWpJTgyL850UDZrQhNRfCZ3vsHUAplOJ8c0k26Kqn5V2MqJdZBp-HLpb6xkwVaqhiP2RTyHoPWE=w1200-h900-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAwerKGIdOAoa60WAqdcS2FJiZSpt2heIs7BkmqsHtXk-Jxu85sPYfVmpfVrVPHicEnF8p_ZBfDVP5jFsN6rIjvC8ox6lFsE6uFT_EFfzGv7Dj77CGZD57Xs3Oca_-hzhasI6tHp8-Nw=w1200-h900-k-no"
+    ],
+    "savedFiles": [
+      {
+        "file": "venue1.jpeg",
+        "size": 291520,
+        "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlvzEK6HuQKJhkuHFLQX1mGlTsWlpj5Zr9YUHrlJETh7C2QqIpn1K9_aJQpUDlmAeaPjnPv4OruUkYSjESub0GsFNHhqbAiXTvFuPdbvQME2bemye_arg72YiU2F9VVsgffjgg1762Ucak=w1200-h900-k-no"
+      },
+      {
+        "file": "venue2.jpeg",
+        "size": 125500,
+        "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnDtNJB7k3R5nUE7kIdIRLtSgeQDshPUcLQ4zUMxplXycCdkRA6xhYU5AONP80WGdEg5sal--5Pam6jdeQEVhwLyh4CrluWNAhw7LhbgwgVHsPetKggHzDQu6N3D2FBa7bjDg9s=w1200-h900-k-no"
+      },
+      {
+        "file": "venue3.jpeg",
+        "size": 161613,
+        "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn59MmJxNn5fxR-a1Q11cmWgL8QkjjEFv-uiKMR18BR1DH2c2jGCHEXlZ3Zt2QByNOmAQW0-LXezGmM2GBIhp_r9clrJynZRbo18Iy-KMFwdHjADneesebwDiX4pSN6MhNTANu5=w1200-h900-k-no"
+      },
+      {
+        "file": "venue4.jpeg",
+        "size": 214916,
+        "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmuJjgYtpuhQjDFj4XOg6Qsf8xfchLJ4MqBKJlKrhz88jko2QzFzmkgsKFBlImf5WAj0CmcLvjqGg6rWViOf5IxkTroNFyUnypE7Iu4Pzmak0FNLTsNokPmy0_lRVsSqXx-nupb=w1200-h900-k-no"
+      },
+      {
+        "file": "venue5.jpeg",
+        "size": 314213,
+        "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWloOFPK25f8onRWpMdbT5aijI26leITR4P2cttfqmTCGm5ms-ODu-tp-soDbxZJBibwWInxgf2lp77-y4X2d8GJ3Ro-px26dO1SCzn81PAdEUDvz2qC9zIanxmCUjIVNGG2uchG=w1200-h900-k-no"
+      },
+      {
+        "file": "venue6.jpeg",
+        "size": 207434,
+        "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlWngvnCp9QDoujb_6lFDcYi1bsD0fC4TTGsWqgBAIPCgTHqqxWKJ-GQ2QlFf1Dk70roSBSvPYc51WGNv6F2oVVYuce30NMIxNY3NmMQks8HsgMYk_F4z-QdgUT_dCWsYzopc4ayA=w1200-h900-k-no"
+      }
+    ]
+  },
+  {
+    "slug": "park-inn-radisson-lajpat-nagar",
+    "source": "google",
+    "status": 200,
+    "found": 48
+  },
+  {
+    "slug": "park-inn-radisson-lajpat-nagar",
+    "source": "official",
+    "status": 403,
+    "found": 1
+  },
+  {
+    "slug": "park-inn-radisson-lajpat-nagar",
+    "saved": 6,
+    "candidateUrls": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnDRtE4p3CRYFoIzWySLxTUJwx7JlAQK-07Zva1Dc2sryhn66KuacHEq9uRsAj6wyiEUBCIVYIIOx4ugEEf_gZNwlewa3TcXRQf3SCQH56V7Lwbu7pqf0LfxK8cHz2vCOJOQ2Sspq-g4vfL=w1200-h900-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkM5O-HUKOnKtVWRCiK2xYWE0ijXMIESew-md_TcaVGeHSQQq5izRMSCNH4KWYNrI3vAp2vw0u5qUvaByXiJVju-vOJl8pWuNptRkFG6OIHRG-NsVJRh8pcs3o6Tw6ayM2dd1YViw=w1200-h900-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkL-Sk7e2-jBxVWDVCp_wj2mGUoKy2C65q0vAox8qRAImFbm8WQnF296Osnfa9QAKfDk-H5h-_ctzB93vNET0XQGvrF0pIfvYoKpQO4JCx8nuLXyrdL5yPtAQ6Zl2PXdPy46p2dCg=w1200-h900-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmLBornBNeesfMiW0Mcr_wkysiqpUhGcnTuuwDpyiKW8WRTI4W_nw1lWledxDyVUdK7evUgTUcDoF78YEFNuGEaflzjT2JYhz8doNKdohA7vCfXZBeS63zpYcUgsSttCHrAwZnd=w1200-h900-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmLlzIcqhpw2dY-0DtD9jwDE_gzRk0DHS4QGofAs2HIXCnpr6_zLFQrCGa69FlmKj5jOtqZXxadWYqicBMujBBndWy2ZaZ6paWmAf_lx8YFhpa-vDNPSUBPFCT_-zy3z1etuPRrvg=w1200-h900-k-no",
+      "https://lh3.googleusercontent.com/gps-proxy/ALd4DhGmF2_7uVAMHx9bx-PVsC6yRaLmTn_oWq5XscdUFxl0XKAExut1FcogK_a7BsivjzDoPnW7VLk3aIOAmi5av4ZCH3BzMNsN-Lv1aUY_jx_dj_ek3VymmTKFfDMpF4jk9Bdxaf4OnB6_oJidq9D_41i3_p-b0XnWy6VrsiGtN1IEuPJorcGsDkdQ=w1200-h900-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnYcLWs6n3ty4s0tYsCz0dSyCuiCrljPUjSll_nPuq6puyDHwqPaVkEpSqKlUlEDjv6NNmMjrCcNwANDnekWrJ0Jea0kSf7UnO1dM0oXii5SN4OY0J3hD6YYhyj4BxiErW6QVQ=w1200-h900-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnYLh7J2eLDD2rlDcDofnhMayb2sVHjVqPdyBJMnXfx-wBxVhwpZ_TMLo1XyxgWP11tQHOnZ9w5WOayN8XprqO-ceehcwVXFWq5AVv5iuKDSrxxuHs1FQJM6hNgm1bGUVoAXNcp=w1200-h900-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnpffPvk_uvKZHfABjrO8hDCe66OE-vSnON_wKEHQ95oeZFOaWvdJDQA3JB3YLrEjtKkpsOoY4S2wiFZwEQBAtXBZuMK8_5s-56M_-j0X2M6IkjxgYB4DrqzI7KDlHkt8Ht3p8E=w1200-h900-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk2fvMbvODeVCSDGu7Fcqz5yoG8KPXOcy4MwvbKy2-Rkc3yVmUJ0yNDTP0oFPgp7K-zlzEQIqUVjEl2ITW0mZkO06xt6GAZgE-KwwmDf3BBOLdN0HI3lEEeNB7Ey2WvjSp66Ft2=w1200-h900-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqcOm8DusLPHFbHVYiy4fuSLyrpHLLQlHKdc7YrYjhjg23QDH1o-NFdRbjBoiQeW-K7jcbaZb7rs2p337tYGVqF4faZt2XbwYqinBj1RqDj_CeUQzwkqiV7pvrgsOnT1zpLtOi7=w1200-h900-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAwep3QSbt-t3tpRnOpNg-itdI9tOeJPg2Z6u1t53XWeXxWlxw-0T-36hJ8qJWmjwCAoobwPs1HcDFKQ9vwVDmNmV0EuLLyJGVDoS1YINMHXpTQGnxiypJ0CX5mxnKUEDqFmEW1f8=w1200-h900-k-no"
+    ],
+    "savedFiles": [
+      {
+        "file": "venue1.jpeg",
+        "size": 294394,
+        "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnDRtE4p3CRYFoIzWySLxTUJwx7JlAQK-07Zva1Dc2sryhn66KuacHEq9uRsAj6wyiEUBCIVYIIOx4ugEEf_gZNwlewa3TcXRQf3SCQH56V7Lwbu7pqf0LfxK8cHz2vCOJOQ2Sspq-g4vfL=w1200-h900-k-no"
+      },
+      {
+        "file": "venue2.jpeg",
+        "size": 93397,
+        "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkM5O-HUKOnKtVWRCiK2xYWE0ijXMIESew-md_TcaVGeHSQQq5izRMSCNH4KWYNrI3vAp2vw0u5qUvaByXiJVju-vOJl8pWuNptRkFG6OIHRG-NsVJRh8pcs3o6Tw6ayM2dd1YViw=w1200-h900-k-no"
+      },
+      {
+        "file": "venue3.jpeg",
+        "size": 108481,
+        "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkL-Sk7e2-jBxVWDVCp_wj2mGUoKy2C65q0vAox8qRAImFbm8WQnF296Osnfa9QAKfDk-H5h-_ctzB93vNET0XQGvrF0pIfvYoKpQO4JCx8nuLXyrdL5yPtAQ6Zl2PXdPy46p2dCg=w1200-h900-k-no"
+      },
+      {
+        "file": "venue4.jpeg",
+        "size": 99898,
+        "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmLBornBNeesfMiW0Mcr_wkysiqpUhGcnTuuwDpyiKW8WRTI4W_nw1lWledxDyVUdK7evUgTUcDoF78YEFNuGEaflzjT2JYhz8doNKdohA7vCfXZBeS63zpYcUgsSttCHrAwZnd=w1200-h900-k-no"
+      },
+      {
+        "file": "venue5.jpeg",
+        "size": 43324,
+        "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmLlzIcqhpw2dY-0DtD9jwDE_gzRk0DHS4QGofAs2HIXCnpr6_zLFQrCGa69FlmKj5jOtqZXxadWYqicBMujBBndWy2ZaZ6paWmAf_lx8YFhpa-vDNPSUBPFCT_-zy3z1etuPRrvg=w1200-h900-k-no"
+      },
+      {
+        "file": "venue6.jpeg",
+        "size": 71424,
+        "url": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhGmF2_7uVAMHx9bx-PVsC6yRaLmTn_oWq5XscdUFxl0XKAExut1FcogK_a7BsivjzDoPnW7VLk3aIOAmi5av4ZCH3BzMNsN-Lv1aUY_jx_dj_ek3VymmTKFfDMpF4jk9Bdxaf4OnB6_oJidq9D_41i3_p-b0XnWy6VrsiGtN1IEuPJorcGsDkdQ=w1200-h900-k-no"
+      }
+    ]
+  },
+  {
+    "slug": "hilton-garden-inn-saket",
+    "source": "google",
+    "status": 200,
+    "found": 50
+  },
+  {
+    "slug": "hilton-garden-inn-saket",
+    "source": "official",
+    "status": 403,
+    "found": 0
+  },
+  {
+    "slug": "hilton-garden-inn-saket",
+    "saved": 6,
+    "candidateUrls": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlxOmUv60T0iOZTNU8sNe_CfrndzT5BaLt9tKLuTE7PQk8TLpwvXqSUpV0Itq-JaCIdLtxRo7gCEia7xiwAZBYi_qokelQa0eRIaFtD7maWtqtFYEAYRxrpeThraVNjXp__fcaieg=w1200-h900-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnfBvfYcWU2lI1KF9n93nx9hJcK8YwBLOixywniWr_2tm31XmAllPT_lLVj6DJntPeVHe0qWy5m_xtGRcGgWYxBDYqMzfeTUvA77y0UD3wCwB5xnAZ-Aqjo_xiEruO-5PjBKouSg0xpr1eg=w1200-h900-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlYLZBE8Myzy7-989Haiuku7ad16PG_aWfernYNnfTMahSTXxstQeoTKtFpEhdi0RuFCPyyO0Aqc0ug68Wx5KBlSFagsdAdXCPRnpU5i0VFSuetbna4EC0pU7xGB-fbASz0t6c=w1200-h900-k-no",
+      "https://lh3.googleusercontent.com/gps-proxy/ALd4DhGgM5rcRxmdelKpXeR42rCCeX7vmKZWrcYZ9B2qBkhuUQZPAHo2gFdkl-_VZMkgS1Z6Q7VdxwxkmzCJgVNcT3k7Lkbix12r8fhv44DSOXNexI19iDsHtsbzeWZgwSGjGZjeKvtqsjGPxr8K7EeyW4-mDEIXrHmvLMEJjUoOrGZQIleoreE5lFNF=w1200-h900-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnCOxXik7VaSTHqhij0vNuz6hwInF1eAoZowjviXo7qfM0lPAbLDkAf3Ok44A2y5tbISTLZtsDVHHVLA_s03HojZE5vrhwaoBKXEDIr0xYg8DJWvUpfmNnKs-jwpAwyKs2YdgEC9w=w1200-h900-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnE1acS78-VW_23v9E_XpR1Em-piVzgTmcKsVByqFfZ0Kcbe2CJUn9MUpOMmgPE1iBU_CElh8z-Usb2QcQmW7LNqVudUPqHOuQ2eOvJEqWGavhf0tNLNQR5S-fxacEHUpUVp6k=w1200-h900-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn3mwfKu5HiwHN3OQKqVbWZJ3zSLWROk61Jtuipq69SRtQcZFJKytbQoyvhLLrzaVpIGAVAj9xikLOE0Ry9KwXS7tpztXSbLyHNfrhL4knN1apNXpPzh_MgQ9sMsmDXj4POp7tw=w1200-h900-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmll9MhXWRiBUQOl10wUu9yxc06yiaQ5q_OvbLMN8qTxzTsLRrp6b-7ubinNQaLSS_AtkHM7iUIyDe9CBwY-Npl2xcuNGrGd8vT_q8dc7fivoB0rPFdvN6FuoK3qJ8pP73Pl_5t=w1200-h900-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkBiMXCRm0Oa6R8OwOnz44dej9lGTROgFQzvJHKrmR5Zqzfvse8w4r0VG65Weef6hAfwavY3PTV82O_McqAN2QkfkMY2kxjtYwklkVBCJ5oHWxNFugeVAsjl5W3JwzbuvVv2W6n=w1200-h900-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkZ2xMEohNn43fNny4vVE2BygZrd5XzHZA2Cw3l7_3BdOXgTs2-o0j0cQGxiS9IyMOoEmR9F9vicL6xekkGxqexe8E2aoFnEwo-NL7xrrV5z9gg7Ogkcj_zWAyGl11Ze4DwzaUqPA=w1200-h900-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAwep3QSbt-t3tpRnOpNg-itdI9tOeJPg2Z6u1t53XWeXxWlxw-0T-36hJ8qJWmjwCAoobwPs1HcDFKQ9vwVDmNmV0EuLLyJGVDoS1YINMHXpTQGnxiypJ0CX5mxnKUEDqFmEW1f8=w1200-h900-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqcOm8DusLPHFbHVYiy4fuSLyrpHLLQlHKdc7YrYjhjg23QDH1o-NFdRbjBoiQeW-K7jcbaZb7rs2p337tYGVqF4faZt2XbwYqinBj1RqDj_CeUQzwkqiV7pvrgsOnT1zpLtOi7=w1200-h900-k-no"
+    ],
+    "savedFiles": [
+      {
+        "file": "venue1.jpeg",
+        "size": 199107,
+        "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlxOmUv60T0iOZTNU8sNe_CfrndzT5BaLt9tKLuTE7PQk8TLpwvXqSUpV0Itq-JaCIdLtxRo7gCEia7xiwAZBYi_qokelQa0eRIaFtD7maWtqtFYEAYRxrpeThraVNjXp__fcaieg=w1200-h900-k-no"
+      },
+      {
+        "file": "venue2.jpeg",
+        "size": 223998,
+        "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnfBvfYcWU2lI1KF9n93nx9hJcK8YwBLOixywniWr_2tm31XmAllPT_lLVj6DJntPeVHe0qWy5m_xtGRcGgWYxBDYqMzfeTUvA77y0UD3wCwB5xnAZ-Aqjo_xiEruO-5PjBKouSg0xpr1eg=w1200-h900-k-no"
+      },
+      {
+        "file": "venue3.jpeg",
+        "size": 188753,
+        "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlYLZBE8Myzy7-989Haiuku7ad16PG_aWfernYNnfTMahSTXxstQeoTKtFpEhdi0RuFCPyyO0Aqc0ug68Wx5KBlSFagsdAdXCPRnpU5i0VFSuetbna4EC0pU7xGB-fbASz0t6c=w1200-h900-k-no"
+      },
+      {
+        "file": "venue4.jpeg",
+        "size": 40531,
+        "url": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhGgM5rcRxmdelKpXeR42rCCeX7vmKZWrcYZ9B2qBkhuUQZPAHo2gFdkl-_VZMkgS1Z6Q7VdxwxkmzCJgVNcT3k7Lkbix12r8fhv44DSOXNexI19iDsHtsbzeWZgwSGjGZjeKvtqsjGPxr8K7EeyW4-mDEIXrHmvLMEJjUoOrGZQIleoreE5lFNF=w1200-h900-k-no"
+      },
+      {
+        "file": "venue5.jpeg",
+        "size": 134568,
+        "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnCOxXik7VaSTHqhij0vNuz6hwInF1eAoZowjviXo7qfM0lPAbLDkAf3Ok44A2y5tbISTLZtsDVHHVLA_s03HojZE5vrhwaoBKXEDIr0xYg8DJWvUpfmNnKs-jwpAwyKs2YdgEC9w=w1200-h900-k-no"
+      },
+      {
+        "file": "venue6.jpeg",
+        "size": 349159,
+        "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnE1acS78-VW_23v9E_XpR1Em-piVzgTmcKsVByqFfZ0Kcbe2CJUn9MUpOMmgPE1iBU_CElh8z-Usb2QcQmW7LNqVudUPqHOuQ2eOvJEqWGavhf0tNLNQR5S-fxacEHUpUVp6k=w1200-h900-k-no"
+      }
+    ]
+  }
+]

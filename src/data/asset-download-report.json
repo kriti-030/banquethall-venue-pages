@@ -1,0 +1,330 @@
+[
+  {
+    "ok": true,
+    "dest": "logo.png",
+    "size": 56273
+  },
+  {
+    "ok": true,
+    "dest": "customerimage.svg",
+    "size": 27507
+  },
+  {
+    "ok": true,
+    "dest": "Venuesphotos/edengarden/eden1.jpeg",
+    "size": 84753
+  },
+  {
+    "ok": true,
+    "dest": "Venuesphotos/edengarden/eden2.jpeg",
+    "size": 186872
+  },
+  {
+    "ok": true,
+    "dest": "Venuesphotos/edengarden/eden3.jpeg",
+    "size": 215909
+  },
+  {
+    "ok": true,
+    "dest": "Venuesphotos/edengarden/eden4.jpeg",
+    "size": 166177
+  },
+  {
+    "ok": true,
+    "dest": "Venuesphotos/edengarden/eden5.jpeg",
+    "size": 718775
+  },
+  {
+    "ok": true,
+    "dest": "Venuesphotos/edengarden/eden6.jpeg",
+    "size": 70388
+  },
+  {
+    "ok": false,
+    "dest": "le-meridien-new-delhi/venue1.jpeg",
+    "error": "HTTP 404 for https://cache.marriott.com/content/dam/marriott-renditions/DELMD/delmd-exterior-0065-hor-clsc.jpg",
+    "url": "https://cache.marriott.com/content/dam/marriott-renditions/DELMD/delmd-exterior-0065-hor-clsc.jpg"
+  },
+  {
+    "ok": false,
+    "dest": "le-meridien-new-delhi/venue2.jpeg",
+    "error": "HTTP 404 for https://cache.marriott.com/content/dam/marriott-renditions/DELMD/delmd-lobby-0037-hor-clsc.jpg",
+    "url": "https://cache.marriott.com/content/dam/marriott-renditions/DELMD/delmd-lobby-0037-hor-clsc.jpg"
+  },
+  {
+    "ok": false,
+    "dest": "le-meridien-new-delhi/venue3.jpeg",
+    "error": "HTTP 404 for https://cache.marriott.com/content/dam/marriott-renditions/DELMD/delmd-restaurant-0054-hor-clsc.jpg",
+    "url": "https://cache.marriott.com/content/dam/marriott-renditions/DELMD/delmd-restaurant-0054-hor-clsc.jpg"
+  },
+  {
+    "ok": false,
+    "dest": "le-meridien-new-delhi/venue4.jpeg",
+    "error": "HTTP 404 for https://cache.marriott.com/content/dam/marriott-renditions/DELMD/delmd-ballroom-0052-hor-clsc.jpg",
+    "url": "https://cache.marriott.com/content/dam/marriott-renditions/DELMD/delmd-ballroom-0052-hor-clsc.jpg"
+  },
+  {
+    "ok": false,
+    "dest": "le-meridien-new-delhi/venue5.jpeg",
+    "error": "HTTP 404 for https://cache.marriott.com/content/dam/marriott-renditions/DELMD/delmd-pool-0057-hor-clsc.jpg",
+    "url": "https://cache.marriott.com/content/dam/marriott-renditions/DELMD/delmd-pool-0057-hor-clsc.jpg"
+  },
+  {
+    "ok": false,
+    "dest": "le-meridien-new-delhi/venue6.jpeg",
+    "error": "HTTP 404 for https://cache.marriott.com/content/dam/marriott-renditions/DELMD/delmd-guestroom-0044-hor-clsc.jpg",
+    "url": "https://cache.marriott.com/content/dam/marriott-renditions/DELMD/delmd-guestroom-0044-hor-clsc.jpg"
+  },
+  {
+    "ok": false,
+    "dest": "crowne-plaza-new-delhi-okhla/venue1.jpeg",
+    "error": "HTTP 403 for https://digital.ihg.com/is/image/ihg/crowne-plaza-new-delhi-4767803485-original",
+    "url": "https://digital.ihg.com/is/image/ihg/crowne-plaza-new-delhi-4767803485-original"
+  },
+  {
+    "ok": false,
+    "dest": "crowne-plaza-new-delhi-okhla/venue2.jpeg",
+    "error": "HTTP 403 for https://digital.ihg.com/is/image/ihg/crowne-plaza-new-delhi-4767803495-original",
+    "url": "https://digital.ihg.com/is/image/ihg/crowne-plaza-new-delhi-4767803495-original"
+  },
+  {
+    "ok": false,
+    "dest": "crowne-plaza-new-delhi-okhla/venue3.jpeg",
+    "error": "HTTP 403 for https://digital.ihg.com/is/image/ihg/crowne-plaza-new-delhi-4767803505-original",
+    "url": "https://digital.ihg.com/is/image/ihg/crowne-plaza-new-delhi-4767803505-original"
+  },
+  {
+    "ok": false,
+    "dest": "crowne-plaza-new-delhi-okhla/venue4.jpeg",
+    "error": "HTTP 403 for https://digital.ihg.com/is/image/ihg/crowne-plaza-new-delhi-4767803515-original",
+    "url": "https://digital.ihg.com/is/image/ihg/crowne-plaza-new-delhi-4767803515-original"
+  },
+  {
+    "ok": false,
+    "dest": "crowne-plaza-new-delhi-okhla/venue5.jpeg",
+    "error": "HTTP 403 for https://digital.ihg.com/is/image/ihg/crowne-plaza-new-delhi-4767803525-original",
+    "url": "https://digital.ihg.com/is/image/ihg/crowne-plaza-new-delhi-4767803525-original"
+  },
+  {
+    "ok": false,
+    "dest": "crowne-plaza-new-delhi-okhla/venue6.jpeg",
+    "error": "HTTP 403 for https://digital.ihg.com/is/image/ihg/crowne-plaza-new-delhi-4767803535-original",
+    "url": "https://digital.ihg.com/is/image/ihg/crowne-plaza-new-delhi-4767803535-original"
+  },
+  {
+    "ok": false,
+    "dest": "the-suryaa-new-delhi/venue1.jpeg",
+    "error": "HTTP 404 for https://www.thesuryaa.com/images/home-banner.jpg",
+    "url": "https://www.thesuryaa.com/images/home-banner.jpg"
+  },
+  {
+    "ok": false,
+    "dest": "the-suryaa-new-delhi/venue2.jpeg",
+    "error": "HTTP 404 for https://www.thesuryaa.com/images/rooms/deluxe-room.jpg",
+    "url": "https://www.thesuryaa.com/images/rooms/deluxe-room.jpg"
+  },
+  {
+    "ok": false,
+    "dest": "the-suryaa-new-delhi/venue3.jpeg",
+    "error": "HTTP 404 for https://www.thesuryaa.com/images/restaurant.jpg",
+    "url": "https://www.thesuryaa.com/images/restaurant.jpg"
+  },
+  {
+    "ok": false,
+    "dest": "the-suryaa-new-delhi/venue4.jpeg",
+    "error": "HTTP 404 for https://www.thesuryaa.com/images/pool.jpg",
+    "url": "https://www.thesuryaa.com/images/pool.jpg"
+  },
+  {
+    "ok": false,
+    "dest": "the-suryaa-new-delhi/venue5.jpeg",
+    "error": "HTTP 404 for https://www.thesuryaa.com/images/banquet.jpg",
+    "url": "https://www.thesuryaa.com/images/banquet.jpg"
+  },
+  {
+    "ok": false,
+    "dest": "the-suryaa-new-delhi/venue6.jpeg",
+    "error": "HTTP 404 for https://www.thesuryaa.com/images/lobby.jpg",
+    "url": "https://www.thesuryaa.com/images/lobby.jpg"
+  },
+  {
+    "ok": false,
+    "dest": "goldfinch-hotel-delhi-ncr/venue1.jpeg",
+    "error": "HTTP 404 for https://goldfinchhotels.com/wp-content/uploads/2023/05/Goldfinch-Delhi-NCR-Hotel-Exterior.jpg",
+    "url": "https://goldfinchhotels.com/wp-content/uploads/2023/05/Goldfinch-Delhi-NCR-Hotel-Exterior.jpg"
+  },
+  {
+    "ok": false,
+    "dest": "goldfinch-hotel-delhi-ncr/venue2.jpeg",
+    "error": "HTTP 404 for https://goldfinchhotels.com/wp-content/uploads/2023/05/Goldfinch-Delhi-NCR-Room.jpg",
+    "url": "https://goldfinchhotels.com/wp-content/uploads/2023/05/Goldfinch-Delhi-NCR-Room.jpg"
+  },
+  {
+    "ok": false,
+    "dest": "goldfinch-hotel-delhi-ncr/venue3.jpeg",
+    "error": "HTTP 404 for https://goldfinchhotels.com/wp-content/uploads/2023/05/Goldfinch-Delhi-NCR-Restaurant.jpg",
+    "url": "https://goldfinchhotels.com/wp-content/uploads/2023/05/Goldfinch-Delhi-NCR-Restaurant.jpg"
+  },
+  {
+    "ok": false,
+    "dest": "goldfinch-hotel-delhi-ncr/venue4.jpeg",
+    "error": "HTTP 404 for https://goldfinchhotels.com/wp-content/uploads/2023/05/Goldfinch-Delhi-NCR-Pool.jpg",
+    "url": "https://goldfinchhotels.com/wp-content/uploads/2023/05/Goldfinch-Delhi-NCR-Pool.jpg"
+  },
+  {
+    "ok": false,
+    "dest": "goldfinch-hotel-delhi-ncr/venue5.jpeg",
+    "error": "HTTP 404 for https://goldfinchhotels.com/wp-content/uploads/2023/05/Goldfinch-Delhi-NCR-Banquet.jpg",
+    "url": "https://goldfinchhotels.com/wp-content/uploads/2023/05/Goldfinch-Delhi-NCR-Banquet.jpg"
+  },
+  {
+    "ok": false,
+    "dest": "goldfinch-hotel-delhi-ncr/venue6.jpeg",
+    "error": "HTTP 404 for https://goldfinchhotels.com/wp-content/uploads/2023/05/Goldfinch-Delhi-NCR-Lounge.jpg",
+    "url": "https://goldfinchhotels.com/wp-content/uploads/2023/05/Goldfinch-Delhi-NCR-Lounge.jpg"
+  },
+  {
+    "ok": false,
+    "dest": "radisson-blu-marina-delhi/venue1.jpeg",
+    "error": "HTTP 404 for https://media.radissonhotels.net/image/radisson-blu-marina-hotel-delhi-connaught-place/exterior/16256-118729-f63228429_3xl.jpg",
+    "url": "https://media.radissonhotels.net/image/radisson-blu-marina-hotel-delhi-connaught-place/exterior/16256-118729-f63228429_3xl.jpg"
+  },
+  {
+    "ok": false,
+    "dest": "radisson-blu-marina-delhi/venue2.jpeg",
+    "error": "HTTP 404 for https://media.radissonhotels.net/image/radisson-blu-marina-hotel-delhi-connaught-place/restaurant/16256-118729-f63228429_3xl.jpg",
+    "url": "https://media.radissonhotels.net/image/radisson-blu-marina-hotel-delhi-connaught-place/restaurant/16256-118729-f63228429_3xl.jpg"
+  },
+  {
+    "ok": false,
+    "dest": "radisson-blu-marina-delhi/venue3.jpeg",
+    "error": "HTTP 404 for https://media.radissonhotels.net/image/radisson-blu-marina-hotel-delhi-connaught-place/guest-room/16256-118729-f63228429_3xl.jpg",
+    "url": "https://media.radissonhotels.net/image/radisson-blu-marina-hotel-delhi-connaught-place/guest-room/16256-118729-f63228429_3xl.jpg"
+  },
+  {
+    "ok": false,
+    "dest": "radisson-blu-marina-delhi/venue4.jpeg",
+    "error": "HTTP 404 for https://media.radissonhotels.net/image/radisson-blu-marina-hotel-delhi-connaught-place/meeting-room/16256-118729-f63228429_3xl.jpg",
+    "url": "https://media.radissonhotels.net/image/radisson-blu-marina-hotel-delhi-connaught-place/meeting-room/16256-118729-f63228429_3xl.jpg"
+  },
+  {
+    "ok": false,
+    "dest": "radisson-blu-marina-delhi/venue5.jpeg",
+    "error": "HTTP 404 for https://media.radissonhotels.net/image/radisson-blu-marina-hotel-delhi-connaught-place/bar-and-lounge/16256-118729-f63228429_3xl.jpg",
+    "url": "https://media.radissonhotels.net/image/radisson-blu-marina-hotel-delhi-connaught-place/bar-and-lounge/16256-118729-f63228429_3xl.jpg"
+  },
+  {
+    "ok": false,
+    "dest": "radisson-blu-marina-delhi/venue6.jpeg",
+    "error": "HTTP 404 for https://media.radissonhotels.net/image/radisson-blu-marina-hotel-delhi-connaught-place/spa/16256-118729-f63228429_3xl.jpg",
+    "url": "https://media.radissonhotels.net/image/radisson-blu-marina-hotel-delhi-connaught-place/spa/16256-118729-f63228429_3xl.jpg"
+  },
+  {
+    "ok": false,
+    "dest": "fortune-select-global-gurgaon/venue1.jpeg",
+    "error": "HTTP 404 for https://www.itchotels.com/content/dam/itchotels/in/en/fortuneselectglobal-gurugram/fortune-select-global-gurugram-exterior.jpg",
+    "url": "https://www.itchotels.com/content/dam/itchotels/in/en/fortuneselectglobal-gurugram/fortune-select-global-gurugram-exterior.jpg"
+  },
+  {
+    "ok": false,
+    "dest": "fortune-select-global-gurgaon/venue2.jpeg",
+    "error": "HTTP 404 for https://www.itchotels.com/content/dam/itchotels/in/en/fortuneselectglobal-gurugram/fortune-select-global-gurugram-room.jpg",
+    "url": "https://www.itchotels.com/content/dam/itchotels/in/en/fortuneselectglobal-gurugram/fortune-select-global-gurugram-room.jpg"
+  },
+  {
+    "ok": false,
+    "dest": "fortune-select-global-gurgaon/venue3.jpeg",
+    "error": "HTTP 404 for https://www.itchotels.com/content/dam/itchotels/in/en/fortuneselectglobal-gurugram/fortune-select-global-gurugram-restaurant.jpg",
+    "url": "https://www.itchotels.com/content/dam/itchotels/in/en/fortuneselectglobal-gurugram/fortune-select-global-gurugram-restaurant.jpg"
+  },
+  {
+    "ok": false,
+    "dest": "fortune-select-global-gurgaon/venue4.jpeg",
+    "error": "HTTP 404 for https://www.itchotels.com/content/dam/itchotels/in/en/fortuneselectglobal-gurugram/fortune-select-global-gurugram-pool.jpg",
+    "url": "https://www.itchotels.com/content/dam/itchotels/in/en/fortuneselectglobal-gurugram/fortune-select-global-gurugram-pool.jpg"
+  },
+  {
+    "ok": false,
+    "dest": "fortune-select-global-gurgaon/venue5.jpeg",
+    "error": "HTTP 404 for https://www.itchotels.com/content/dam/itchotels/in/en/fortuneselectglobal-gurugram/fortune-select-global-gurugram-banquet.jpg",
+    "url": "https://www.itchotels.com/content/dam/itchotels/in/en/fortuneselectglobal-gurugram/fortune-select-global-gurugram-banquet.jpg"
+  },
+  {
+    "ok": false,
+    "dest": "fortune-select-global-gurgaon/venue6.jpeg",
+    "error": "HTTP 404 for https://www.itchotels.com/content/dam/itchotels/in/en/fortuneselectglobal-gurugram/fortune-select-global-gurugram-lobby.jpg",
+    "url": "https://www.itchotels.com/content/dam/itchotels/in/en/fortuneselectglobal-gurugram/fortune-select-global-gurugram-lobby.jpg"
+  },
+  {
+    "ok": false,
+    "dest": "park-inn-radisson-lajpat-nagar/venue1.jpeg",
+    "error": "HTTP 404 for https://media.radissonhotels.net/image/park-inn-by-radisson-new-delhi-lajpat-nagar/exterior/16256-118729-f63228429_3xl.jpg",
+    "url": "https://media.radissonhotels.net/image/park-inn-by-radisson-new-delhi-lajpat-nagar/exterior/16256-118729-f63228429_3xl.jpg"
+  },
+  {
+    "ok": false,
+    "dest": "park-inn-radisson-lajpat-nagar/venue2.jpeg",
+    "error": "HTTP 404 for https://media.radissonhotels.net/image/park-inn-by-radisson-new-delhi-lajpat-nagar/restaurant/16256-118729-f63228429_3xl.jpg",
+    "url": "https://media.radissonhotels.net/image/park-inn-by-radisson-new-delhi-lajpat-nagar/restaurant/16256-118729-f63228429_3xl.jpg"
+  },
+  {
+    "ok": false,
+    "dest": "park-inn-radisson-lajpat-nagar/venue3.jpeg",
+    "error": "HTTP 404 for https://media.radissonhotels.net/image/park-inn-by-radisson-new-delhi-lajpat-nagar/guest-room/16256-118729-f63228429_3xl.jpg",
+    "url": "https://media.radissonhotels.net/image/park-inn-by-radisson-new-delhi-lajpat-nagar/guest-room/16256-118729-f63228429_3xl.jpg"
+  },
+  {
+    "ok": false,
+    "dest": "park-inn-radisson-lajpat-nagar/venue4.jpeg",
+    "error": "HTTP 404 for https://media.radissonhotels.net/image/park-inn-by-radisson-new-delhi-lajpat-nagar/pool/16256-118729-f63228429_3xl.jpg",
+    "url": "https://media.radissonhotels.net/image/park-inn-by-radisson-new-delhi-lajpat-nagar/pool/16256-118729-f63228429_3xl.jpg"
+  },
+  {
+    "ok": false,
+    "dest": "park-inn-radisson-lajpat-nagar/venue5.jpeg",
+    "error": "HTTP 404 for https://media.radissonhotels.net/image/park-inn-by-radisson-new-delhi-lajpat-nagar/meeting-room/16256-118729-f63228429_3xl.jpg",
+    "url": "https://media.radissonhotels.net/image/park-inn-by-radisson-new-delhi-lajpat-nagar/meeting-room/16256-118729-f63228429_3xl.jpg"
+  },
+  {
+    "ok": false,
+    "dest": "park-inn-radisson-lajpat-nagar/venue6.jpeg",
+    "error": "HTTP 404 for https://media.radissonhotels.net/image/park-inn-by-radisson-new-delhi-lajpat-nagar/bar-and-lounge/16256-118729-f63228429_3xl.jpg",
+    "url": "https://media.radissonhotels.net/image/park-inn-by-radisson-new-delhi-lajpat-nagar/bar-and-lounge/16256-118729-f63228429_3xl.jpg"
+  },
+  {
+    "ok": false,
+    "dest": "hilton-garden-inn-saket/venue1.jpeg",
+    "error": "HTTP 404 for https://www.hilton.com/en/hotels/delskgi-hilton-garden-inn-new-delhi-saket/hotel-photos/DELSKGI_Exterior_1_768x512.jpg",
+    "url": "https://www.hilton.com/en/hotels/delskgi-hilton-garden-inn-new-delhi-saket/hotel-photos/DELSKGI_Exterior_1_768x512.jpg"
+  },
+  {
+    "ok": false,
+    "dest": "hilton-garden-inn-saket/venue2.jpeg",
+    "error": "HTTP 404 for https://www.hilton.com/en/hotels/delskgi-hilton-garden-inn-new-delhi-saket/hotel-photos/DELSKGI_Lobby_1_768x512.jpg",
+    "url": "https://www.hilton.com/en/hotels/delskgi-hilton-garden-inn-new-delhi-saket/hotel-photos/DELSKGI_Lobby_1_768x512.jpg"
+  },
+  {
+    "ok": false,
+    "dest": "hilton-garden-inn-saket/venue3.jpeg",
+    "error": "HTTP 404 for https://www.hilton.com/en/hotels/delskgi-hilton-garden-inn-new-delhi-saket/hotel-photos/DELSKGI_Restaurant_1_768x512.jpg",
+    "url": "https://www.hilton.com/en/hotels/delskgi-hilton-garden-inn-new-delhi-saket/hotel-photos/DELSKGI_Restaurant_1_768x512.jpg"
+  },
+  {
+    "ok": false,
+    "dest": "hilton-garden-inn-saket/venue4.jpeg",
+    "error": "HTTP 404 for https://www.hilton.com/en/hotels/delskgi-hilton-garden-inn-new-delhi-saket/hotel-photos/DELSKGI_Pool_1_768x512.jpg",
+    "url": "https://www.hilton.com/en/hotels/delskgi-hilton-garden-inn-new-delhi-saket/hotel-photos/DELSKGI_Pool_1_768x512.jpg"
+  },
+  {
+    "ok": false,
+    "dest": "hilton-garden-inn-saket/venue5.jpeg",
+    "error": "HTTP 404 for https://www.hilton.com/en/hotels/delskgi-hilton-garden-inn-new-delhi-saket/hotel-photos/DELSKGI_MeetingRoom_1_768x512.jpg",
+    "url": "https://www.hilton.com/en/hotels/delskgi-hilton-garden-inn-new-delhi-saket/hotel-photos/DELSKGI_MeetingRoom_1_768x512.jpg"
+  },
+  {
+    "ok": false,
+    "dest": "hilton-garden-inn-saket/venue6.jpeg",
+    "error": "HTTP 404 for https://www.hilton.com/en/hotels/delskgi-hilton-garden-inn-new-delhi-saket/hotel-photos/DELSKGI_GuestRoom_1_768x512.jpg",
+    "url": "https://www.hilton.com/en/hotels/delskgi-hilton-garden-inn-new-delhi-saket/hotel-photos/DELSKGI_GuestRoom_1_768x512.jpg"
+  }
+]

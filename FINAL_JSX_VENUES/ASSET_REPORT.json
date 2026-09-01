@@ -1,0 +1,129 @@
+[
+  {
+    "venue": "LeMeridienNewDelhi",
+    "jsx": "LeMeridienNewDelhi/LeMeridienNewDelhi.jsx",
+    "imageCount": 8,
+    "missing": [],
+    "assets": [
+      "customerimage.svg",
+      "logo.png",
+      "venue1.jpeg",
+      "venue2.jpeg",
+      "venue3.jpeg",
+      "venue4.jpeg",
+      "venue5.jpeg",
+      "venue6.jpeg"
+    ]
+  },
+  {
+    "venue": "CrownePlazaNewDelhiOkhla",
+    "jsx": "CrownePlazaNewDelhiOkhla/CrownePlazaNewDelhiOkhla.jsx",
+    "imageCount": 8,
+    "missing": [],
+    "assets": [
+      "customerimage.svg",
+      "logo.png",
+      "venue1.jpeg",
+      "venue2.jpeg",
+      "venue3.jpeg",
+      "venue4.jpeg",
+      "venue5.jpeg",
+      "venue6.jpeg"
+    ]
+  },
+  {
+    "venue": "TheSuryaaNewDelhi",
+    "jsx": "TheSuryaaNewDelhi/TheSuryaaNewDelhi.jsx",
+    "imageCount": 8,
+    "missing": [],
+    "assets": [
+      "customerimage.svg",
+      "logo.png",
+      "venue1.jpeg",
+      "venue2.jpeg",
+      "venue3.jpeg",
+      "venue4.jpeg",
+      "venue5.jpeg",
+      "venue6.jpeg"
+    ]
+  },
+  {
+    "venue": "GoldfinchHotelFaridabad",
+    "jsx": "GoldfinchHotelFaridabad/GoldfinchHotelFaridabad.jsx",
+    "imageCount": 8,
+    "missing": [],
+    "assets": [
+      "customerimage.svg",
+      "logo.png",
+      "venue1.jpeg",
+      "venue2.jpeg",
+      "venue3.jpeg",
+      "venue4.jpeg",
+      "venue5.jpeg",
+      "venue6.jpeg"
+    ]
+  },
+  {
+    "venue": "RadissonBluMarinaConnaughtPlace",
+    "jsx": "RadissonBluMarinaConnaughtPlace/RadissonBluMarinaConnaughtPlace.jsx",
+    "imageCount": 8,
+    "missing": [],
+    "assets": [
+      "customerimage.svg",
+      "logo.png",
+      "venue1.jpeg",
+      "venue2.jpeg",
+      "venue3.jpeg",
+      "venue4.jpeg",
+      "venue5.jpeg",
+      "venue6.jpeg"
+    ]
+  },
+  {
+    "venue": "FortuneSelectGlobalGurgaon",
+    "jsx": "FortuneSelectGlobalGurgaon/FortuneSelectGlobalGurgaon.jsx",
+    "imageCount": 7,
+    "missing": [],
+    "assets": [
+      "customerimage.svg",
+      "logo.png",
+      "venue1.jpeg",
+      "venue2.jpeg",
+      "venue3.jpeg",
+      "venue4.jpeg",
+      "venue6.jpeg"
+    ]
+  },
+  {
+    "venue": "ParkInnByRadissonLajpatNagar",
+    "jsx": "ParkInnByRadissonLajpatNagar/ParkInnByRadissonLajpatNagar.jsx",
+    "imageCount": 8,
+    "missing": [],
+    "assets": [
+      "customerimage.svg",
+      "logo.png",
+      "venue1.jpeg",
+      "venue2.jpeg",
+      "venue3.jpeg",
+      "venue4.jpeg",
+      "venue5.jpeg",
+      "venue6.jpeg"
+    ]
+  },
+  {
+    "venue": "HiltonGardenInnSaket",
+    "jsx": "HiltonGardenInnSaket/HiltonGardenInnSaket.jsx",
+    "imageCount": 8,
+    "missing": [],
+    "assets": [
+      "customerimage.svg",
+      "logo.png",
+      "venue1.jpeg",
+      "venue2.jpeg",
+      "venue3.jpeg",
+      "venue4.jpeg",
+      "venue5.jpeg",
+      "venue6.jpeg"
+    ]
+  }
+]
