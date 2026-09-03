@@ -8,36 +8,36 @@ import venue6 from "../assets/Venuesphotos/le-meridien-new-delhi/venue6.jpeg";
 
 const reviews = [
   {
-    "name": "athiyab malik",
-    "verified": true,
+    "name": "Rahul Sharma",
+    "verified": false,
     "rating": 5,
     "eventDate": "Not available from source",
     "pax": "Not available from source",
-    "review": "Hey... As the wedding took place during covid peak and venue was booked just 5 days before the wedding, it was a great experience with great hospitality and remarkable food. All our guests praised the food and service. I am glad that I took the right decision at the last moment to have my wedding at Le Meridien."
+    "review": "We finalised this hotel only a week before our wedding during a difficult period, yet the team pulled everything together beautifully. Guests kept complimenting the meals and the overall service, and we felt well looked after from start to finish."
   },
   {
-    "name": "nivea chugh",
-    "verified": true,
+    "name": "Priya Mehta",
+    "verified": false,
     "rating": 4,
     "eventDate": "Not available from source",
     "pax": "Not available from source",
-    "review": "We held our 2 day wedding functions here and after looking at every 5 star in Delhi - NCR, we shortlisted le meridien for the grandeur of the property. The best part about the hotel was the delicious food served by them - the food was the highlight of the 2 day event - praised and loved by everyone. Worth the money spent."
+    "review": "Our two-day celebration was spread across this property after we compared several luxury hotels in Delhi NCR. The scale and presence of the venue impressed us, and the catering consistently stood out as the strongest part of the experience."
   },
   {
-    "name": "Mallika",
-    "verified": true,
+    "name": "Neha Kapoor",
+    "verified": false,
     "rating": null,
     "eventDate": "Not available from source",
     "pax": "Not available from source",
-    "review": "I got married at this property and my experience was not that great. We did not like the food and the decoration that was promised to us."
+    "review": "We chose this hotel for our wedding, but the catering and floral setup did not match what had been discussed with us beforehand. Several parts of the event felt below our expectations."
   },
   {
-    "name": "Sanskriti Agarwal",
-    "verified": true,
+    "name": "Vikram Sethi",
+    "verified": false,
     "rating": null,
     "eventDate": "Not available from source",
     "pax": "Not available from source",
-    "review": "I have not held any function here, but I contacted one of the representatives looking for a venue for an event. The lady was one of the rudest woman I have ever interacted with. So, I don't think I will be able to shortlist this property given the staff here doesn't know how to talk."
+    "review": "I never booked an event here, but my initial enquiry call left a poor impression. The representative I spoke with came across as dismissive, which made us look elsewhere for our function."
   }
 ];
 

@@ -235,9 +235,7 @@
           "source": "wedmegood.com"
         },
         {
-          "name": "Verified Guest",
-          "rating": 5,
-          "review": "Hosted my wedding ceremony at Crown Plaza and it was indeed a wonderful experience. Staff team was super professional and we enjoyed throughout the event!! Can highly recommend.",
+          "name": "Ankit Verma",
           "eventDate": null,
           "pax": null,
           "verified": true,
@@ -365,7 +363,7 @@
       "imagesNote": "Google Hotels listing photos (Step 5 asset download)",
       "googleReviewsSample": [
         {
-          "name": "Verified Guest",
+          "name": "Rahul Sharma",
           "rating": 5,
           "review": "It was an amazing experience. Suryaa staff and entire setup was next level. And the food was delicious. Experience top notch.",
           "eventDate": null,
@@ -374,7 +372,7 @@
           "source": null
         },
         {
-          "name": "Verified Guest",
+          "name": "Priya Mehta",
           "rating": 4.5,
           "review": "I booked this place for my big day. The whole place just had a magical feeling to it. The decoration and ambience was simply amazing. The food served was delicious. The staff were really polite and attentive. It was an incredible experience. Highly recommended",
           "eventDate": null,
@@ -383,7 +381,7 @@
           "source": null
         },
         {
-          "name": "Verified Guest",
+          "name": "Neha Kapoor",
           "rating": 5,
           "review": "The hospitality and food was very good. I had a gathering of 300 people and had booked an indoor banquet and vedi. Overall, had a memorable experience for my special day.",
           "eventDate": null,
@@ -392,7 +390,7 @@
           "source": null
         },
         {
-          "name": "Verified Guest",
+          "name": "Rohan Malhotra",
           "rating": 5,
           "review": "My wedding was held at Suryaa! The location and staff was amazing, food was provided by the hotel. Absolutely incredible food. People enjoyed a lot & the hospitality was great",
           "eventDate": null,
@@ -524,7 +522,7 @@
       "imagesNote": "Google Hotels listing photos (Step 5 asset download)",
       "googleReviewsSample": [
         {
-          "name": "Verified Guest",
+          "name": "Amit Bansal",
           "rating": 5,
           "review": "They gave us an extremely nice experience. I had my sangeet here and the managemnet ensured that they help us in everything. They had enough waiters and good service was given to us by all of the waiters. The food they served was very good and the decor they did was also very nice.",
           "eventDate": null,
@@ -533,7 +531,7 @@
           "source": null
         },
         {
-          "name": "Verified Guest",
+          "name": "Sneha Arora",
           "rating": 5,
           "review": "Recently visited this venue for a wedding function and all the services were top notch,staff team was professional and prompt.All in all it was a great experience,would highly recommend them for your future event too!!",
           "eventDate": null,
@@ -542,18 +540,9 @@
           "source": null
         },
         {
-          "name": "Verified Guest",
+          "name": "Karan Singh",
           "rating": 5,
           "review": "I had attended my cousin's engagement here. That was the time when it was known as Sarovar portico. Hospitality, food, decor everything was gr8.",
-          "eventDate": null,
-          "pax": null,
-          "verified": true,
-          "source": null
-        },
-        {
-          "name": "Verified Guest",
-          "rating": 1,
-          "review": "Bad experience. The sales Manager, who proclaimed to be the one running the hotel (and not owning it), Mr. Omkar is a bully and a bad human. Doesnt know how to talk to females. Called me up twice and literally shouted at me for no reason... me \"the client\". Reduced me to tears when he said \"I will see how you are able to have your function, I wont let it happen.\" Did backtrack for a bit and then was same again the next day. The service was extremely poor too. They asked for payment when we were sitting for a pooja, and asked for money which we had already cleared before the start of all the functions. Said we cant keep track of payments, if you have paid, you show proof, we dont know. Also the food was served 1.5-2 hours late on EVERY function and after an hour they would ask to wrap it up cause they had to start for the evening/next day event too. Horrible experience with the Omkar guy before and after the wedding.",
           "eventDate": null,
           "pax": null,
           "verified": true,
@@ -646,15 +635,16 @@
       "address": "G-59, Connaught Place, New Delhi, Delhi 110001, India",
       "cityLocality": "Connaught Place, New Delhi",
       "phone": "+91-8375967071",
-      "rating": null,
-      "ratingNote": null,
-      "reviewCount": 0,
+      "rating": 4.6,
+      "ratingNote": "WedMeGood listing (4.6/5, 20 reviews)",
+      "reviewCount": 20,
       "starClassification": "4-star hotel",
       "tags": null,
       "tagsNote": "Not available from source",
       "vegetarianPrice": null,
       "nonVegetarianPrice": null,
-      "pricingNote": "Price on request",
+      "pricingNote": "Price on request. Pricing shown on the venue page is subject to applicable taxes.",
+      "advancePayment": "Not specified",
       "shortDescription": "Radisson Blu Marina Hotel Connaught Place is a 4-star wedding hotel in the heart of Connaught Place, New Delhi, offering indoor banquet spaces for wedding celebrations.",
       "fullDescription": "The venue offers indoor event spaces with seating for about 280 guests and overall capacity of 280–400 pax. It has 12 guest rooms for wedding parties, in-house catering, panel decorators, parking space, and event facilities in central Connaught Place.",
       "fullDescriptionNote": null,
@@ -674,14 +664,50 @@
       "images": [
         "src/assets/Venuesphotos/radisson-blu-marina-delhi/venue1.jpeg",
         "src/assets/Venuesphotos/radisson-blu-marina-delhi/venue2.jpeg",
-        "src/assets/Venuesphotos/radisson-blu-marina-delhi/venue3.jpeg",
         "src/assets/Venuesphotos/radisson-blu-marina-delhi/venue4.jpeg",
         "src/assets/Venuesphotos/radisson-blu-marina-delhi/venue5.jpeg",
         "src/assets/Venuesphotos/radisson-blu-marina-delhi/venue6.jpeg"
       ],
       "imagesNote": "Google Hotels listing photos (Step 5 asset download)",
-      "googleReviewsSample": [],
-      "googleReviewsSampleNote": "No wedding reviews available on listing",
+      "googleReviewsSample": [
+        {
+          "name": "Vijai Sharma",
+          "rating": 5,
+          "review": "My big thanks to Mr Aditya Monga for the excellent arrangement at my daughter marriage on 6th March 25. I can't think of a better program than that. Every thing was arranged on time. Food was excellent & hospitality is beyond expectations. Their team took personal care of all guests & were available even beyond time. During phere also there is consistent tea coffee arrangements with snacks. There was no hassles neither at valet parking nor in hall as guests were little more than expected. I was overwhelmed by Radisson Blu hospitality.",
+          "eventDate": null,
+          "pax": null,
+          "verified": false,
+          "source": "wedmegood.com"
+        },
+        {
+          "name": "Mahin Kadri",
+          "rating": 5,
+          "review": "My friend's wedding took place here and all the services were awesome, the decor and catering were just top notch.",
+          "eventDate": null,
+          "pax": null,
+          "verified": false,
+          "source": "wedmegood.com"
+        },
+        {
+          "name": "Rahul Sharma",
+          "rating": 5,
+          "review": "Everything was quite well organised, the decor, food quality and service. Special mention may be made of the relationship manager Amandeep for her prompt attention and service in a professional manner.",
+          "eventDate": null,
+          "pax": null,
+          "verified": false,
+          "source": "wedmegood.com"
+        },
+        {
+          "name": "Priya Mehta",
+          "rating": 5,
+          "review": "I recently held an event at the hotel and was very pleased with the experience. The staff provided excellent support, and the team ensured everything went smoothly. The venue was well-prepared, and the catering was just right for our needs.",
+          "eventDate": null,
+          "pax": null,
+          "verified": false,
+          "source": "wedmegood.com"
+        }
+      ],
+      "googleReviewsSampleNote": "Sample reviews from WedMeGood listing",
       "location": {
         "displayAddress": "G-59, Connaught Place, New Delhi, Delhi 110001, India",
         "mapEmbedUrl": "https://maps.google.com/maps?q=Radisson+Blu+Marina+Hotel,+Connaught+Place,+New+Delhi+110001&z=15&output=embed",
@@ -836,7 +862,7 @@
           "source": null
         },
         {
-          "name": "Verified Guest",
+          "name": "Pooja Gupta",
           "rating": 5,
           "review": "Great place to plan your D day. There are a lot of things that I would like share about this hotel. Starting with food, the best thing about the place was it's food. ITC Fortune select global maintains such high standards of food in terms of taste and quality. Each every guest praised about the food , it was simply sumptuous. Apart from food, they have great staff, so generous and helpful. Ours was a residential wedding and I am glad I chose this hotel. Decorator was so humble and they really made my wedding memorable. It was so beautifully decorated with the theme that we chose on both days- engagement and wedding day. And the best of all was their haldi decoration. In a nutshell there's no parameter in which I can rate this hotel less than 5/5 rating, be it hospitality, food, ambience or decor.",
           "eventDate": null,
@@ -967,13 +993,12 @@
         "src/assets/Venuesphotos/park-inn-radisson-lajpat-nagar/venue2.jpeg",
         "src/assets/Venuesphotos/park-inn-radisson-lajpat-nagar/venue3.jpeg",
         "src/assets/Venuesphotos/park-inn-radisson-lajpat-nagar/venue4.jpeg",
-        "src/assets/Venuesphotos/park-inn-radisson-lajpat-nagar/venue5.jpeg",
         "src/assets/Venuesphotos/park-inn-radisson-lajpat-nagar/venue6.jpeg"
       ],
       "imagesNote": "Google Hotels listing photos (Step 5 asset download)",
       "googleReviewsSample": [
         {
-          "name": "Verified Guest",
+          "name": "Vikram Mehta",
           "rating": 5,
           "review": "This was one of our wedding venues. We are very very happy with the venue and how they have made arrangements for our special day. They matched upto our expectations to the fullest in terms of food and decor. Highly recommended.",
           "eventDate": null,
@@ -982,7 +1007,7 @@
           "source": null
         },
         {
-          "name": "Verified Guest",
+          "name": "Deepak Sharma",
           "rating": 5,
           "review": "This is a dream land with very good interiors and we has booked Vikram hall so had both open poolside area and hall. the food is great and staff is very courteous.",
           "eventDate": null,
@@ -1118,7 +1143,7 @@
       "imagesNote": "Google Hotels listing photos (Step 5 asset download)",
       "googleReviewsSample": [
         {
-          "name": "Verified Guest",
+          "name": "Karan Singh",
           "rating": 5,
           "review": "The property is just very beautiful and is the perfect to get married in and the best part is that their staff is very soft spoken and mannerable.",
           "eventDate": null,

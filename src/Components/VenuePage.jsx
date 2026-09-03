@@ -1,6 +1,5 @@
 import { NavLink, useLocation } from "react-router-dom";
 import { useState, useEffect } from "react";
-import { Menu, X } from "lucide-react";
 import {
   FaStarHalfAlt,
   FaRegStar,
@@ -15,6 +14,7 @@ import customerimage from "../assets/customerimage.svg";
 import Footer from "./Footer";
 import VenuePolicies from "./VenuePolicies";
 import VenueAddress from "./VenueAddress";
+import FloatingContact from "./FloatingContact";
 import {
   formatInr,
   getRatingBadge,
@@ -22,13 +22,6 @@ import {
   getReviewCountLabel,
 } from "../utils/venueFormat";
 
-const NAV_LINKS = [
-  { name: "Home", path: "/" },
-  { name: "Venues", path: "/Venues" },
-  { name: "Photos", path: "/Photos" },
-  { name: "Testimonials", path: "/Testimonials" },
-  { name: "Why Us", path: "/WhyUs" },
-];
 
 const renderStars = (rating) => {
   if (rating == null) return null;
@@ -90,9 +83,16 @@ const PricingBlock = ({ venue }) => {
   }
 
   return (
-    <p className="text-gray-600 text-sm mt-2">
-      {pricingNote ?? "Not available from source"}
-    </p>
+    <>
+      <p className="text-gray-600 text-sm mt-2">
+        {pricingNote ?? "Not available from source"}
+      </p>
+      {venue.advancePayment != null && (
+        <p className="text-gray-600 text-sm mt-2">
+          Advance payment: {venue.advancePayment}
+        </p>
+      )}
+    </>
   );
 };
 
@@ -121,14 +121,13 @@ const VenueTags = ({ venue }) => {
 };
 
 const VenuePage = ({ venue, images, reviews }) => {
-  const [isOpen, setIsOpen] = useState(false);
   const [currentImage, setCurrentImage] = useState(0);
   const [showMore, setShowMore] = useState(false);
   const [phone, setPhone] = useState("");
   const location = useLocation();
+  const venueLabel = `${venue.name}, ${venue.cityLocality ?? ""}`.trim();
 
   useEffect(() => {
-    setIsOpen(false);
     setCurrentImage(0);
     setShowMore(false);
   }, [location.pathname]);
@@ -147,7 +146,6 @@ const VenuePage = ({ venue, images, reviews }) => {
       alert("Please enter a valid 10-digit phone number");
       return;
     }
-    console.log("Customer Phone:", phone);
     alert("Your request has been submitted!");
     setPhone("");
   };
@@ -158,53 +156,11 @@ const VenuePage = ({ venue, images, reviews }) => {
   return (
     <>
       <nav className="bg-blue-50 shadow-md fixed top-0 left-0 w-full z-50">
-        <div className="container mx-auto flex items-center justify-between px-6 py-4">
+        <div className="container mx-auto flex items-center px-6 py-4">
           <NavLink to="/">
             <img src={logo} alt="Company Logo" className="w-auto h-12" />
           </NavLink>
-
-          <div className="hidden md:flex space-x-6 text-lg">
-            {NAV_LINKS.map(({ name, path }) => (
-              <NavLink
-                key={path}
-                to={path}
-                className={({ isActive }) =>
-                  `text-gray-600 hover:text-blue-600 transition-all ${isActive ? "font-bold text-blue-600" : ""}`
-                }
-              >
-                {name}
-              </NavLink>
-            ))}
-          </div>
-
-          <div className="md:hidden">
-            <button
-              type="button"
-              onClick={() => setIsOpen(!isOpen)}
-              className="text-gray-700 transition-all hover:bg-blue-200 p-2 rounded-md"
-              aria-expanded={isOpen}
-            >
-              {isOpen ? <X size={28} /> : <Menu size={28} />}
-            </button>
-          </div>
         </div>
-
-        {isOpen && (
-          <div className="md:hidden absolute top-16 left-0 w-full bg-blue-50 shadow-md py-4">
-            <div className="flex flex-col items-center space-y-4">
-              {NAV_LINKS.map(({ name, path }) => (
-                <NavLink
-                  key={path}
-                  to={path}
-                  className="text-gray-600 hover:text-blue-600 transition-all"
-                  onClick={() => setIsOpen(false)}
-                >
-                  {name}
-                </NavLink>
-              ))}
-            </div>
-          </div>
-        )}
       </nav>
 
       <div className="h-20" />
@@ -308,10 +264,6 @@ const VenuePage = ({ venue, images, reviews }) => {
           )}
         </div>
 
-        <VenuePolicies policies={venue.venuePolicies} />
-
-        <VenueAddress venue={venue} />
-
         <div className="bg-gradient-to-r bg-white p-8 rounded-lg shadow-lg">
           <h2 className="text-3xl font-bold text-gray-800 mb-4">Ratings & Reviews</h2>
           <div className="flex items-center space-x-4 mb-6 flex-wrap gap-2">
@@ -363,6 +315,10 @@ const VenuePage = ({ venue, images, reviews }) => {
           )}
         </div>
 
+        <VenuePolicies policies={venue.venuePolicies} />
+
+        <VenueAddress venue={venue} />
+
         <div className="bg-gray-50 p-6 rounded-lg shadow-md">
           <div className="flex flex-col md:flex-row items-center justify-between">
             <div className="md:w-2/3 space-y-3">
@@ -379,7 +335,7 @@ const VenuePage = ({ venue, images, reviews }) => {
                     className="p-2 w-full outline-none"
                     placeholder="Phone Number"
                     value={phone}
-                    onChange={(e) => setPhone(e.target.value)}
+                    onChange={(e) => setPhone(e.target.value.replace(/\D/g, ""))}
                     required
                   />
                 </div>
@@ -404,6 +360,7 @@ const VenuePage = ({ venue, images, reviews }) => {
         </div>
       </div>
 
+      <FloatingContact venueName={venueLabel} />
       <Footer />
     </>
   );

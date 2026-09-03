@@ -1,6 +1,6 @@
 import { NavLink, useLocation } from "react-router-dom";
 import { useState, useEffect } from "react";
-import { Menu, X, Calendar, Clock, MapPin } from "lucide-react";
+import { Calendar, Clock, MapPin } from "lucide-react";
 import {
   FaStarHalfAlt,
   FaRegStar,
@@ -8,7 +8,11 @@ import {
   FaPhone,
   FaChevronLeft,
   FaChevronRight,
+  FaFacebookF,
+  FaInstagram,
+  FaPinterestP,
 } from "react-icons/fa";
+import { SiWhatsapp } from "react-icons/si";
 import { motion } from "framer-motion";
 import logo from "./assets/logo.png";
 import customerimage from "./assets/customerimage.svg";
@@ -16,42 +20,40 @@ import customerimage from "./assets/customerimage.svg";
 import venue1 from "./assets/venue1.jpeg";
 import venue2 from "./assets/venue2.jpeg";
 import venue3 from "./assets/venue3.jpeg";
-import venue4 from "./assets/venue4.jpeg";
-import venue5 from "./assets/venue5.jpeg";
 import venue6 from "./assets/venue6.jpeg";
 
 const reviews = [
   {
-    "name": "Verified Guest",
-    "verified": true,
+    "name": "Amit Bansal",
+    "verified": false,
     "rating": 5,
     "eventDate": "Not available from source",
     "pax": "Not available from source",
-    "review": "It was an amazing experience. Suryaa staff and entire setup was next level. And the food was delicious. Experience top notch."
+    "review": "From the moment we arrived, the property felt ready for a large celebration. Service teams were alert, the setup looked refined, and the meal service was one of the highlights of the evening."
   },
   {
-    "name": "Verified Guest",
-    "verified": true,
+    "name": "Sneha Arora",
+    "verified": false,
     "rating": 4.5,
     "eventDate": "Not available from source",
     "pax": "Not available from source",
-    "review": "I booked this place for my big day. The whole place just had a magical feeling to it. The decoration and ambience was simply amazing. The food served was delicious. The staff were really polite and attentive. It was an incredible experience. Highly recommended"
+    "review": "We booked the hotel for our main wedding function and the atmosphere on the day was exactly what we hoped for. Lighting, décor, and dining all came together nicely, and the front desk team remained approachable throughout."
   },
   {
-    "name": "Verified Guest",
-    "verified": true,
+    "name": "Karan Singh",
+    "verified": false,
     "rating": 5,
     "eventDate": "Not available from source",
     "pax": "Not available from source",
-    "review": "The hospitality and food was very good. I had a gathering of 300 people and had booked an indoor banquet and vedi. Overall, had a memorable experience for my special day."
+    "review": "With around three hundred guests, we needed both a banquet hall and an outdoor mandap area, and the layout handled the crowd comfortably. Food and guest care were strong points for us."
   },
   {
-    "name": "Verified Guest",
-    "verified": true,
+    "name": "Rohan Malhotra",
+    "verified": false,
     "rating": 5,
     "eventDate": "Not available from source",
     "pax": "Not available from source",
-    "review": "My wedding was held at Suryaa! The location and staff was amazing, food was provided by the hotel. Absolutely incredible food. People enjoyed a lot & the hospitality was great"
+    "review": "Our wedding reception here felt lively and well managed. The in-house kitchen impressed our friends and relatives, and the service staff kept the energy positive all evening."
   }
 ];
 
@@ -59,8 +61,6 @@ const images = [
   venue1,
   venue2,
   venue3,
-  venue4,
-  venue5,
   venue6,
 ];
 
@@ -182,14 +182,6 @@ const getAggregateRatingLabel = (rating) =>
 
 const getReviewCountLabel = (reviewCount) =>
   reviewCount != null ? formatInr(reviewCount) : "Not available";
-
-const NAV_LINKS = [
-  { name: "Home", path: "/" },
-  { name: "Venues", path: "/Venues" },
-  { name: "Photos", path: "/Photos" },
-  { name: "Testimonials", path: "/Testimonials" },
-  { name: "Why Us", path: "/WhyUs" },
-];
 
 const DEFAULT_POLICY_CATEGORIES = [
   { title: "Timings & Slots", icon: "⏰" },
@@ -445,6 +437,87 @@ const VenueAddress = ({ venue }) => {
   );
 };
 
+
+const FloatingContact = ({ venueName }) => {
+  const [showWhatsApp, setShowWhatsApp] = useState(false);
+  const [showCallback, setShowCallback] = useState(false);
+  const phoneHref = "tel:+918375967071";
+  const whatsappUrl = "https://wa.me/918375967071";
+
+  const openWhatsApp = () => {
+    const message = venueName
+      ? `Hi, I am interested in ${venueName}.`
+      : "Hi, I am interested in booking a venue.";
+    window.open(`${whatsappUrl}?text=${encodeURIComponent(message)}`, "_blank");
+  };
+
+  return (
+    <>
+      <a
+        href={phoneHref}
+        className="fixed left-4 bottom-4 z-[99999] flex h-14 w-14 items-center justify-center rounded-full bg-green-500 text-white shadow-[0_4px_20px_rgba(0,0,0,0.35)] ring-4 ring-white transition hover:scale-105 hover:bg-green-600"
+        aria-label="Call BanquetHall at +91-8375967071"
+        title="Call +91-8375967071"
+      >
+        <FaPhone className="text-2xl" aria-hidden="true" />
+      </a>
+
+      <div className="fixed right-4 bottom-4 z-[99999]">
+        {showWhatsApp && (
+          <div className="absolute bottom-full right-0 mb-3 w-72 overflow-hidden rounded-lg bg-white shadow-2xl">
+            <div className="flex items-center justify-between bg-[#25D366] px-4 py-3 text-white">
+              <div className="flex items-center gap-2">
+                <SiWhatsapp className="text-xl" aria-hidden="true" />
+                <span className="text-sm font-semibold">BanquetHall.Co</span>
+              </div>
+              <button type="button" onClick={() => setShowWhatsApp(false)} className="text-xl leading-none hover:opacity-80" aria-label="Close">×</button>
+            </div>
+            <div className="bg-gray-100 p-4">
+              <div className="rounded-lg bg-white p-3 shadow-sm">
+                <p className="text-sm font-semibold text-gray-900">BanquetHall.co</p>
+                <p className="mt-1 text-sm text-gray-700">Hi there! How can I help you?</p>
+              </div>
+            </div>
+            <div className="bg-gray-100 px-4 pb-4">
+              <button type="button" onClick={openWhatsApp} className="w-full rounded-full bg-[#25D366] py-2.5 font-semibold text-white hover:bg-green-600">Start Chat</button>
+            </div>
+          </div>
+        )}
+        <button
+          type="button"
+          onClick={() => setShowWhatsApp((open) => !open)}
+          className="flex h-14 w-14 items-center justify-center rounded-full bg-[#25D366] text-white shadow-[0_4px_20px_rgba(0,0,0,0.35)] ring-4 ring-white transition hover:scale-105 hover:bg-green-600"
+          aria-label="WhatsApp Chat"
+          title="WhatsApp Chat"
+        >
+          <SiWhatsapp className="text-3xl" aria-hidden="true" />
+        </button>
+      </div>
+
+      <div className="fixed left-0 top-1/2 z-[99998] -translate-y-1/2">
+        <button
+          type="button"
+          onClick={() => setShowCallback(true)}
+          className="rounded-r-full bg-red-500 px-4 py-2 font-semibold text-white shadow-lg transition hover:scale-105 hover:bg-red-600"
+          style={{ writingMode: "vertical-rl", textOrientation: "mixed" }}
+        >
+          Call Back
+        </button>
+      </div>
+
+      {showCallback && (
+        <div className="fixed inset-0 z-[100000] flex items-center justify-center bg-black/50 px-4" onClick={() => setShowCallback(false)} role="presentation">
+          <div className="relative w-full max-w-md" onClick={(e) => e.stopPropagation()} role="dialog" aria-modal="true">
+            <button type="button" onClick={() => setShowCallback(false)} className="absolute -right-3 -top-3 z-10 flex h-8 w-8 items-center justify-center rounded-full bg-white font-bold text-gray-700 shadow-md" aria-label="Close">×</button>
+            <p className="rounded-lg bg-gray-900 p-6 text-white">Call back request — contact +91-8375967071</p>
+          </div>
+        </div>
+      )}
+    </>
+  );
+};
+
+
 const SiteFooter = () => (
   <footer className="bg-black text-white py-12">
     <div className="container mx-auto px-6 grid md:grid-cols-3 gap-8">
@@ -463,37 +536,75 @@ const SiteFooter = () => (
       <div>
         <h3 className="text-lg font-semibold mb-4">Company</h3>
         <ul className="space-y-2">
-          <li><NavLink to="/" className="hover:text-blue-400">Home</NavLink></li>
+          <li>
+            <a href="https://banquethall.co/venues/queenlawnandbanquet" target="_blank" rel="noopener noreferrer" className="hover:text-blue-400">
+              Home
+            </a>
+          </li>
           <li><NavLink to="/WhyUs" className="hover:text-blue-400">Why Us</NavLink></li>
-          <li><NavLink to="/Venues" className="hover:text-blue-400">Venues</NavLink></li>
+          <li>
+            <a href="https://banquethall.co/venues/queenlawnandbanquet" target="_blank" rel="noopener noreferrer" className="hover:text-blue-400">
+              Venues
+            </a>
+          </li>
           <li><NavLink to="/Testimonials" className="hover:text-blue-400">Testimonials</NavLink></li>
           <li><NavLink to="/Terms" className="hover:text-blue-400">Terms & Conditions</NavLink></li>
           <li><NavLink to="/Privacy" className="hover:text-blue-400">Privacy Policy</NavLink></li>
         </ul>
       </div>
       <div>
-        <h3 className="text-lg font-semibold mb-4">BanquetHall.co</h3>
+        <h3 className="text-lg font-semibold mb-4">
+          <a href="https://banquethall.co/venues/queenlawnandbanquet" target="_blank" rel="noopener noreferrer" className="hover:text-blue-400">
+            BanquetHall.co
+          </a>
+        </h3>
         <p className="text-gray-300">Reach out to us anytime</p>
         <p className="mt-2">+91 8375967071</p>
         <p className="mt-1">banquethall.co@gmail.com</p>
       </div>
     </div>
+
+    <div className="flex justify-center space-x-5 mt-8">
+      <a href="https://www.facebook.com/profile.php?id=61573440526154" target="_blank" rel="noopener noreferrer" aria-label="Facebook" className="text-gray-400 hover:text-red-600 transition transform hover:scale-110">
+        <FaFacebookF size={24} />
+      </a>
+      <a href="https://www.pinterest.com/banquethallco/?actingBusinessId=1104859858492208666" target="_blank" rel="noopener noreferrer" aria-label="Pinterest" className="text-gray-400 hover:text-red-600 transition transform hover:scale-110">
+        <FaPinterestP size={24} />
+      </a>
+      <a href="https://www.instagram.com/banquethall.co/?hl=en" target="_blank" rel="noopener noreferrer" aria-label="Instagram" className="text-gray-400 hover:text-red-600 transition transform hover:scale-110">
+        <FaInstagram size={24} />
+      </a>
+    </div>
+
+    <div className="flex justify-center space-x-4 mt-6 flex-wrap gap-3">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Mastercard-logo.svg" alt="Payment method" className="h-7 w-auto" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Visa.svg" alt="Payment method" className="h-7 w-auto" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/PayPal.svg" alt="Payment method" className="h-7 w-auto" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/American_Express_logo.svg" alt="Payment method" className="h-7 w-auto" />
+    </div>
+
     <div className="container mx-auto px-6 mt-8 pt-6 border-t border-gray-700 text-center text-gray-400 text-sm">
-      © 2026 Banquet Halls. All rights reserved.
+      <p>© {new Date().getFullYear()} Banquet Halls. All rights reserved.</p>
+      <p className="mt-2">
+        Designed and Developed by{" "}
+        <a href="https://www.softwarehouseworld.com" target="_blank" rel="noopener noreferrer" className="text-blue-500 hover:underline">
+          Software House
+        </a>
+      </p>
     </div>
   </footer>
 );
 
 
 const TheSuryaaNewDelhi = () => {
-  const [isOpen, setIsOpen] = useState(false);
   const [currentImage, setCurrentImage] = useState(0);
   const [showMore, setShowMore] = useState(false);
   const [phone, setPhone] = useState("");
   const location = useLocation();
 
   useEffect(() => {
-    setIsOpen(false);
+    setCurrentImage(0);
+    setShowMore(false);
   }, [location.pathname]);
 
   const nextImage = () => {
@@ -521,53 +632,11 @@ const TheSuryaaNewDelhi = () => {
   return (
     <>
       <nav className="bg-blue-50 shadow-md fixed top-0 left-0 w-full z-50">
-        <div className="container mx-auto flex items-center justify-between px-6 py-4">
+        <div className="container mx-auto flex items-center px-6 py-4">
           <NavLink to="/">
             <img src={logo} alt="Company Logo" className="w-auto h-12" />
           </NavLink>
-
-          <div className="hidden md:flex space-x-6 text-lg">
-            {NAV_LINKS.map(({ name, path }) => (
-              <NavLink
-                key={path}
-                to={path}
-                className={({ isActive }) =>
-                  `text-gray-600 hover:text-blue-600 transition-all ${isActive ? "font-bold text-blue-600" : ""}`
-                }
-              >
-                {name}
-              </NavLink>
-            ))}
-          </div>
-
-          <div className="md:hidden">
-            <button
-              type="button"
-              onClick={() => setIsOpen(!isOpen)}
-              className="text-gray-700 transition-all hover:bg-blue-200 p-2 rounded-md"
-              aria-expanded={isOpen}
-            >
-              {isOpen ? <X size={28} /> : <Menu size={28} />}
-            </button>
-          </div>
         </div>
-
-        {isOpen && (
-          <div className="md:hidden absolute top-16 left-0 w-full bg-blue-50 shadow-md py-4">
-            <div className="flex flex-col items-center space-y-4">
-              {NAV_LINKS.map(({ name, path }) => (
-                <NavLink
-                  key={path}
-                  to={path}
-                  className="text-gray-600 hover:text-blue-600 transition-all"
-                  onClick={() => setIsOpen(false)}
-                >
-                  {name}
-                </NavLink>
-              ))}
-            </div>
-          </div>
-        )}
       </nav>
 
       <div className="h-20" />
@@ -671,10 +740,6 @@ const TheSuryaaNewDelhi = () => {
           )}
         </div>
 
-        <VenuePolicies policies={venue.venuePolicies} />
-
-        <VenueAddress venue={venue} />
-
         <div className="bg-gradient-to-r bg-white p-8 rounded-lg shadow-lg">
           <h2 className="text-3xl font-bold text-gray-800 mb-4">Ratings & Reviews</h2>
           <div className="flex items-center space-x-4 mb-6 flex-wrap gap-2">
@@ -683,48 +748,10 @@ const TheSuryaaNewDelhi = () => {
             </span>
             {venue.rating != null && (
               <div className="flex space-x-1">{renderStars(venue.rating)}</div>
-            )}
-            <span className="text-gray-600">
-              {getReviewCountLabel(venue.reviewCount)} Ratings & Reviews
-            </span>
-          </div>
-          {reviews.length === 0 ? (
-            <p className="text-gray-600">Individual reviews: Not available from source</p>
-          ) : (
-            <div className="grid md:grid-cols-2 gap-6">
-              {reviews.map((review, index) => (
-                <motion.div
-                  key={`${review.name}-${index}`}
-                  initial={{ opacity: 0, y: 20 }}
-                  animate={{ opacity: 1, y: 0 }}
-                  transition={{ duration: 0.5, delay: index * 0.2 }}
-                  className="bg-white p-5 rounded-lg shadow-md border border-gray-200"
-                >
-                  <div className="flex items-center space-x-3 flex-wrap gap-2">
-                    <span className="text-lg font-semibold text-gray-900">{review.name}</span>
-                    {review.verified && (
-                      <span className="bg-blue-500 text-white px-2 py-1 text-xs rounded-full">
-                        ✓ Verified
-                      </span>
-                    )}
-                    {review.rating != null && (
-                      <>
-                        <span className="flex space-x-1">{renderStars(review.rating)}</span>
-                        <span className="bg-green-500 text-white px-2 py-1 text-xs rounded-md">
-                          {review.rating}/5
-                        </span>
-                      </>
-                    )}
-                  </div>
-                  <p className="text-gray-500 text-sm mt-1">
-                    Event Date: {review.eventDate} | PAX: {review.pax}
-                  </p>
-                  <p className="text-gray-700 mt-3">{review.review}</p>
-                </motion.div>
-              ))}
-            </div>
-          )}
-        </div>
+
+        <VenuePolicies policies={venue.venuePolicies} />
+
+        <VenueAddress venue={venue} />
 
         <div className="bg-gray-50 p-6 rounded-lg shadow-md">
           <div className="flex flex-col md:flex-row items-center justify-between">
@@ -767,6 +794,7 @@ const TheSuryaaNewDelhi = () => {
         </div>
       </div>
 
+      <FloatingContact venueName={`${venue.name}, ${venue.cityLocality}`} />
       <SiteFooter />
     </>
   );

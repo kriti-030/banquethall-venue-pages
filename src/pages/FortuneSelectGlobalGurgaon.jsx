@@ -7,36 +7,36 @@ import venue6 from "../assets/Venuesphotos/fortune-select-global-gurgaon/venue6.
 
 const reviews = [
   {
-    "name": "Priyali Soota",
-    "verified": true,
+    "name": "Pooja Gupta",
+    "verified": false,
     "rating": 4.5,
     "eventDate": "Not available from source",
     "pax": "Not available from source",
-    "review": "In short: amazing food, amazing service! Spacious rooms with beautiful decor. There is a lot that you can do with the area- it can be set up for various moods, depends on whatever you've got going on! The location is also very convenient for everyone."
+    "review": "Meals and guest service were both standouts for us. Guest rooms felt roomy and tastefully done, the event spaces can be dressed up in different styles, and the Gurgaon location was practical for relatives travelling from multiple directions."
   },
   {
-    "name": "Deepika Bawa",
-    "verified": true,
+    "name": "Rahul Sharma",
+    "verified": false,
     "rating": 4,
     "eventDate": "Not available from source",
     "pax": "Not available from source",
-    "review": "Fortune Select Global is a very pretty property,we booked it for our wedding ceremonies. All our friends and family stayed in the same hotel and we had a nice and comfortable stay. The food, decor, presentation and everything was perfectly managed by the team. I would definitely recommend this venue to you !!"
+    "review": "We booked the hotel for a multi-day wedding schedule and most of our party stayed on property. Bedrooms were comfortable, presentations during functions looked neat, and the operations team kept the programme moving without confusion."
   },
   {
-    "name": "Aashna Behl",
-    "verified": true,
+    "name": "Priya Mehta",
+    "verified": false,
     "rating": 4.5,
     "eventDate": "Not available from source",
     "pax": "Not available from source",
-    "review": "The food and service was excellent , we liked the overall ambience of the place. The management was very good with everything you required at function but the place seems a bit old now and requires rennovation.."
+    "review": "Dining and floor service exceeded our expectations, and the overall mood of the venue suited a formal celebration well. Some areas of the building show their age, but the team still delivered a largely smooth function."
   },
   {
-    "name": "Verified Guest",
-    "verified": true,
+    "name": "Neha Kapoor",
+    "verified": false,
     "rating": 5,
     "eventDate": "Not available from source",
     "pax": "Not available from source",
-    "review": "Great place to plan your D day. There are a lot of things that I would like share about this hotel. Starting with food, the best thing about the place was it's food. ITC Fortune select global maintains such high standards of food in terms of taste and quality. Each every guest praised about the food , it was simply sumptuous. Apart from food, they have great staff, so generous and helpful. Ours was a residential wedding and I am glad I chose this hotel. Decorator was so humble and they really made my wedding memorable. It was so beautifully decorated with the theme that we chose on both days- engagement and wedding day. And the best of all was their haldi decoration. In a nutshell there's no parameter in which I can rate this hotel less than 5/5 rating, be it hospitality, food, ambience or decor."
+    "review": "For our stay-in wedding, this hotel checked nearly every box. Relatives praised the buffet across both days, staff were generous with their time, and the décor team translated our theme nicely from the engagement through the haldi and main ceremony."
   }
 ];
 

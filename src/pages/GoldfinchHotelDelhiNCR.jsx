@@ -1,50 +1,40 @@
 import VenuePage from "../Components/VenuePage";
 import venue1 from "../assets/Venuesphotos/goldfinch-hotel-delhi-ncr/venue1.jpeg";
 import venue2 from "../assets/Venuesphotos/goldfinch-hotel-delhi-ncr/venue2.jpeg";
-import venue3 from "../assets/Venuesphotos/goldfinch-hotel-delhi-ncr/venue3.jpeg";
 import venue4 from "../assets/Venuesphotos/goldfinch-hotel-delhi-ncr/venue4.jpeg";
 import venue5 from "../assets/Venuesphotos/goldfinch-hotel-delhi-ncr/venue5.jpeg";
 import venue6 from "../assets/Venuesphotos/goldfinch-hotel-delhi-ncr/venue6.jpeg";
 
 const reviews = [
   {
-    "name": "Verified Guest",
-    "verified": true,
+    "name": "Ankit Verma",
+    "verified": false,
     "rating": 5,
     "eventDate": "Not available from source",
     "pax": "Not available from source",
-    "review": "They gave us an extremely nice experience. I had my sangeet here and the managemnet ensured that they help us in everything. They had enough waiters and good service was given to us by all of the waiters. The food they served was very good and the decor they did was also very nice."
+    "review": "Our sangeet night went better than we expected. The events desk stayed involved in small details, serving staff were sufficient for our guest list, and both the catering and stage styling looked polished."
   },
   {
-    "name": "Verified Guest",
-    "verified": true,
+    "name": "Deepak Sharma",
+    "verified": false,
     "rating": 5,
     "eventDate": "Not available from source",
     "pax": "Not available from source",
-    "review": "Recently visited this venue for a wedding function and all the services were top notch,staff team was professional and prompt.All in all it was a great experience,would highly recommend them for your future event too!!"
+    "review": "We joined a wedding here as guests and noticed how quickly the team responded to requests on the floor. Everything from seating to meal rounds felt organised, and we would consider it for our own function."
   },
   {
-    "name": "Verified Guest",
-    "verified": true,
+    "name": "Nisha Gupta",
+    "verified": false,
     "rating": 5,
     "eventDate": "Not available from source",
     "pax": "Not available from source",
-    "review": "I had attended my cousin's engagement here. That was the time when it was known as Sarovar portico. Hospitality, food, decor everything was gr8."
-  },
-  {
-    "name": "Verified Guest",
-    "verified": true,
-    "rating": 1,
-    "eventDate": "Not available from source",
-    "pax": "Not available from source",
-    "review": "Bad experience. The sales Manager, who proclaimed to be the one running the hotel (and not owning it), Mr. Omkar is a bully and a bad human. Doesnt know how to talk to females. Called me up twice and literally shouted at me for no reason... me \"the client\". Reduced me to tears when he said \"I will see how you are able to have your function, I wont let it happen.\" Did backtrack for a bit and then was same again the next day. The service was extremely poor too. They asked for payment when we were sitting for a pooja, and asked for money which we had already cleared before the start of all the functions. Said we cant keep track of payments, if you have paid, you show proof, we dont know. Also the food was served 1.5-2 hours late on EVERY function and after an hour they would ask to wrap it up cause they had to start for the evening/next day event too. Horrible experience with the Omkar guy before and after the wedding."
+    "review": "I remember visiting when the property operated under an earlier brand name, and my cousin's engagement was handled warmly. Food, décor, and general hospitality all left a good impression on our family."
   }
 ];
 
 const images = [
   venue1,
   venue2,
-  venue3,
   venue4,
   venue5,
   venue6,

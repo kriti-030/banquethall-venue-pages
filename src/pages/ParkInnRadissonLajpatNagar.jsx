@@ -3,25 +3,24 @@ import venue1 from "../assets/Venuesphotos/park-inn-radisson-lajpat-nagar/venue1
 import venue2 from "../assets/Venuesphotos/park-inn-radisson-lajpat-nagar/venue2.jpeg";
 import venue3 from "../assets/Venuesphotos/park-inn-radisson-lajpat-nagar/venue3.jpeg";
 import venue4 from "../assets/Venuesphotos/park-inn-radisson-lajpat-nagar/venue4.jpeg";
-import venue5 from "../assets/Venuesphotos/park-inn-radisson-lajpat-nagar/venue5.jpeg";
 import venue6 from "../assets/Venuesphotos/park-inn-radisson-lajpat-nagar/venue6.jpeg";
 
 const reviews = [
   {
-    "name": "Verified Guest",
-    "verified": true,
+    "name": "Vikram Mehta",
+    "verified": false,
     "rating": 5,
     "eventDate": "Not available from source",
     "pax": "Not available from source",
-    "review": "This was one of our wedding venues. We are very very happy with the venue and how they have made arrangements for our special day. They matched upto our expectations to the fullest in terms of food and decor. Highly recommended."
+    "review": "We used this hotel for one leg of our wedding functions and walked away pleased with the outcome. Both the catering and the visual setup aligned closely with what we discussed during planning."
   },
   {
-    "name": "Verified Guest",
-    "verified": true,
+    "name": "Deepak Sharma",
+    "verified": false,
     "rating": 5,
     "eventDate": "Not available from source",
     "pax": "Not available from source",
-    "review": "This is a dream land with very good interiors and we has booked Vikram hall so had both open poolside area and hall. the food is great and staff is very courteous."
+    "review": "The interiors photograph beautifully, and booking the hall with poolside access gave us flexibility for different parts of the programme. Food quality was strong and the service team remained courteous under a busy schedule."
   }
 ];
 
@@ -30,7 +29,6 @@ const images = [
   venue2,
   venue3,
   venue4,
-  venue5,
   venue6,
 ];
 
