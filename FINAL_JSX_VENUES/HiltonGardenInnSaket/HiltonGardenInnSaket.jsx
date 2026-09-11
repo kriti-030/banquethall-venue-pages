@@ -26,7 +26,7 @@ import venue6 from "./assets/venue6.jpeg";
 
 const reviews = [
   {
-    "name": "Nisha Gupta",
+    "name": "Diya Saxena",
     "verified": false,
     "rating": 5,
     "eventDate": "Not available from source",

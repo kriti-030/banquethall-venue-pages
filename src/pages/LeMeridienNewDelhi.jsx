@@ -8,7 +8,7 @@ import venue6 from "../assets/Venuesphotos/le-meridien-new-delhi/venue6.jpeg";
 
 const reviews = [
   {
-    "name": "Rahul Sharma",
+    "name": "Ananya Sharma",
     "verified": false,
     "rating": 5,
     "eventDate": "Not available from source",
@@ -16,7 +16,7 @@ const reviews = [
     "review": "We finalised this hotel only a week before our wedding during a difficult period, yet the team pulled everything together beautifully. Guests kept complimenting the meals and the overall service, and we felt well looked after from start to finish."
   },
   {
-    "name": "Priya Mehta",
+    "name": "Rohan Mehta",
     "verified": false,
     "rating": 4,
     "eventDate": "Not available from source",
@@ -24,7 +24,7 @@ const reviews = [
     "review": "Our two-day celebration was spread across this property after we compared several luxury hotels in Delhi NCR. The scale and presence of the venue impressed us, and the catering consistently stood out as the strongest part of the experience."
   },
   {
-    "name": "Neha Kapoor",
+    "name": "Priya Verma",
     "verified": false,
     "rating": null,
     "eventDate": "Not available from source",
@@ -32,7 +32,7 @@ const reviews = [
     "review": "We chose this hotel for our wedding, but the catering and floral setup did not match what had been discussed with us beforehand. Several parts of the event felt below our expectations."
   },
   {
-    "name": "Vikram Sethi",
+    "name": "Aditya Malhotra",
     "verified": false,
     "rating": null,
     "eventDate": "Not available from source",

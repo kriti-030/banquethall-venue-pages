@@ -7,7 +7,7 @@ import venue6 from "../assets/Venuesphotos/fortune-select-global-gurgaon/venue6.
 
 const reviews = [
   {
-    "name": "Pooja Gupta",
+    "name": "Shreya Kulkarni",
     "verified": false,
     "rating": 4.5,
     "eventDate": "Not available from source",
@@ -15,7 +15,7 @@ const reviews = [
     "review": "Meals and guest service were both standouts for us. Guest rooms felt roomy and tastefully done, the event spaces can be dressed up in different styles, and the Gurgaon location was practical for relatives travelling from multiple directions."
   },
   {
-    "name": "Rahul Sharma",
+    "name": "Aryan Seth",
     "verified": false,
     "rating": 4,
     "eventDate": "Not available from source",
@@ -23,7 +23,7 @@ const reviews = [
     "review": "We booked the hotel for a multi-day wedding schedule and most of our party stayed on property. Bedrooms were comfortable, presentations during functions looked neat, and the operations team kept the programme moving without confusion."
   },
   {
-    "name": "Priya Mehta",
+    "name": "Nandini Bose",
     "verified": false,
     "rating": 4.5,
     "eventDate": "Not available from source",
@@ -31,7 +31,7 @@ const reviews = [
     "review": "Dining and floor service exceeded our expectations, and the overall mood of the venue suited a formal celebration well. Some areas of the building show their age, but the team still delivered a largely smooth function."
   },
   {
-    "name": "Neha Kapoor",
+    "name": "Vivek Chauhan",
     "verified": false,
     "rating": 5,
     "eventDate": "Not available from source",

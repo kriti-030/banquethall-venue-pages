@@ -25,7 +25,7 @@ import venue6 from "./assets/venue6.jpeg";
 
 const reviews = [
   {
-    "name": "Ankit Verma",
+    "name": "Isha Tandon",
     "verified": false,
     "rating": 5,
     "eventDate": "Not available from source",
@@ -33,7 +33,7 @@ const reviews = [
     "review": "Our sangeet night went better than we expected. The events desk stayed involved in small details, serving staff were sufficient for our guest list, and both the catering and stage styling looked polished."
   },
   {
-    "name": "Deepak Sharma",
+    "name": "Manav Bajaj",
     "verified": false,
     "rating": 5,
     "eventDate": "Not available from source",
@@ -41,7 +41,7 @@ const reviews = [
     "review": "We joined a wedding here as guests and noticed how quickly the team responded to requests on the floor. Everything from seating to meal rounds felt organised, and we would consider it for our own function."
   },
   {
-    "name": "Nisha Gupta",
+    "name": "Kavya Menon",
     "verified": false,
     "rating": 5,
     "eventDate": "Not available from source",
@@ -49,7 +49,7 @@ const reviews = [
     "review": "I remember visiting when the property operated under an earlier brand name, and my cousin's engagement was handled warmly. Food, décor, and general hospitality all left a good impression on our family."
   },
   {
-    "name": "Anjali Sharma",
+    "name": "Devansh Rao",
     "verified": false,
     "rating": 1,
     "eventDate": "Not available from source",

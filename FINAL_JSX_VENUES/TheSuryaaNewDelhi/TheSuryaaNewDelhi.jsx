@@ -24,7 +24,7 @@ import venue6 from "./assets/venue6.jpeg";
 
 const reviews = [
   {
-    "name": "Amit Bansal",
+    "name": "Meera Iyer",
     "verified": false,
     "rating": 5,
     "eventDate": "Not available from source",
@@ -32,7 +32,7 @@ const reviews = [
     "review": "From the moment we arrived, the property felt ready for a large celebration. Service teams were alert, the setup looked refined, and the meal service was one of the highlights of the evening."
   },
   {
-    "name": "Sneha Arora",
+    "name": "Sahil Khurana",
     "verified": false,
     "rating": 4.5,
     "eventDate": "Not available from source",
@@ -40,7 +40,7 @@ const reviews = [
     "review": "We booked the hotel for our main wedding function and the atmosphere on the day was exactly what we hoped for. Lighting, décor, and dining all came together nicely, and the front desk team remained approachable throughout."
   },
   {
-    "name": "Karan Singh",
+    "name": "Divya Nair",
     "verified": false,
     "rating": 5,
     "eventDate": "Not available from source",
@@ -48,7 +48,7 @@ const reviews = [
     "review": "With around three hundred guests, we needed both a banquet hall and an outdoor mandap area, and the layout handled the crowd comfortably. Food and guest care were strong points for us."
   },
   {
-    "name": "Rohan Malhotra",
+    "name": "Varun Desai",
     "verified": false,
     "rating": 5,
     "eventDate": "Not available from source",

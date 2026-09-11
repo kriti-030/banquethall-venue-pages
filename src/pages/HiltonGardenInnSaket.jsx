@@ -8,7 +8,7 @@ import venue6 from "../assets/Venuesphotos/hilton-garden-inn-saket/venue6.jpeg";
 
 const reviews = [
   {
-    "name": "Nisha Gupta",
+    "name": "Diya Saxena",
     "verified": false,
     "rating": 5,
     "eventDate": "Not available from source",
@@ -16,7 +16,7 @@ const reviews = [
     "review": "The hotel has a clean, welcoming look and works well for a wedding-style function. What stood out most for us was how calmly and respectfully the staff interacted with our family."
   },
   {
-    "name": "Pooja Gupta",
+    "name": "Yash Tripathi",
     "verified": false,
     "rating": 5,
     "eventDate": "Not available from source",
@@ -24,7 +24,7 @@ const reviews = [
     "review": "Our ring ceremony went off without unnecessary delays. The function room was in good shape, courses arrived on schedule, and the on-site team stayed helpful whenever we needed something adjusted."
   },
   {
-    "name": "Rohan Malhotra",
+    "name": "Aanya Bedi",
     "verified": false,
     "rating": 4.5,
     "eventDate": "Not available from source",
@@ -32,7 +32,7 @@ const reviews = [
     "review": "A sensible choice for a medium-sized celebration in South Delhi. Saket is easy for most guests to reach, and the in-house menu offered enough variety for our crowd."
   },
   {
-    "name": "Vikram Sethi",
+    "name": "Siddharth Rao",
     "verified": false,
     "rating": 5,
     "eventDate": "Not available from source",

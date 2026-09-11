@@ -25,7 +25,7 @@ import venue6 from "./assets/venue6.jpeg";
 
 const reviews = [
   {
-    "name": "Vikram Mehta",
+    "name": "Ishita Jain",
     "verified": false,
     "rating": 5,
     "eventDate": "Not available from source",
@@ -33,7 +33,7 @@ const reviews = [
     "review": "We used this hotel for one leg of our wedding functions and walked away pleased with the outcome. Both the catering and the visual setup aligned closely with what we discussed during planning."
   },
   {
-    "name": "Deepak Sharma",
+    "name": "Kabir Anand",
     "verified": false,
     "rating": 5,
     "eventDate": "Not available from source",
