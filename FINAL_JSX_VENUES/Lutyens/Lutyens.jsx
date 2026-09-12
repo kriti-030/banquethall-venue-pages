@@ -28,7 +28,7 @@ const reviews = [
   {
     "name": "Riya Ahuja",
     "verified": false,
-    "rating": null,
+    "rating": 5,
     "eventDate": "Not available from source",
     "pax": "Not available from source",
     "review": "The lawn and indoor hall gave us flexibility for a smaller guest list. Rooms on site were handy for family staying overnight."
@@ -36,7 +36,7 @@ const reviews = [
   {
     "name": "Nikhil Desai",
     "verified": false,
-    "rating": null,
+    "rating": 5,
     "eventDate": "Not available from source",
     "pax": "Not available from source",
     "review": "Valet parking saved time at arrival. The terrace area was useful for a short cocktail hour before dinner."
@@ -44,7 +44,7 @@ const reviews = [
   {
     "name": "Simran Gill",
     "verified": false,
-    "rating": null,
+    "rating": 5,
     "eventDate": "Not available from source",
     "pax": "Not available from source",
     "review": "A quiet MG Road location with greenery around the banquet. Service felt attentive without hovering."
@@ -52,7 +52,7 @@ const reviews = [
   {
     "name": "Harsh Mehta",
     "verified": false,
-    "rating": null,
+    "rating": 5,
     "eventDate": "Not available from source",
     "pax": "Not available from source",
     "review": "Food came out in a sensible order, and the indoor space stayed cool through a long evening function."
@@ -91,67 +91,77 @@ const venue = {
   "venuePolicies": {
     "categories": [
       {
-        "title": "Timings & Slots",
+        "title": "Timings",
         "icon": "⏰",
         "items": [
-          "Not available from source"
+          "Morning: 11:00 AM – 4:30 PM",
+          "Evening: 7:00 PM – 5:30 AM",
+          "Venue closes at 5:30 AM"
         ]
       },
       {
         "title": "Changing Rooms",
         "icon": "🚪",
         "items": [
-          "Not available from source"
+          "1 complimentary AC changing room"
         ]
       },
       {
         "title": "Parking",
         "icon": "🚗",
         "items": [
-          "Valet parking referenced on the official guest comments / hotel site"
+          "Parking available for 350 vehicles",
+          "Valet parking available"
         ]
       },
       {
         "title": "Cancellation",
         "icon": "❌",
         "items": [
-          "Not available from source"
-        ]
-      },
-      {
-        "title": "Lodging",
-        "icon": "🏨",
-        "items": [
-          "8 guest rooms listed"
+          "Non-cancellable"
         ]
       },
       {
         "title": "Food",
         "icon": "🍽️",
         "items": [
-          "Not available from source"
+          "Food provided by the venue",
+          "Outside food/caterer not allowed",
+          "Non-veg allowed"
         ]
       },
       {
         "title": "Alcohol",
         "icon": "🍾",
         "items": [
-          "Not available from source"
+          "Alcohol allowed at the venue",
+          "Outside alcohol not allowed",
+          "No corkage costs"
         ]
       },
       {
         "title": "Decoration",
         "icon": "🎨",
         "items": [
-          "Not available from source"
+          "Food and decor provided by the venue"
+        ]
+      },
+      {
+        "title": "DJ & Music",
+        "icon": "📌",
+        "items": [
+          "Late-night music not allowed"
         ]
       },
       {
         "title": "Other Policies",
         "icon": "📌",
         "items": [
-          "Capacity approximately 75–650/700 depending on configuration",
-          "Indoor, outdoor and terrace event spaces"
+          "50% advance at booking",
+          "F&B tax: 18%",
+          "Baarat allowed",
+          "Hawan allowed",
+          "Overnight wedding allowed"
         ]
       }
     ]
@@ -780,9 +790,6 @@ const Lutyens = () => {
                       </>
                     )}
                   </div>
-                  <p className="text-gray-500 text-sm mt-1">
-                    Event Date: {review.eventDate} | PAX: {review.pax}
-                  </p>
                   <p className="text-gray-700 mt-3">{review.review}</p>
                 </motion.div>
               ))}

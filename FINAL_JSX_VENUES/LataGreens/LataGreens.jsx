@@ -28,7 +28,7 @@ const reviews = [
   {
     "name": "Ishita Nair",
     "verified": false,
-    "rating": null,
+    "rating": 5,
     "eventDate": "Not available from source",
     "pax": "Not available from source",
     "review": "The lawn and hall combination suited a mixed indoor-outdoor function. Meal service stayed steady even when guests arrived in clusters."
@@ -36,7 +36,7 @@ const reviews = [
   {
     "name": "Kabir Seth",
     "verified": false,
-    "rating": null,
+    "rating": 5,
     "eventDate": "Not available from source",
     "pax": "Not available from source",
     "review": "Valet helped at the entrance, and the air-conditioned changing rooms were a relief in the afternoon slot."
@@ -44,7 +44,7 @@ const reviews = [
   {
     "name": "Diya Chauhan",
     "verified": false,
-    "rating": null,
+    "rating": 5,
     "eventDate": "Not available from source",
     "pax": "Not available from source",
     "review": "A straightforward banquet setting with enough lawn for a baraat-style arrival. The team was clear about food being in-house only."
@@ -52,7 +52,7 @@ const reviews = [
   {
     "name": "Yash Kulkarni",
     "verified": false,
-    "rating": null,
+    "rating": 5,
     "eventDate": "Not available from source",
     "pax": "Not available from source",
     "review": "Guests found the location easy to reach from MG Road. Décor looked neat, and the evening wrapped up without a rush at the gate."
@@ -91,72 +91,85 @@ const venue = {
   "venuePolicies": {
     "categories": [
       {
-        "title": "Timings & Slots",
+        "title": "Timings",
         "icon": "⏰",
         "items": [
-          "Morning: 11:00 AM - 4:00 PM",
-          "Evening: 7:00 PM - 12:00 AM"
+          "Morning: 9:00 AM – 4:00 PM",
+          "Evening: 7:00 PM – 12:00 AM",
+          "Venue closes: 12:00 AM"
         ]
       },
       {
         "title": "Changing Rooms",
         "icon": "🚪",
         "items": [
-          "A/C changing rooms available"
+          "2 complimentary AC changing rooms"
         ]
       },
       {
         "title": "Parking",
         "icon": "🚗",
         "items": [
-          "Parking space listed for about 100 vehicles",
-          "Valet provided by the venue"
+          "Parking available for 250 vehicles",
+          "Valet parking available"
         ]
       },
       {
         "title": "Cancellation",
         "icon": "❌",
         "items": [
-          "Non-cancellation listed on the main policy data",
-          "25% deposit to reserve the date"
+          "Non-cancellable"
         ]
       },
       {
         "title": "Lodging",
         "icon": "🏨",
         "items": [
-          "Not available from source"
+          "No rooms available"
         ]
       },
       {
         "title": "Food",
         "icon": "🍽️",
         "items": [
-          "Food provided by the venue",
-          "No outside food/caterer allowed (main policy listing)"
+          "Food provided by venue",
+          "Outside caterer allowed"
         ]
       },
       {
         "title": "Alcohol",
         "icon": "🍾",
         "items": [
-          "Not available from source"
+          "Alcohol allowed",
+          "Outside alcohol allowed",
+          "Corkage applicable"
         ]
       },
       {
         "title": "Decoration",
         "icon": "🎨",
         "items": [
-          "Not available from source"
+          "Decor provided by venue",
+          "Outside decorators not allowed"
+        ]
+      },
+      {
+        "title": "DJ & Music",
+        "icon": "📌",
+        "items": [
+          "Outside DJ permitted",
+          "Late-night music not allowed"
         ]
       },
       {
         "title": "Other Policies",
         "icon": "📌",
         "items": [
-          "Indoor + outdoor: 500 seating / 1,200 floating",
-          "Hall: 200 seating / 400 floating",
-          "Lawn: 300 seating / 700 floating"
+          "25% at booking",
+          "F&B tax: 18%",
+          "Baarat allowed",
+          "Hawan allowed",
+          "Overnight wedding not allowed"
         ]
       }
     ]
@@ -785,9 +798,6 @@ const LataGreens = () => {
                       </>
                     )}
                   </div>
-                  <p className="text-gray-500 text-sm mt-1">
-                    Event Date: {review.eventDate} | PAX: {review.pax}
-                  </p>
                   <p className="text-gray-700 mt-3">{review.review}</p>
                 </motion.div>
               ))}

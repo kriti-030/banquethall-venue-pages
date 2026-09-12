@@ -1540,24 +1540,26 @@
       "venuePolicies": {
         "categories": [
           {
-            "title": "Timings & Slots",
+            "title": "Timings",
             "icon": "⏰",
             "items": [
-              "Not available from source"
+              "Morning: 10:00 AM – 3:30 PM",
+              "Evening: 6:00 PM – 2:00 AM",
+              "Venue closes: 2:00 AM"
             ]
           },
           {
             "title": "Changing Rooms",
             "icon": "🚪",
             "items": [
-              "Complimentary changing rooms for the couple (WedMeGood)"
+              "2 complimentary AC changing rooms"
             ]
           },
           {
             "title": "Parking",
             "icon": "🚗",
             "items": [
-              "Parking available",
+              "Parking available for 1000 vehicles",
               "Valet parking available"
             ]
           },
@@ -1565,47 +1567,50 @@
             "title": "Cancellation",
             "icon": "❌",
             "items": [
-              "Not available from source"
+              "Non-cancellable"
             ]
           },
           {
             "title": "Lodging",
             "icon": "🏨",
             "items": [
-              "Not available from source"
+              "No rooms available"
             ]
           },
           {
             "title": "Food",
             "icon": "🍽️",
             "items": [
-              "In-house catering only"
+              "Food provided by venue",
+              "Outside caterer not allowed",
+              "Non-veg allowed"
             ]
           },
           {
             "title": "Alcohol",
             "icon": "🍾",
             "items": [
-              "In-house alcohol not available",
-              "Outside alcohol permitted"
+              "Alcohol allowed",
+              "Outside alcohol allowed",
+              "No corkage costs"
             ]
           },
           {
             "title": "Decoration",
             "icon": "🎨",
             "items": [
-              "In-house décor"
+              "Decor provided by venue",
+              "Outside decorators not allowed"
             ]
           },
           {
             "title": "Other Policies",
             "icon": "📌",
             "items": [
-              "Venue type: farmhouse with indoor and outdoor space",
-              "The Garden + The Villa: 200 seating / 450 floating",
-              "Amphitheatre: 300 seating / 600 floating",
-              "In-house DJ available; outside DJ permitted",
-              "Less than 50 pax allowed"
+              "In-house DJ available",
+              "Outside DJ permitted",
+              "50% advance at booking",
+              "18% F&B tax"
             ]
           }
         ]
@@ -1691,72 +1696,85 @@
       "venuePolicies": {
         "categories": [
           {
-            "title": "Timings & Slots",
+            "title": "Timings",
             "icon": "⏰",
             "items": [
-              "Morning: 11:00 AM - 4:00 PM",
-              "Evening: 7:00 PM - 12:00 AM"
+              "Morning: 9:00 AM – 4:00 PM",
+              "Evening: 7:00 PM – 12:00 AM",
+              "Venue closes: 12:00 AM"
             ]
           },
           {
             "title": "Changing Rooms",
             "icon": "🚪",
             "items": [
-              "A/C changing rooms available"
+              "2 complimentary AC changing rooms"
             ]
           },
           {
             "title": "Parking",
             "icon": "🚗",
             "items": [
-              "Parking space listed for about 100 vehicles",
-              "Valet provided by the venue"
+              "Parking available for 250 vehicles",
+              "Valet parking available"
             ]
           },
           {
             "title": "Cancellation",
             "icon": "❌",
             "items": [
-              "Non-cancellation listed on the main policy data",
-              "25% deposit to reserve the date"
+              "Non-cancellable"
             ]
           },
           {
             "title": "Lodging",
             "icon": "🏨",
             "items": [
-              "Not available from source"
+              "No rooms available"
             ]
           },
           {
             "title": "Food",
             "icon": "🍽️",
             "items": [
-              "Food provided by the venue",
-              "No outside food/caterer allowed (main policy listing)"
+              "Food provided by venue",
+              "Outside caterer allowed"
             ]
           },
           {
             "title": "Alcohol",
             "icon": "🍾",
             "items": [
-              "Not available from source"
+              "Alcohol allowed",
+              "Outside alcohol allowed",
+              "Corkage applicable"
             ]
           },
           {
             "title": "Decoration",
             "icon": "🎨",
             "items": [
-              "Not available from source"
+              "Decor provided by venue",
+              "Outside decorators not allowed"
+            ]
+          },
+          {
+            "title": "DJ & Music",
+            "icon": "📌",
+            "items": [
+              "Outside DJ permitted",
+              "Late-night music not allowed"
             ]
           },
           {
             "title": "Other Policies",
             "icon": "📌",
             "items": [
-              "Indoor + outdoor: 500 seating / 1,200 floating",
-              "Hall: 200 seating / 400 floating",
-              "Lawn: 300 seating / 700 floating"
+              "25% at booking",
+              "F&B tax: 18%",
+              "Baarat allowed",
+              "Hawan allowed",
+              "Overnight wedding not allowed"
             ]
           }
         ]
@@ -1842,17 +1860,19 @@
       "venuePolicies": {
         "categories": [
           {
-            "title": "Timings & Slots",
+            "title": "Timings",
             "icon": "⏰",
             "items": [
-              "Office hours listed Mon–Sun 10:00 AM - 9:00 PM (official contact page)"
+              "Morning: 11:00 AM – 4:00 PM",
+              "Evening: 7:00 PM – 12:00 AM",
+              "Venue closes: 12:00 AM"
             ]
           },
           {
             "title": "Changing Rooms",
             "icon": "🚪",
             "items": [
-              "Not available from source"
+              "1 complimentary AC changing room"
             ]
           },
           {
@@ -1866,7 +1886,7 @@
             "title": "Cancellation",
             "icon": "❌",
             "items": [
-              "Not available from source"
+              "Non-cancellable"
             ]
           },
           {
@@ -1887,14 +1907,18 @@
             "title": "Alcohol",
             "icon": "🍾",
             "items": [
-              "Not available from source"
+              "Alcohol allowed",
+              "Outside alcohol allowed",
+              "No corkage costs"
             ]
           },
           {
             "title": "Decoration",
             "icon": "🎨",
             "items": [
-              "Not available from source"
+              "Decor provided by venue",
+              "Outside decorators not allowed",
+              "Decoration starting from ₹20,000"
             ]
           },
           {
@@ -1988,67 +2012,77 @@
       "venuePolicies": {
         "categories": [
           {
-            "title": "Timings & Slots",
+            "title": "Timings",
             "icon": "⏰",
             "items": [
-              "Not available from source"
+              "Morning: 11:00 AM – 4:30 PM",
+              "Evening: 7:00 PM – 5:30 AM",
+              "Venue closes at 5:30 AM"
             ]
           },
           {
             "title": "Changing Rooms",
             "icon": "🚪",
             "items": [
-              "Not available from source"
+              "1 complimentary AC changing room"
             ]
           },
           {
             "title": "Parking",
             "icon": "🚗",
             "items": [
-              "Valet parking referenced on the official guest comments / hotel site"
+              "Parking available for 350 vehicles",
+              "Valet parking available"
             ]
           },
           {
             "title": "Cancellation",
             "icon": "❌",
             "items": [
-              "Not available from source"
-            ]
-          },
-          {
-            "title": "Lodging",
-            "icon": "🏨",
-            "items": [
-              "8 guest rooms listed"
+              "Non-cancellable"
             ]
           },
           {
             "title": "Food",
             "icon": "🍽️",
             "items": [
-              "Not available from source"
+              "Food provided by the venue",
+              "Outside food/caterer not allowed",
+              "Non-veg allowed"
             ]
           },
           {
             "title": "Alcohol",
             "icon": "🍾",
             "items": [
-              "Not available from source"
+              "Alcohol allowed at the venue",
+              "Outside alcohol not allowed",
+              "No corkage costs"
             ]
           },
           {
             "title": "Decoration",
             "icon": "🎨",
             "items": [
-              "Not available from source"
+              "Food and decor provided by the venue"
+            ]
+          },
+          {
+            "title": "DJ & Music",
+            "icon": "📌",
+            "items": [
+              "Late-night music not allowed"
             ]
           },
           {
             "title": "Other Policies",
             "icon": "📌",
             "items": [
-              "Capacity approximately 75–650/700 depending on configuration",
-              "Indoor, outdoor and terrace event spaces"
+              "50% advance at booking",
+              "F&B tax: 18%",
+              "Baarat allowed",
+              "Hawan allowed",
+              "Overnight wedding allowed"
             ]
           }
         ]
@@ -2134,68 +2168,79 @@
       "venuePolicies": {
         "categories": [
           {
-            "title": "Timings & Slots",
+            "title": "Timings",
             "icon": "⏰",
             "items": [
-              "Not available from source"
+              "Morning: 10:00 AM – 4:00 AM",
+              "Evening: 6:00 PM – 4:00 AM",
+              "Venue closes: 4:00 AM"
             ]
           },
           {
             "title": "Changing Rooms",
             "icon": "🚪",
             "items": [
-              "Not available from source"
+              "1 complimentary AC changing room"
             ]
           },
           {
             "title": "Parking",
             "icon": "🚗",
             "items": [
-              "Parking available"
+              "Parking available for up to 500 vehicles",
+              "Valet parking available"
             ]
           },
           {
             "title": "Cancellation",
             "icon": "❌",
             "items": [
-              "Not available from source"
-            ]
-          },
-          {
-            "title": "Lodging",
-            "icon": "🏨",
-            "items": [
-              "15 guest rooms listed"
+              "Cancellable",
+              "30% deduction on cancellation"
             ]
           },
           {
             "title": "Food",
             "icon": "🍽️",
             "items": [
-              "Catering available (in-house kitchen listed on the official site)"
+              "Venue-provided food",
+              "Outside caterer not allowed"
             ]
           },
           {
             "title": "Alcohol",
             "icon": "🍾",
             "items": [
-              "Not available from source"
+              "Alcohol allowed",
+              "Outside alcohol not allowed",
+              "Corkage applicable"
             ]
           },
           {
             "title": "Decoration",
             "icon": "🎨",
             "items": [
-              "Not available from source"
+              "Venue-provided decor",
+              "Outside decorators not allowed"
+            ]
+          },
+          {
+            "title": "DJ & Music",
+            "icon": "📌",
+            "items": [
+              "DJ/Music available",
+              "Late-night music not allowed"
             ]
           },
           {
             "title": "Other Policies",
             "icon": "📌",
             "items": [
-              "Capacity: 40–1,000",
-              "7 event spaces listed (IRIS, Victoria ballroom + lawn, glass house, Royal decks, and related areas)",
-              "Less than 50 pax allowed"
+              "Baarat allowed",
+              "Hawan allowed",
+              "Overnight wedding allowed",
+              "18% F&B tax",
+              "Advance payment: 100% at booking"
             ]
           }
         ]
@@ -2281,70 +2326,74 @@
       "venuePolicies": {
         "categories": [
           {
-            "title": "Timings & Slots",
+            "title": "Timings",
             "icon": "⏰",
             "items": [
-              "Not available from source"
+              "Events typically end by late night (subject to license)"
             ]
           },
           {
             "title": "Changing Rooms",
             "icon": "🚪",
             "items": [
-              "Not available from source"
+              "Guest rooms available on property",
+              "68 rooms available at the property"
             ]
           },
           {
             "title": "Parking",
             "icon": "🚗",
             "items": [
-              "Free parking"
+              "Sufficient parking available"
             ]
           },
           {
             "title": "Cancellation",
             "icon": "❌",
             "items": [
-              "Not available from source"
-            ]
-          },
-          {
-            "title": "Lodging",
-            "icon": "🏨",
-            "items": [
-              "Hotel rooms with air conditioning",
-              "Official site room pricing starts around ₹2,800/day"
+              "Flexible cancellation policies available for FlxHo stays",
+              "Event/banquet cancellation terms are subject to booking terms"
             ]
           },
           {
             "title": "Food",
             "icon": "🍽️",
             "items": [
-              "Restaurant on site"
+              "In-house catering ONLY"
             ]
           },
           {
             "title": "Alcohol",
             "icon": "🍾",
             "items": [
-              "Bar listed on the official property page"
+              "In-house alcohol not available",
+              "Outside alcohol permitted"
             ]
           },
           {
             "title": "Decoration",
             "icon": "🎨",
             "items": [
-              "Not available from source"
+              "In-house decor",
+              "Venue-managed / empanelled decoration"
+            ]
+          },
+          {
+            "title": "DJ & Music",
+            "icon": "🎵",
+            "items": [
+              "In-house DJ available",
+              "Outside DJ not permitted"
             ]
           },
           {
             "title": "Other Policies",
             "icon": "📌",
             "items": [
-              "3-star hotel",
-              "Free Wi-Fi",
-              "24-hour front desk",
-              "Wedding banquet capacity and wedding policies: Not available from source"
+              "Small functions below 50 guests are allowed",
+              "Indoor, outdoor and rooftop event spaces available",
+              "Venue has sufficient parking",
+              "Events are subject to applicable venue/licensing rules"
             ]
           }
         ]

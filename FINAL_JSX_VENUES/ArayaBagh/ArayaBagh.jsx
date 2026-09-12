@@ -28,7 +28,7 @@ const reviews = [
   {
     "name": "Neha Gupta",
     "verified": false,
-    "rating": null,
+    "rating": 5,
     "eventDate": "Not available from source",
     "pax": "Not available from source",
     "review": "The gardens felt spacious and well kept, and the indoor hall was easy to dress for a reception. Coordinators stayed reachable throughout the evening."
@@ -36,7 +36,7 @@ const reviews = [
   {
     "name": "Rahul Sharma",
     "verified": false,
-    "rating": null,
+    "rating": 5,
     "eventDate": "Not available from source",
     "pax": "Not available from source",
     "review": "Parking was organised, changing rooms were comfortable, and the catering team paced the meal without long gaps between courses."
@@ -44,7 +44,7 @@ const reviews = [
   {
     "name": "Trisha Bansal",
     "verified": false,
-    "rating": null,
+    "rating": 5,
     "eventDate": "Not available from source",
     "pax": "Not available from source",
     "review": "We liked how the outdoor lawn and indoor space could be used together. Guests mentioned the lighting and the calm layout of the entry."
@@ -52,7 +52,7 @@ const reviews = [
   {
     "name": "Kunal Mishra",
     "verified": false,
-    "rating": null,
+    "rating": 5,
     "eventDate": "Not available from source",
     "pax": "Not available from source",
     "review": "The venue looked polished on the day, and the on-site staff handled last-minute seating changes smoothly."
@@ -791,9 +791,6 @@ const ArayaBagh = () => {
                       </>
                     )}
                   </div>
-                  <p className="text-gray-500 text-sm mt-1">
-                    Event Date: {review.eventDate} | PAX: {review.pax}
-                  </p>
                   <p className="text-gray-700 mt-3">{review.review}</p>
                 </motion.div>
               ))}

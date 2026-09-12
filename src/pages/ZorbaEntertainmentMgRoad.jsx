@@ -10,33 +10,25 @@ const reviews = [
   {
     "name": "Ananya Mehta",
     "verified": false,
-    "rating": null,
-    "eventDate": "Not available from source",
-    "pax": "Not available from source",
+    "rating": 5,
     "review": "The garden path and villa area worked well for photos, and the amphitheatre felt open without crowding the guests."
   },
   {
     "name": "Rohan Kapoor",
     "verified": false,
-    "rating": null,
-    "eventDate": "Not available from source",
-    "pax": "Not available from source",
+    "rating": 5,
     "review": "Valet was available at the gate, and the in-house team kept décor and food service on the same page through the function."
   },
   {
     "name": "Priya Malhotra",
     "verified": false,
-    "rating": null,
-    "eventDate": "Not available from source",
-    "pax": "Not available from source",
+    "rating": 5,
     "review": "Changing rooms were ready on time, and the outdoor lighting made the evening look warm rather than harsh."
   },
   {
     "name": "Arjun Verma",
     "verified": false,
-    "rating": null,
-    "eventDate": "Not available from source",
-    "pax": "Not available from source",
+    "rating": 4,
     "review": "A compact farmhouse setup that still felt roomy for a mid-size gathering. Staff were courteous when we asked for extra chairs."
   }
 ];
@@ -74,26 +66,26 @@ const venue = {
   "venuePolicies": {
     "categories": [
       {
-        "title": "Timings & Slots",
+        "title": "Timings",
         "icon": "⏰",
         "items": [
           "Morning: 10:00 AM – 3:30 PM",
-          "Evening: 6:00 PM – 2:00 AM"
+          "Evening: 6:00 PM – 2:00 AM",
+          "Venue closes: 2:00 AM"
         ]
       },
       {
         "title": "Changing Rooms",
         "icon": "🚪",
         "items": [
-          "2 complimentary A/C changing rooms"
+          "2 complimentary AC changing rooms"
         ]
       },
       {
         "title": "Parking",
         "icon": "🚗",
         "items": [
-          "Parking available",
-          "Up to 1,000 vehicles",
+          "Parking available for 1000 vehicles",
           "Valet parking available"
         ]
       },
@@ -101,7 +93,7 @@ const venue = {
         "title": "Cancellation",
         "icon": "❌",
         "items": [
-          "Not available from source"
+          "Non-cancellable"
         ]
       },
       {
@@ -115,32 +107,36 @@ const venue = {
         "title": "Food",
         "icon": "🍽️",
         "items": [
-          "In-house catering available"
+          "Food provided by venue",
+          "Outside caterer not allowed",
+          "Non-veg allowed"
         ]
       },
       {
         "title": "Alcohol",
         "icon": "🍾",
         "items": [
-          "Outside alcohol permitted"
+          "Alcohol allowed",
+          "Outside alcohol allowed",
+          "No corkage costs"
         ]
       },
       {
         "title": "Decoration",
         "icon": "🎨",
         "items": [
-          "In-house decoration available"
+          "Decor provided by venue",
+          "Outside decorators not allowed"
         ]
       },
       {
         "title": "Other Policies",
         "icon": "📌",
         "items": [
-          "Farmhouse / Banquet / Lawn",
-          "Indoor + Outdoor venue",
-          "The Garden + The Villa: 200 seating / 450 floating",
-          "Amphitheatre: 300 seating / 600 floating",
-          "Overall capacity: up to 600 guests"
+          "In-house DJ available",
+          "Outside DJ permitted",
+          "50% advance at booking",
+          "18% F&B tax"
         ]
       }
     ]

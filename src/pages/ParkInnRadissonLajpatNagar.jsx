@@ -10,16 +10,12 @@ const reviews = [
     "name": "Ishita Jain",
     "verified": false,
     "rating": 5,
-    "eventDate": "Not available from source",
-    "pax": "Not available from source",
     "review": "We used this hotel for one leg of our wedding functions and walked away pleased with the outcome. Both the catering and the visual setup aligned closely with what we discussed during planning."
   },
   {
     "name": "Kabir Anand",
     "verified": false,
     "rating": 5,
-    "eventDate": "Not available from source",
-    "pax": "Not available from source",
     "review": "The interiors photograph beautifully, and booking the hall with poolside access gave us flexibility for different parts of the programme. Food quality was strong and the service team remained courteous under a busy schedule."
   }
 ];

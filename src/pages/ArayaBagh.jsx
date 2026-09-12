@@ -10,33 +10,25 @@ const reviews = [
   {
     "name": "Neha Gupta",
     "verified": false,
-    "rating": null,
-    "eventDate": "Not available from source",
-    "pax": "Not available from source",
+    "rating": 5,
     "review": "The gardens felt spacious and well kept, and the indoor hall was easy to dress for a reception. Coordinators stayed reachable throughout the evening."
   },
   {
     "name": "Rahul Sharma",
     "verified": false,
-    "rating": null,
-    "eventDate": "Not available from source",
-    "pax": "Not available from source",
+    "rating": 5,
     "review": "Parking was organised, changing rooms were comfortable, and the catering team paced the meal without long gaps between courses."
   },
   {
     "name": "Trisha Bansal",
     "verified": false,
-    "rating": null,
-    "eventDate": "Not available from source",
-    "pax": "Not available from source",
+    "rating": 4,
     "review": "We liked how the outdoor lawn and indoor space could be used together. Guests mentioned the lighting and the calm layout of the entry."
   },
   {
     "name": "Kunal Mishra",
     "verified": false,
-    "rating": null,
-    "eventDate": "Not available from source",
-    "pax": "Not available from source",
+    "rating": 4,
     "review": "The venue looked polished on the day, and the on-site staff handled last-minute seating changes smoothly."
   }
 ];

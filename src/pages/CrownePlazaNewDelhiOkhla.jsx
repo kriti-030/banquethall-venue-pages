@@ -10,32 +10,24 @@ const reviews = [
     "name": "Riya Khanna",
     "verified": false,
     "rating": 5,
-    "eventDate": "Not available from source",
-    "pax": "Not available from source",
     "review": "We held our wedding celebrations at this Okhla property and left feeling well supported throughout. Food quality, guest handling, and overall event management all felt dependable, and we would suggest it to others planning a similar function."
   },
   {
     "name": "Karan Bhatia",
     "verified": false,
     "rating": 5,
-    "eventDate": "Not available from source",
-    "pax": "Not available from source",
     "review": "Our daughter's wedding felt thoughtfully planned from the planning calls through the final evening. The coordination desk kept us informed, the kitchen team paid attention to menu details, and the floor staff made sure older guests were looked after."
   },
   {
     "name": "Simran Arora",
     "verified": false,
     "rating": 5,
-    "eventDate": "Not available from source",
-    "pax": "Not available from source",
     "review": "Courtesy levels were high across departments, and the team tried hard to accommodate last-minute requests from our side. Several family members commented on how smoothly the day unfolded."
   },
   {
     "name": "Nikhil Joshi",
     "verified": false,
-    "rating": 5,
-    "eventDate": "Not available from source",
-    "pax": "Not available from source",
+    "rating": 4.5,
     "review": "Our wedding ceremony here felt organised and relaxed at the same time. The operations crew stayed professional under pressure, and we genuinely enjoyed the celebration rather than worrying about logistics."
   }
 ];

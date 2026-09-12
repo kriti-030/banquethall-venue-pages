@@ -11,32 +11,24 @@ const reviews = [
     "name": "Diya Saxena",
     "verified": false,
     "rating": 5,
-    "eventDate": "Not available from source",
-    "pax": "Not available from source",
     "review": "The hotel has a clean, welcoming look and works well for a wedding-style function. What stood out most for us was how calmly and respectfully the staff interacted with our family."
   },
   {
     "name": "Yash Tripathi",
     "verified": false,
     "rating": 5,
-    "eventDate": "Not available from source",
-    "pax": "Not available from source",
     "review": "Our ring ceremony went off without unnecessary delays. The function room was in good shape, courses arrived on schedule, and the on-site team stayed helpful whenever we needed something adjusted."
   },
   {
     "name": "Aanya Bedi",
     "verified": false,
     "rating": 4.5,
-    "eventDate": "Not available from source",
-    "pax": "Not available from source",
     "review": "A sensible choice for a medium-sized celebration in South Delhi. Saket is easy for most guests to reach, and the in-house menu offered enough variety for our crowd."
   },
   {
     "name": "Siddharth Rao",
     "verified": false,
     "rating": 5,
-    "eventDate": "Not available from source",
-    "pax": "Not available from source",
     "review": "We booked rooms and a small function for visiting relatives, and both parts worked out comfortably. Guest rooms were tidy, staff were courteous, and the programme moved along in an organised way."
   }
 ];

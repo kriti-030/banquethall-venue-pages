@@ -9,33 +9,25 @@ const reviews = [
   {
     "name": "Shreya Kulkarni",
     "verified": false,
-    "rating": 4.5,
-    "eventDate": "Not available from source",
-    "pax": "Not available from source",
+    "rating": 5,
     "review": "Meals and guest service were both standouts for us. Guest rooms felt roomy and tastefully done, the event spaces can be dressed up in different styles, and the Gurgaon location was practical for relatives travelling from multiple directions."
   },
   {
     "name": "Aryan Seth",
     "verified": false,
-    "rating": 4,
-    "eventDate": "Not available from source",
-    "pax": "Not available from source",
+    "rating": 5,
     "review": "We booked the hotel for a multi-day wedding schedule and most of our party stayed on property. Bedrooms were comfortable, presentations during functions looked neat, and the operations team kept the programme moving without confusion."
   },
   {
     "name": "Nandini Bose",
     "verified": false,
     "rating": 4.5,
-    "eventDate": "Not available from source",
-    "pax": "Not available from source",
     "review": "Dining and floor service exceeded our expectations, and the overall mood of the venue suited a formal celebration well. Some areas of the building show their age, but the team still delivered a largely smooth function."
   },
   {
     "name": "Vivek Chauhan",
     "verified": false,
     "rating": 5,
-    "eventDate": "Not available from source",
-    "pax": "Not available from source",
     "review": "For our stay-in wedding, this hotel checked nearly every box. Relatives praised the buffet across both days, staff were generous with their time, and the décor team translated our theme nicely from the engagement through the haldi and main ceremony."
   }
 ];

@@ -291,9 +291,9 @@ const VenuePage = ({ venue, images, reviews }) => {
                 >
                   <div className="flex items-center space-x-3 flex-wrap gap-2">
                     <span className="text-lg font-semibold text-gray-900">{review.name}</span>
-                    {review.verified && (
-                      <span className="bg-blue-500 text-white px-2 py-1 text-xs rounded-full">
-                        ✓ Verified
+                    {review.verified === true && (
+                      <span className="bg-green-500 text-white px-2 py-1 text-xs rounded-full">
+                        Verified Guest
                       </span>
                     )}
                     {review.rating != null && (
@@ -305,9 +305,6 @@ const VenuePage = ({ venue, images, reviews }) => {
                       </>
                     )}
                   </div>
-                  <p className="text-gray-500 text-sm mt-1">
-                    Event Date: {review.eventDate} | PAX: {review.pax}
-                  </p>
                   <p className="text-gray-700 mt-3">{review.review}</p>
                 </motion.div>
               ))}

@@ -9,32 +9,24 @@ const reviews = [
     "name": "Meera Iyer",
     "verified": false,
     "rating": 5,
-    "eventDate": "Not available from source",
-    "pax": "Not available from source",
     "review": "From the moment we arrived, the property felt ready for a large celebration. Service teams were alert, the setup looked refined, and the meal service was one of the highlights of the evening."
   },
   {
     "name": "Sahil Khurana",
     "verified": false,
     "rating": 4.5,
-    "eventDate": "Not available from source",
-    "pax": "Not available from source",
     "review": "We booked the hotel for our main wedding function and the atmosphere on the day was exactly what we hoped for. Lighting, décor, and dining all came together nicely, and the front desk team remained approachable throughout."
   },
   {
     "name": "Divya Nair",
     "verified": false,
     "rating": 5,
-    "eventDate": "Not available from source",
-    "pax": "Not available from source",
     "review": "With around three hundred guests, we needed both a banquet hall and an outdoor mandap area, and the layout handled the crowd comfortably. Food and guest care were strong points for us."
   },
   {
     "name": "Varun Desai",
     "verified": false,
-    "rating": 5,
-    "eventDate": "Not available from source",
-    "pax": "Not available from source",
+    "rating": 4,
     "review": "Our wedding reception here felt lively and well managed. The in-house kitchen impressed our friends and relatives, and the service staff kept the energy positive all evening."
   }
 ];

@@ -28,7 +28,7 @@ const reviews = [
   {
     "name": "Sneha Reddy",
     "verified": false,
-    "rating": null,
+    "rating": 5,
     "eventDate": "Not available from source",
     "pax": "Not available from source",
     "review": "The lawns felt open and green, with enough space to move between the stage and dining area without a squeeze."
@@ -36,7 +36,7 @@ const reviews = [
   {
     "name": "Aditya Bansal",
     "verified": false,
-    "rating": null,
+    "rating": 5,
     "eventDate": "Not available from source",
     "pax": "Not available from source",
     "review": "Parking on site made drop-off simple. The hall and lawn pairing worked for a daytime function followed by dinner."
@@ -44,7 +44,7 @@ const reviews = [
   {
     "name": "Kavya Joshi",
     "verified": false,
-    "rating": null,
+    "rating": 5,
     "eventDate": "Not available from source",
     "pax": "Not available from source",
     "review": "A calm outdoor setting for a family gathering. Staff were polite and kept the service counters stocked through the evening."
@@ -52,7 +52,7 @@ const reviews = [
   {
     "name": "Manish Tandon",
     "verified": false,
-    "rating": null,
+    "rating": 5,
     "eventDate": "Not available from source",
     "pax": "Not available from source",
     "review": "The property looked well maintained, and guests commented on how easy it was to find seating after the ceremony."
@@ -73,8 +73,8 @@ const venue = {
   "cityLocality": "Asiad Tower, Khel Gaon, New Delhi",
   "address": "Asiad Tower Banquets Complex, Khel Gaon, New Delhi, Delhi 110049, India",
   "phone": "+91-8375967071",
-  "rating": null,
-  "reviewCount": null,
+  "rating": 3.8,
+  "reviewCount": 10,
   "tags": [
     "Banquet & lawns"
   ],
@@ -91,17 +91,19 @@ const venue = {
   "venuePolicies": {
     "categories": [
       {
-        "title": "Timings & Slots",
+        "title": "Timings",
         "icon": "⏰",
         "items": [
-          "Office hours listed Mon–Sun 10:00 AM - 9:00 PM (official contact page)"
+          "Morning: 11:00 AM – 4:00 PM",
+          "Evening: 7:00 PM – 12:00 AM",
+          "Venue closes: 12:00 AM"
         ]
       },
       {
         "title": "Changing Rooms",
         "icon": "🚪",
         "items": [
-          "Not available from source"
+          "1 complimentary AC changing room"
         ]
       },
       {
@@ -115,7 +117,7 @@ const venue = {
         "title": "Cancellation",
         "icon": "❌",
         "items": [
-          "Not available from source"
+          "Non-cancellable"
         ]
       },
       {
@@ -136,14 +138,18 @@ const venue = {
         "title": "Alcohol",
         "icon": "🍾",
         "items": [
-          "Not available from source"
+          "Alcohol allowed",
+          "Outside alcohol allowed",
+          "No corkage costs"
         ]
       },
       {
         "title": "Decoration",
         "icon": "🎨",
         "items": [
-          "Not available from source"
+          "Decor provided by venue",
+          "Outside decorators not allowed",
+          "Decoration starting from ₹20,000"
         ]
       },
       {
@@ -780,9 +786,6 @@ const JhankarBanquets = () => {
                       </>
                     )}
                   </div>
-                  <p className="text-gray-500 text-sm mt-1">
-                    Event Date: {review.eventDate} | PAX: {review.pax}
-                  </p>
                   <p className="text-gray-700 mt-3">{review.review}</p>
                 </motion.div>
               ))}

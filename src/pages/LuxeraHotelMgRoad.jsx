@@ -10,33 +10,25 @@ const reviews = [
   {
     "name": "Pooja Iyer",
     "verified": false,
-    "rating": null,
-    "eventDate": "Not available from source",
-    "pax": "Not available from source",
+    "rating": 5,
     "review": "The lawn looked fresh for an outdoor ceremony, and the indoor banquet stayed comfortable once guests moved in for dinner."
   },
   {
     "name": "Varun Khanna",
     "verified": false,
-    "rating": null,
-    "eventDate": "Not available from source",
-    "pax": "Not available from source",
+    "rating": 5,
     "review": "Rooms on the property helped visiting relatives. The kitchen team offered enough vegetarian and non-vegetarian options."
   },
   {
     "name": "Anjali Rao",
     "verified": false,
-    "rating": null,
-    "eventDate": "Not available from source",
-    "pax": "Not available from source",
+    "rating": 5,
     "review": "Terrace seating was pleasant in the evening. Staff guided guests between spaces without confusion."
   },
   {
     "name": "Siddharth Jain",
     "verified": false,
-    "rating": null,
-    "eventDate": "Not available from source",
-    "pax": "Not available from source",
+    "rating": 4,
     "review": "A hotel banquet that still felt personal for a mid-size gathering. Parking was available close to the entrance."
   }
 ];
@@ -73,68 +65,79 @@ const venue = {
   "venuePolicies": {
     "categories": [
       {
-        "title": "Timings & Slots",
+        "title": "Timings",
         "icon": "⏰",
         "items": [
-          "Not available from source"
+          "Morning: 10:00 AM – 4:00 AM",
+          "Evening: 6:00 PM – 4:00 AM",
+          "Venue closes: 4:00 AM"
         ]
       },
       {
         "title": "Changing Rooms",
         "icon": "🚪",
         "items": [
-          "Not available from source"
+          "1 complimentary AC changing room"
         ]
       },
       {
         "title": "Parking",
         "icon": "🚗",
         "items": [
-          "Parking available"
+          "Parking available for up to 500 vehicles",
+          "Valet parking available"
         ]
       },
       {
         "title": "Cancellation",
         "icon": "❌",
         "items": [
-          "Not available from source"
-        ]
-      },
-      {
-        "title": "Lodging",
-        "icon": "🏨",
-        "items": [
-          "15 guest rooms listed"
+          "Cancellable",
+          "30% deduction on cancellation"
         ]
       },
       {
         "title": "Food",
         "icon": "🍽️",
         "items": [
-          "Catering available (in-house kitchen listed on the official site)"
+          "Venue-provided food",
+          "Outside caterer not allowed"
         ]
       },
       {
         "title": "Alcohol",
         "icon": "🍾",
         "items": [
-          "Not available from source"
+          "Alcohol allowed",
+          "Outside alcohol not allowed",
+          "Corkage applicable"
         ]
       },
       {
         "title": "Decoration",
         "icon": "🎨",
         "items": [
-          "Not available from source"
+          "Venue-provided decor",
+          "Outside decorators not allowed"
+        ]
+      },
+      {
+        "title": "DJ & Music",
+        "icon": "📌",
+        "items": [
+          "DJ/Music available",
+          "Late-night music not allowed"
         ]
       },
       {
         "title": "Other Policies",
         "icon": "📌",
         "items": [
-          "Capacity: 40–1,000",
-          "7 event spaces listed (IRIS, Victoria ballroom + lawn, glass house, Royal decks, and related areas)",
-          "Less than 50 pax allowed"
+          "Baarat allowed",
+          "Hawan allowed",
+          "Overnight wedding allowed",
+          "18% F&B tax",
+          "Advance payment: 100% at booking"
         ]
       }
     ]

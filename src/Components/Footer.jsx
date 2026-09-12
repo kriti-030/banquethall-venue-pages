@@ -48,29 +48,35 @@ const Footer = () => {
           <h3 className="text-lg font-semibold mb-4">Company</h3>
           <ul className="space-y-2">
             <li>
-              <a
-                href={MAIN_WEBSITE_URL}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="hover:text-blue-400"
-              >
+              <NavLink to="/" className="hover:text-blue-400">
                 Home
-              </a>
+              </NavLink>
             </li>
-            <li><NavLink to="/WhyUs" className="hover:text-blue-400">Why Us</NavLink></li>
             <li>
-              <a
-                href={MAIN_WEBSITE_URL}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="hover:text-blue-400"
-              >
-                Venues
-              </a>
+              <NavLink to="/why-us" className="hover:text-blue-400">
+                Why Us
+              </NavLink>
             </li>
-            <li><NavLink to="/Testimonials" className="hover:text-blue-400">Testimonials</NavLink></li>
-            <li><NavLink to="/Terms" className="hover:text-blue-400">Terms & Conditions</NavLink></li>
-            <li><NavLink to="/Privacy" className="hover:text-blue-400">Privacy Policy</NavLink></li>
+            <li>
+              <NavLink to="/venues" className="hover:text-blue-400">
+                Venues
+              </NavLink>
+            </li>
+            <li>
+              <NavLink to="/testimonials" className="hover:text-blue-400">
+                Testimonials
+              </NavLink>
+            </li>
+            <li>
+              <NavLink to="/terms-and-conditions" className="hover:text-blue-400">
+                Terms & Conditions
+              </NavLink>
+            </li>
+            <li>
+              <NavLink to="/privacy-policy" className="text-blue-400 hover:text-blue-400">
+                Privacy Policy
+              </NavLink>
+            </li>
           </ul>
         </div>
         <div>

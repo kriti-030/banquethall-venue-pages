@@ -10,32 +10,24 @@ const reviews = [
     "name": "Tanvi Goel",
     "verified": false,
     "rating": 5,
-    "eventDate": "Not available from source",
-    "pax": "Not available from source",
     "review": "Our daughter's wedding ran like clockwork from the very first hour. Timings were respected, the menu was a hit with relatives, and the front-of-house team stayed attentive even when guest numbers ran higher than planned. Refreshments during the ceremony were handled smoothly, and parking was managed without stress."
   },
   {
     "name": "Harsh Vardhan",
     "verified": false,
     "rating": 5,
-    "eventDate": "Not available from source",
-    "pax": "Not available from source",
     "review": "I attended a friend's wedding at this hotel and came away really impressed. The presentation of the hall and the quality of the meal service both felt polished and well coordinated."
   },
   {
     "name": "Pooja Nanda",
     "verified": false,
-    "rating": 5,
-    "eventDate": "Not available from source",
-    "pax": "Not available from source",
+    "rating": 4,
     "review": "Decor, cuisine, and on-ground coordination all came together neatly for our function. The event coordinator assigned to us was responsive and handled requests in a calm, professional way."
   },
   {
     "name": "Mohit Ahuja",
     "verified": false,
-    "rating": 5,
-    "eventDate": "Not available from source",
-    "pax": "Not available from source",
+    "rating": 4,
     "review": "We hosted a corporate-family gathering here recently and the experience was largely hassle-free. The banquet space was ready on time, service was steady, and the food suited our group well."
   }
 ];

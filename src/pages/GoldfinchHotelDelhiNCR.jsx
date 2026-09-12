@@ -10,24 +10,18 @@ const reviews = [
     "name": "Isha Tandon",
     "verified": false,
     "rating": 5,
-    "eventDate": "Not available from source",
-    "pax": "Not available from source",
     "review": "Our sangeet night went better than we expected. The events desk stayed involved in small details, serving staff were sufficient for our guest list, and both the catering and stage styling looked polished."
   },
   {
     "name": "Manav Bajaj",
     "verified": false,
-    "rating": 5,
-    "eventDate": "Not available from source",
-    "pax": "Not available from source",
+    "rating": 4,
     "review": "We joined a wedding here as guests and noticed how quickly the team responded to requests on the floor. Everything from seating to meal rounds felt organised, and we would consider it for our own function."
   },
   {
     "name": "Kavya Menon",
     "verified": false,
-    "rating": 5,
-    "eventDate": "Not available from source",
-    "pax": "Not available from source",
+    "rating": 4,
     "review": "I remember visiting when the property operated under an earlier brand name, and my cousin's engagement was handled warmly. Food, décor, and general hospitality all left a good impression on our family."
   }
 ];

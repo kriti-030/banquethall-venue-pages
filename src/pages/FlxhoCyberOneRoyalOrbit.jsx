@@ -10,33 +10,25 @@ const reviews = [
   {
     "name": "Meera Kapoor",
     "verified": false,
-    "rating": null,
-    "eventDate": "Not available from source",
-    "pax": "Not available from source",
+    "rating": 5,
     "review": "Rooms were tidy and the lobby felt easy to wait in after check-in. Front desk staff answered questions without a delay."
   },
   {
     "name": "Karan Nanda",
     "verified": false,
-    "rating": null,
-    "eventDate": "Not available from source",
-    "pax": "Not available from source",
+    "rating": 5,
     "review": "Free parking near the building was convenient, and Wi-Fi in the room stayed stable through the evening."
   },
   {
     "name": "Nisha Bedi",
     "verified": false,
-    "rating": null,
-    "eventDate": "Not available from source",
-    "pax": "Not available from source",
+    "rating": 5,
     "review": "The restaurant was a practical option after a long day. Air conditioning in the room made the stay comfortable."
   },
   {
     "name": "Rohit Saxena",
     "verified": false,
-    "rating": null,
-    "eventDate": "Not available from source",
-    "pax": "Not available from source",
+    "rating": 4,
     "review": "A compact hotel close to the metro. Check-in was quick, and the room was ready as promised."
   }
 ];
@@ -73,70 +65,74 @@ const venue = {
   "venuePolicies": {
     "categories": [
       {
-        "title": "Timings & Slots",
+        "title": "Timings",
         "icon": "⏰",
         "items": [
-          "Not available from source"
+          "Events typically end by late night (subject to license)"
         ]
       },
       {
         "title": "Changing Rooms",
         "icon": "🚪",
         "items": [
-          "Not available from source"
+          "Guest rooms available on property",
+          "68 rooms available at the property"
         ]
       },
       {
         "title": "Parking",
         "icon": "🚗",
         "items": [
-          "Free parking"
+          "Sufficient parking available"
         ]
       },
       {
         "title": "Cancellation",
         "icon": "❌",
         "items": [
-          "Not available from source"
-        ]
-      },
-      {
-        "title": "Lodging",
-        "icon": "🏨",
-        "items": [
-          "Hotel rooms with air conditioning",
-          "Official site room pricing starts around ₹2,800/day"
+          "Flexible cancellation policies available for FlxHo stays",
+          "Event/banquet cancellation terms are subject to booking terms"
         ]
       },
       {
         "title": "Food",
         "icon": "🍽️",
         "items": [
-          "Restaurant on site"
+          "In-house catering ONLY"
         ]
       },
       {
         "title": "Alcohol",
         "icon": "🍾",
         "items": [
-          "Bar listed on the official property page"
+          "In-house alcohol not available",
+          "Outside alcohol permitted"
         ]
       },
       {
         "title": "Decoration",
         "icon": "🎨",
         "items": [
-          "Not available from source"
+          "In-house decor",
+          "Venue-managed / empanelled decoration"
+        ]
+      },
+      {
+        "title": "DJ & Music",
+        "icon": "🎵",
+        "items": [
+          "In-house DJ available",
+          "Outside DJ not permitted"
         ]
       },
       {
         "title": "Other Policies",
         "icon": "📌",
         "items": [
-          "3-star hotel",
-          "Free Wi-Fi",
-          "24-hour front desk",
-          "Wedding banquet capacity and wedding policies: Not available from source"
+          "Small functions below 50 guests are allowed",
+          "Indoor, outdoor and rooftop event spaces available",
+          "Venue has sufficient parking",
+          "Events are subject to applicable venue/licensing rules"
         ]
       }
     ]

@@ -17,7 +17,7 @@ const Home = () => {
             Local project for preparing venue JSX pages. This is not connected to banquethall.co.
           </p>
           <NavLink
-            to="/Venues"
+            to="/venues"
             className="inline-block bg-red-600 text-white px-6 py-3 rounded-md font-semibold hover:bg-red-700"
           >
             Browse Venues
